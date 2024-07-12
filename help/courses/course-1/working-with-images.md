@@ -1,11 +1,11 @@
 ---
-title: Arbeiten mit Bildern in AEM Handbüchern
-description: Arbeiten mit Bildern in Adobe Experience Manager-Handbüchern
+title: Arbeiten mit Bildern in AEM Guides
+description: Arbeiten mit Bildern in Adobe Experience Manager Guides
 exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 source-git-commit: 1f8fe099be2b4123eec6f7c973668b415097ac45
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 Im Folgenden erfahren Sie, wie Sie ein Bild hochladen und einfügen sowie eine neue Version eines Themas speichern.
 
-Sie können die Beispielbilddatei von [hier.](assets/working-with-images/SignInScreen.png)
+Sie können die Beispielbilddatei von [hier](assets/working-with-images/SignInScreen.png) herunterladen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
@@ -21,17 +21,17 @@ Sie können die Beispielbilddatei von [hier.](assets/working-with-images/SignInS
 
 1. Bewegen Sie den Mauszeiger über den Unterordner und wählen Sie das Auslassungssymbol aus, um das Menü &quot;Optionen&quot;zu öffnen.
 
-   ![Ellipsensymbol](images/lesson-4/ellipses.png)
+   ![Ellipsesymbol](images/lesson-4/ellipses.png)
 
-1. Auswählen **[!UICONTROL Hochladen von Assets]**.
+1. Wählen Sie **[!UICONTROL Assets hochladen]** aus.
 
    ![Assets hochladen](images/lesson-4/upload-assets.png)
 
-1. Wählen Sie das Bild aus, das Sie von Ihrem lokalen System hochladen möchten, und wählen Sie **Öffnen**.
+1. Wählen Sie das Bild aus, das Sie von Ihrem lokalen System hochladen möchten, und wählen Sie **Öffnen** aus.
 
-   Die [!UICONTROL Hochladen von Assets] angezeigt.
+   Das Dialogfeld [!UICONTROL Assets hochladen] wird angezeigt.
 
-1. Wählen Sie **Hochladen**.
+1. Wählen Sie **Upload** aus.
 
 ## Einfügen eines Bildes in ein Thema
 
@@ -49,27 +49,27 @@ Stellen Sie für Folgendes sicher, dass Ihr Thema im Dokumenteditor geöffnet is
 
 ### Einfügen eines Bildes mit der Schaltfläche &quot;Bild einfügen&quot;
 
-1. Wählen Sie die **Bild einfügen** Symbol.
+1. Wählen Sie das Symbol **Bild einfügen** aus.
 
    ![Symbol &quot;Bild einfügen&quot;](images/lesson-4/insert-image.png)
 
    Das Dialogfeld Bild einfügen wird angezeigt.
 
 1. Wählen Sie das Ordnersymbol neben dem Feld Datei auswählen aus, um nach Ihrem Bild zu suchen oder zu dessen Speicherort im Repository zu navigieren.
-1. Wählen Sie das Bildsymbol und dann **Auswählen**.
+1. Wählen Sie das Bildsymbol und dann **Auswählen** aus.
 
    ![Bild auswählen](images/lesson-4/select-image-with-markings.png)
 
    Das Dialogfeld Bild einfügen wird mit den Informationen des ausgewählten Bildes angezeigt.
 
 1. Geben Sie bei Bedarf Text in die Felder &quot;Titel der Abbildung&quot;und &quot;Alternativtext&quot;ein.
-1. Auswählen **Einfügen**.
+1. Wählen Sie **Einfügen** aus.
 
    Das Bild wird zusammen mit dem Titel der Abbildung im Editor angezeigt.
 
 ## Entfernen eines Bildes aus einem Thema
 
-1. Wählen Sie das Bild im Dokumenteditor aus und drücken Sie die **Löschen** Schlüssel.
+1. Wählen Sie das Bild im Dokumenteditor aus und drücken Sie die Taste **Löschen**.
 
 ## Speichern einer neuen Version eines Themas
 
@@ -77,11 +77,11 @@ Mit der Versionierung können Sie verschiedene Versionen überprüfen und vergle
 
 Da Sie eine wichtige Änderung an Ihrem Thema vorgenommen haben, kann es jetzt nützlich sein, Ihre aktuelle Arbeit als neue Version zu speichern.
 
-1. Wählen Sie die **Als neue Version speichern** Symbol.
+1. Wählen Sie das Symbol **Als neue Version speichern** aus.
 
    ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
 
-   Die **Als neue Version speichern** angezeigt.
+   Das Dialogfeld **Als neue Version speichern** wird angezeigt.
 
 1. Geben Sie im Feld Kommentare für neue Version eine kurze, aber klare Zusammenfassung der Änderungen ein.
 1. Geben Sie im Feld Versionsbezeichnungen alle relevanten Bezeichnungen ein.

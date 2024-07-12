@@ -5,7 +5,7 @@ exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 source-git-commit: 6959927315c7afc62a7423e835a36895c76fdc6d
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,17 +17,17 @@ Sobald Sie sich mit der Benutzeroberfläche vertraut gemacht haben, können Sie 
 
 ## Ordner erstellen
 
-1. Wählen Sie die **Repository** -Symbol, um Ihre Ordner und Dateien anzuzeigen.
+1. Wählen Sie das Symbol **Repository** aus, um Ihre Ordner und Dateien anzuzeigen.
 
    ![Repository-Symbol](images/common/repository-icon.png)
 
-1. Wählen Sie die **+** Symbol und **Ordner**.
+1. Wählen Sie das Symbol **+** und **Ordner** aus.
 
-   ![+ icon](images/lesson-3/+-icon.png)
+   ![+-Symbol](images/lesson-3/+-icon.png)
 
 1. Geben Sie dem Ordner einen Titel.
-1. Wählen Sie **Erstellen**.
-Sie haben einen neuen Ordner erstellt, der jetzt im Repository angezeigt wird. Dieser Ordner wird Ihr Zuhause für alle Kursinhalte sein.
+1. Wählen Sie **Erstellen** aus.
+Sie haben einen neuen Ordner erstellt, der jetzt im Repository angezeigt wird. Dieser Ordner wird für alle Kursinhalte zu Hause sein.
 
 ## Erstellen eines Unterordners
 
@@ -35,34 +35,34 @@ Jetzt können wir einen Ordner in Ihrem neuen Ordner erstellen, der Bilder oder 
 
 1. Bewegen Sie den Mauszeiger über den neuen Ordner im Repository und wählen Sie das angezeigte Auslassungssymbol aus.
 
-   ![Ellipsensymbol](images/lesson-3/ellipses-icon.png)
+   ![Ellipsesymbol](images/lesson-3/ellipses-icon.png)
 
    Das Menü Optionen wird angezeigt.
 
-1. Auswählen **Erstellen von \> Ordner**.
+1. Wählen Sie **Erstellen \> Ordner** aus.
    ![Erstellen eines Unterordners](images/lesson-3/create-subfolder-with-markings.png)
 
-1. Geben Sie dem Unterordner einen Titel (z. B. &quot;images&quot;) und wählen Sie **Erstellen**.
+1. Geben Sie dem Unterordner einen Titel (z. B. &quot;Bilder&quot;) und wählen Sie **Erstellen** aus.
 
 ## Erstellen und Ausfüllen eines neuen Konzepts
 
 1. Bewegen Sie den Mauszeiger über den übergeordneten Ordner im Repository und wählen Sie das Auslassungssymbol aus.
 
-   ![Ellipsensymbol](images/lesson-3/ellipses-icon.png)
+   ![Ellipsesymbol](images/lesson-3/ellipses-icon.png)
 
    Das Menü Optionen wird angezeigt.
 
-1. Auswählen **Erstellen \> Thema**.
+1. Wählen Sie **Thema erstellen \> Thema** aus.
 
-   ![Neues Thema erstellen](images/lesson-3/create-topic-with-markings.png)
+   ![Erstellen eines neuen Themas](images/lesson-3/create-topic-with-markings.png)
 
    Das Dialogfeld Neues Thema erstellen wird angezeigt.
 
-1. Wählen Sie im Dropdown-Menü Vorlage im Dialogfeld die Option **Konzept**.
+1. Wählen Sie im Dropdown-Menü Vorlage im Dialogfeld **Konzept** aus.
 
-   ![Vorlagen-Dropdown](images/lesson-3/dropdown-with-markings.png)
+   ![Vorlagen-Dropdown-Liste](images/lesson-3/dropdown-with-markings.png)
 
-1. Geben Sie Ihrem Konzept einen Titel und wählen Sie **Erstellen**.
+1. Geben Sie Ihrem Konzept einen Titel und wählen Sie **Erstellen** aus.
 
    Das neue Konzept wird im Editor angezeigt und mit dem Titel gefüllt.
 
@@ -76,13 +76,13 @@ Sie können Ihre Arbeit jederzeit mit Speichern oder als neue Version speichern.
 
 ### Speichern Ihrer Arbeit ohne Versionierung
 
-1. Wählen Sie die **Speichern** Symbol.
+1. Wählen Sie das Symbol **Speichern** aus.
 
    ![Symbol &quot;Speichern&quot;](images/common/save.png)
 
 ### Als neue Version speichern
 
-1. Wählen Sie die **Als neue Version speichern** rechts neben dem Symbol Speichern.
+1. Wählen Sie rechts neben dem Symbol &quot;Speichern&quot;das Symbol &quot;**Als neue Version speichern**&quot;.
 
    ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
 

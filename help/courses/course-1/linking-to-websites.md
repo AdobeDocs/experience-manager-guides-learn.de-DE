@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # Verknüpfen mit Websites
 
-Über Web-Links werden Leser zu Websites weitergeleitet, auf denen sie weitere Informationen erhalten, mit externen Inhalten interagieren oder auf herunterladbare Dateien zugreifen können. In den folgenden Schritten wird erläutert, wie Sie einem vorhandenen Konzept einen Web-Link hinzufügen können.
+Über Web-Links werden Leser zu Websites weitergeleitet, auf denen sie weitere Informationen erhalten, mit externen Inhalten interagieren oder auf herunterladbare Dateien zugreifen können. In den folgenden Schritten wird erläutert, wie Sie einem vorhandenen Konzept einen Web-Link hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336656?quality=12&learn=on)
 
@@ -21,15 +21,15 @@ ht-degree: 1%
 1. Fügen Sie Ihrem Konzept eine Textzeichenfolge hinzu und markieren Sie es oder markieren Sie vorhandenen Text Ihrer Wahl.
 
    In diesem hervorgehobenen Text wird der Link eingefügt.
-1. Wählen Sie die **Querverweis einfügen** in der Symbolleiste.
+1. Wählen Sie in der Symbolleiste die Schaltfläche **Querverweis einfügen** aus.
 
    ![Symbol &quot;Querverweis einfügen&quot;](images/lesson-5/insert-crossref-icon.png)
 
    Das Dialogfeld &quot;Referenz&quot;wird angezeigt.
 
 
-1. Auswählen **Weblink** über das Menü links.
-1. Fügen Sie die gewünschte URL ein und klicken Sie auf **Auswählen**.
+1. Wählen Sie im linken Menü **Web-Link** aus.
+1. Fügen Sie die gewünschte URL ein und klicken Sie dann auf **Auswählen**.
 
    Der Link ist funktionsfähig und öffnet eine Webseite in einem neuen Browser-Tab, wenn darauf geklickt wird.
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 Über die Schaltfläche Vorschau können Sie eine Vorschau eines Themas anzeigen. Hier können Sie Ihre Links testen und so anzeigen, wie es Ihre Zielgruppe tun würde.
 
-1. Auswählen **Vorschau** aus der oberen schwarzen Menüleiste.
+1. Wählen Sie in der oberen schwarzen Menüleiste **Vorschau** aus.
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 1. Wählen Sie Ihren Link aus.
 Das Link-Ziel wird auf einer anderen Registerkarte geöffnet.
-1. Zur Autorenansicht zurückkehren, indem Sie **Autor** aus der oberen schwarzen Menüleiste.
+1. Kehren Sie zur Autorenansicht zurück, indem Sie in der oberen schwarzen Menüleiste **Autor** auswählen.
 
    ![Autorenschaltfläche](images/lesson-5/author-map.png)
 
@@ -54,7 +54,7 @@ Das Link-Ziel wird auf einer anderen Registerkarte geöffnet.
 
 Nachdem Sie Ihrem Konzept nun mehr Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie die **Als neue Version speichern** Symbol.
+1. Wählen Sie das Symbol **Als neue Version speichern** aus.
 
    ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
 

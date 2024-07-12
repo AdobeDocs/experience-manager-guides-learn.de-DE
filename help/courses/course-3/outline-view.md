@@ -1,6 +1,6 @@
 ---
 title: Gliederungsansicht
-description: Verwenden der Linienansicht in AEM Handbüchern
+description: Verwenden der Gliederungsansicht in AEM Guides
 exl-id: 300f550f-dc79-4971-b8ba-43fe8499ea02
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -21,9 +21,9 @@ Elemente können erweitert werden, um untergeordnete Elemente anzuzeigen, oder s
 
 1. Klicken Sie auf das entsprechende Symbol, um die Linienansicht zu erweitern oder zu reduzieren.
 
-   ![Referenzumriss](images/lesson-6/outline-collapsed-before.png)
+   ![Referenz - Umriss](images/lesson-6/outline-collapsed-before.png)
 
-   ![Unterregisterkarten für Referenzentwürfe](images/lesson-6/outline-expanded-after.png)
+   ![Unterregisterkarten für Referenzentwürfe ](images/lesson-6/outline-expanded-after.png)
 
 Die Umrissansicht wechselt von &quot;erweitert&quot;zu &quot;reduziert&quot;.
 
@@ -31,7 +31,7 @@ Die Umrissansicht wechselt von &quot;erweitert&quot;zu &quot;reduziert&quot;.
 
 1. Klicken Sie auf ein beliebiges Element, um zu diesem Speicherort zu springen.
 
-1. Klicken Sie auf [!UICONTROL **Ellipse**] neben einem Element, um auf die Verknüpfungsoptionen zuzugreifen.
+1. Klicken Sie auf die Schaltfläche [!UICONTROL **Auslassungspunkte**] neben einem Element, um auf Verknüpfungsoptionen zuzugreifen.
 
    ![Kontextmenü](images/lesson-6/shortcut-options.png)
 
@@ -39,11 +39,11 @@ Die Umrissansicht wechselt von &quot;erweitert&quot;zu &quot;reduziert&quot;.
 
 Eine neue ID kann automatisch basierend auf der Systemkonfiguration generiert werden. Mithilfe der Inhaltseigenschaften können die ID und ihr Wert bei Bedarf ebenfalls aktualisiert werden.
 
-1. Klicken Sie auf [!UICONTROL **Ellipse**] neben einem beliebigen Element.
+1. Klicken Sie neben einem beliebigen Element auf die Schaltfläche [!UICONTROL **Auslassungspunkte**].
 
-1. Auswählen **IDs generieren**.
+1. Wählen Sie **IDs generieren** aus.
 
-   ![Kontextmenü für Auslassungen](images/lesson-6/ellipsis-popup.png)
+   ![Kontextmenü für Auslassungspunkte](images/lesson-6/ellipsis-popup.png)
 
 Die ID wird zugewiesen. Die Inhaltseigenschaften werden aktualisiert und Element- und Attributinformationen werden angezeigt.
 
@@ -55,7 +55,7 @@ Elemente können in der Gliederung neu angeordnet werden.
 
 1. Ziehen Sie das Element auf ein anderes Element, um es zu ersetzen. Diese Aktion wird durch ein eckiges Feld um das zu ersetzende Element angezeigt.
 
-   Oder
+   oder
 
    Legen Sie das Element zwischen zwei anderen Elementen ab, um seine Position zu ändern. Diese Aktion wird durch eine Linie zwischen Elementen angezeigt, in denen das neue Element abgelegt wird.
 
@@ -63,9 +63,9 @@ Elemente können in der Gliederung neu angeordnet werden.
 
 1. Wählen Sie das Element aus.
 
-1. Klicken Sie auf [!UICONTROL **Ellipse**].
+1. Klicken Sie auf die Ellipse **].[!UICONTROL **
 
-1. Auswählen **Element umbenennen**.
+1. Wählen Sie **Element umbenennen** aus.
 
    ![Element-Kontextmenü umbenennen](images/lesson-6/rename-before.png)
 
@@ -77,19 +77,19 @@ Das Element wurde jetzt umbenannt.
 
 1. Wählen Sie das Element aus, das Sie entpacken möchten.
 
-1. Klicken Sie auf [!UICONTROL **Ellipse**].
+1. Klicken Sie auf die Ellipse **].[!UICONTROL **
 
-1. Auswählen [!UICONTROL **Element entpacken**].
+1. Wählen Sie [!UICONTROL **Element entpacken**] aus.
 
 Der Inhalt bleibt erhalten, aber die Struktur wurde entfernt.
 
 ## Filtern von Inhalten mithilfe der Konturansicht
 
-1. Klicken Sie auf [!UICONTROL **Filter**] neben der Suchleiste in der Gliederungsansicht angezeigt.
+1. Klicken Sie auf das Symbol [!UICONTROL **Filter**] neben der Suchleiste in der Gliederung.
 
    ![Filter](images/lesson-6/filter-icon.png)
 
-1. Wählen Sie entweder **Alle** alle Elemente anzeigen oder **Fehlerhafte Links** , um fehlerhafte Verweise zu finden und zu beheben.
+1. Wählen Sie entweder **Alle** aus, um alle Elemente anzuzeigen, oder **Beschädigte Links**, um fehlerhafte Verweise zu finden und zu korrigieren.
 
 ## Suche mit der Gliederungsansicht
 

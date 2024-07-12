@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Zuordnung in [!DNL AEM Guides]
-description: Erfahren Sie, wie Sie eine Zuordnung erstellen in [!DNL Adobe Experience Manager Guides]
+title: Erstellen einer Zuordnung in  [!DNL AEM Guides]
+description: Erfahren Sie, wie Sie in [!DNL Adobe Experience Manager Guides] eine Zuordnung erstellen.
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -15,7 +15,7 @@ Eine Karte ist ein organisatorisches Tool, mit dem Sie Informationen in einer hi
 
 Sie können hier Beispiel-DITA-Dateien herunterladen:
 
-* [documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
+* [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
 * [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
@@ -29,18 +29,18 @@ Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um eine vollstä
 
 ## Erstellen einer Karte
 
-1. So öffnen Sie die [!UICONTROL Optionen] Wählen Sie das Suchsymbol in Ihrem Hauptordner aus.
+1. Um das Menü [!UICONTROL Optionen] zu öffnen, wählen Sie das Suchsymbol in Ihrem Hauptordner aus.
 
-   ![Ellipsensymbol](images/lesson-8/ellipses-9.png)
+   ![Ellipsesymbol](images/lesson-8/ellipses-9.png)
 
-1. Auswählen **[!UICONTROL Erstellen]** > **[!UICONTROL Zuordnung]**.
+1. Wählen Sie **[!UICONTROL Erstellen]** > **[!UICONTROL Karte]** aus.
 
 
    ![Karte erstellen](images/lesson-8/create-map-with-markings.png)
 
-   Die [!UICONTROL Neue Karte erstellen] angezeigt.
+   Das Dialogfeld [!UICONTROL Neue Karte erstellen] wird angezeigt.
 
-1. Im [!UICONTROL Vorlage] Feld, wählen Sie **[!UICONTROL Lesezeichen]** aus dem Dropdown-Menü und geben Sie Ihrer Karte einen Titel.
+1. Wählen Sie im Feld [!UICONTROL Vorlage] die Option **[!UICONTROL Lesekarte]** aus dem Dropdown-Menü aus und geben Sie Ihrer Karte einen Titel.
 1. Wählen Sie **[!UICONTROL Erstellen]** aus.
 
    Ihre Zuordnung wird erstellt und die linke Leiste ändert sich automatisch von der Ansicht &quot;Repository&quot;in die Ansicht &quot;Map&quot;.
@@ -49,7 +49,7 @@ Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um eine vollstä
 
 1. Wählen Sie in der linken Leiste das Stiftsymbol aus.
 
-   ![Symbol Bearbeiten](images/lesson-8/pencil-icon.png)
+   ![Symbol „Bearbeiten“](images/lesson-8/pencil-icon.png)
 
    Dies ist das Symbol Bearbeiten und ermöglicht das Öffnen der Karte im Editor.
 
@@ -65,15 +65,15 @@ Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um eine vollstä
 
 ## Anzeigen einer Zuordnungsvorschau
 
-Die Vorschau bietet einen schnellen Überblick über den Inhalt mit Standardformaten. Es werden die Überschriften, Absätze, Listen und alle anderen Inhalte der Themen angezeigt.
+Die Vorschau bietet einen schnellen Überblick über den Inhalt mit Standardformaten. Es werden die Überschriften, Absätze, Listen und alle anderen Inhalte in den Themen angezeigt.
 
-1. Auswählen **[!UICONTROL Vorschau]** aus der oberen schwarzen Menüleiste.
+1. Wählen Sie in der oberen schwarzen Menüleiste **[!UICONTROL Vorschau]** aus.
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
-Ihr Inhalt wird geöffnet in [!UICONTROL Vorschau].
+Ihr Inhalt wird in [!UICONTROL Vorschau] geöffnet.
 
-1. Um zur Autorenansicht zurückzukehren und die Zuordnungsbearbeitung fortzusetzen, wählen Sie **Autor.**
+1. Um zur Autorenansicht zurückzukehren und mit der Kartenbearbeitung fortzufahren, wählen Sie **Autor.**
 
    ![Autorenschaltfläche](images/lesson-5/author-map.png)
 
@@ -90,7 +90,7 @@ Sie können die Hierarchie der Themen in der Zuordnung bearbeiten.
 
 Nachdem die Zuordnung abgeschlossen ist, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie die **[!UICONTROL Als neue Version speichern]** Symbol.
+1. Wählen Sie das Symbol **[!UICONTROL Als neue Version speichern]** aus.
 
    ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
 

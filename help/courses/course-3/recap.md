@@ -1,11 +1,11 @@
 ---
 title: Schlussfolgerungen zur Trainingsserie
-description: Übersicht und Zusammenfassung der AEM
+description: Überblick und Zusammenfassung der AEM Guides-Schulungen
 exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -21,9 +21,9 @@ In diesem Kurs haben Sie Folgendes gelernt:
 
 - [Editor-Konfiguration](editor-configuration.md)
 
-- [Bedienfelder](panels.md)
+- [Panels](panels.md)
 
-- [Gliederungsansicht](outline-view.md)
+- [Gliederung anzeigen](outline-view.md)
 
 - [Querverweise und Links](cross-references-and-links.md)
 
@@ -41,4 +41,4 @@ In diesem Kurs haben Sie Folgendes gelernt:
 
 - [Karten und Lesezeichen](maps-and-bookmaps.md)
 
-- [Workflows zur einfachen Inhaltserstellung](simple-content-creation-workflows.md)
+- [Workflows zur Erstellung von einfachen Inhalten](simple-content-creation-workflows.md)

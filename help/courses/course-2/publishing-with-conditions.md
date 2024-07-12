@@ -1,6 +1,6 @@
 ---
 title: Veröffentlichung mit Bedingungen
-description: Veröffentlichen mit Bedingungen in Adobe Experience Manager-Handbüchern
+description: Veröffentlichung mit Bedingungen mit Adobe Experience Manager Guides
 exl-id: ea94824a-884b-447f-9562-e6c629b8133b
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -27,11 +27,11 @@ Hier können Sie Beispieldateien für die Übung herunterladen.
 
 1. Geben Sie den Text ein, der an Bedingungen geknüpft werden soll. Beispielsweise einen oder mehrere Absätze, eine gesamte Tabelle, eine Abbildung oder andere Inhalte.
 
-   ![Presenting-Information](images/presenting-info.png)
+   ![Presenting-information](images/presenting-info.png)
 
 1. Wählen Sie den spezifischen Inhalt aus, dem ein bedingtes Attribut zugewiesen werden soll. Beispielsweise einen einzelnen Absatz innerhalb der Quelle.
 
-   ![Template-Choice](images/template-choice.png)
+   ![Vorlagenauswahl](images/template-choice.png)
 
 1. Stellen Sie in der rechten Leiste sicher, dass die Eigenschaften angezeigt werden.
 
@@ -39,33 +39,33 @@ Hier können Sie Beispieldateien für die Übung herunterladen.
 
 1. Weisen Sie dem Attribut einen Wert zu. Die Inhaltsanzeige wurde aktualisiert, um bedingte Markierungen anzuzeigen.
 
-   ![Vorlage festlegen](images/specify-template.png)
+   ![Angeben-Vorlage](images/specify-template.png)
 
 ## Vorschau bedingter Inhalte
 
 1. Klicken Sie auf **Vorschau**. 
 
-1. under **Filter**, wählen Sie die ein- oder auszublendenden Bedingungen aus oder heben Sie die Auswahl auf.
+1. Wählen Sie unter **Filter** die Bedingungen aus, die ein- oder ausgeblendet werden sollen, oder heben Sie die Auswahl auf.
 
-1. Auswählen oder Aufheben der Auswahl **Text für Bedingungen hervorheben**.
+1. Wählen Sie **Text der Bedingungen markieren** aus oder heben Sie die Auswahl auf.
 
-   ![Vorschau-Conditional-Content](images/preview-conditional-content.png)
+   ![Vorschau-Bedingter Inhalt](images/preview-conditional-content.png)
 
 ## Bedingungsvorgabe erstellen
 
 Eine Bedingungsvorgabe ist eine Sammlung von Eigenschaften, die definieren, was während der Generierung der Ausgabe ein- oder ausgeschlossen bzw. anderweitig markiert werden soll.
 
-1. Wählen Sie im Map Dashboard die **Bedingungsvorgaben** Registerkarte.
+1. Wählen Sie im Map Dashboard die Registerkarte **Bedingungsvorgaben** aus.
 
 1. Klicken Sie auf **Erstellen**.
 
-1. Auswählen **Hinzufügen** (oder **Alle hinzufügen**).
+1. Wählen Sie **Hinzufügen** (oder **Alle hinzufügen**).
 
 1. Benennen Sie die Bedingung.
 
 1. Wählen Sie eine Kombination aus Attribut, Titel und Aktion aus.
 
-   ![Create-Condition-Preset](images/create-condition-preset.png)
+   ![create-condition-preset](images/create-condition-preset.png)
 
 1. Wiederholen Sie dies nach Bedarf.
 
@@ -75,17 +75,17 @@ Eine Bedingungsvorgabe ist eine Sammlung von Eigenschaften, die definieren, was 
 
 Sobald Bedingungen auf Inhalte angewendet wurden, können sie als Ausgabe generiert werden. Dies kann entweder eine Bedingungsvorgabe oder eine DITAval-Datei verwenden.
 
-## Bedingte Ausgabe mithilfe einer Bedingungsvoreinstellung generieren
+## Bedingte Ausgabe mithilfe einer Bedingungsvoreinstellung erstellen
 
-1. Wählen Sie die **Ausgabevorgaben** Registerkarte.
+1. Wählen Sie die Registerkarte **Ausgabevorgaben** aus.
 
 1. Wählen Sie eine Ausgabevorgabe aus.
 
 1. Klicken Sie auf **Bearbeiten**.
 
-1. under **Anwenden einer Bedingung mithilfe von** Wählen Sie eine Bedingungsvorgabe aus.
+1. Wählen Sie unter **Bedingung anwenden mit** eine Bedingungsvorgabe aus.
 
-   ![Generate-Conditional-Output](images/generate-conditional-output.png)
+   ![generate-Conditional-output](images/generate-conditional-output.png)
 
 1. Klicken Sie auf **Fertig**.
 
@@ -95,7 +95,7 @@ Sobald Bedingungen auf Inhalte angewendet wurden, können sie als Ausgabe generi
 
 Die DITAval-Datei kann verwendet werden, um bedingte Inhalte zu veröffentlichen. Dazu muss eine Datei erstellt oder hochgeladen und dann bei der Veröffentlichung referenziert werden.
 
-1. Wählen Sie die **Ausgabevorgaben** Registerkarte.
+1. Wählen Sie die Registerkarte **Ausgabevorgaben** aus.
 
 1. Wählen Sie eine Ausgabevorgabe aus.
 

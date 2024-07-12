@@ -19,7 +19,7 @@ Eine Ausgabevorgabe ist eine Sammlung von Veröffentlichungseigenschaften, die e
 
 Eine Ausgabevorgabe wird angezeigt, wenn eine Zuordnung im XML-Editor im Map Dashboard geöffnet wird. Vorgaben können Informationen zu einem bestimmten Ausgabetyp, Zielpfad, Anweisungen zum Verwalten vorhandener Ausgabeseiten und andere Einstellungen enthalten, die auf eine Zuordnung angewendet werden können, um Ausgaben zu generieren.
 
-![Access-Output-Vorgaben](images/access-output-presets.png)
+![access-output-presets](images/access-output-presets.png)
 
 ## Erstellen einer Ausgabevorgabe
 
@@ -43,7 +43,7 @@ Ausgabevorgaben sind vordefiniert, können aber nach Bedarf angepasst werden.
 
 1. Öffnen Sie das Map Dashboard.
 
-1. Wählen Sie die **Ausgabevorgaben** Registerkarte.
+1. Wählen Sie die Registerkarte **Ausgabevorgaben** aus.
 
 1. Wählen Sie eine Ausgabevorgabe aus.
 

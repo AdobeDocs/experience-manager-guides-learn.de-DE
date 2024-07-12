@@ -22,9 +22,9 @@ ht-degree: 18%
    + [Arbeiten mit Listen](./course-1/working-with-lists.md)
    + [Versionsinhalt](./course-1/versioning-content.md)
    + [Erstellen einer Karte](./course-1/creating-a-map.md)
-   + [Standardausgabe veröffentlichen](./course-1/publishing-default-output.md)
+   + [Publish-Standardausgabe](./course-1/publishing-default-output.md)
    + [Zusammenfassen](./course-1/recap.md)
-+ Generierung der Ausgabe mit [!DNL AEM Guides] {#output-generation}
++ Ausgabegenerierung mit [!DNL AEM Guides] {#output-generation}
    + [Übersicht über die Generierung von Output](./course-2/overview.md)
    + [Grundlegendes zum Map-Dashboard](./course-2/introduction-to-the-map-dashboard.md)
    + [Arbeiten mit Berichten](./course-2/working-with-reports.md)
@@ -34,7 +34,7 @@ ht-degree: 18%
    + [Fehlerbehebung bei Veröffentlichungsfehlern](./course-2/troubleshooting-publishing-errors.md)
    + [Massenveröffentlichung](./course-2/bulk-publishing.md)
    + [Zusammenfassen](./course-2/recap.md)
-+ Authoring mit [!DNL AEM Guides] Bearbeiter {#advanced-user-guide}
++ Authoring mit dem [!DNL AEM Guides] Editor {#advanced-user-guide}
    + [Authoring – Übersicht](./course-3/overview.md)
    + [Benutzereinstellungen, Editor-Einstellungen und Editor-Symbolleisten](./course-3/user-settings-preferences-toolbars.md)
    + [Ordnerprofile](./course-3/folder-profiles.md)

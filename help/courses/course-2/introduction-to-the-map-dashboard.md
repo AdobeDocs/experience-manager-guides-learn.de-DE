@@ -4,7 +4,7 @@ description: Einführung in das Map-Dashboard
 exl-id: c2efa073-15e7-42a0-aaa8-04859b0fdf62
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Das Map Dashboard enthält eine Reihe von Registerkarten, darunter Ausgabevorgab
 
 ### Ausgabevorgaben
 
-Auf der Registerkarte Ausgabevorgaben werden die Standardvorgaben für die verschiedenen Ausgabetypen angezeigt: AEM Site, PDF, HTML5, ePub und benutzerdefiniert.
+Auf der Registerkarte Ausgabevorgaben werden die Standardvorgaben für die verschiedenen Ausgabetypen angezeigt: AEM Site, PDF, HTML5, ePub und Benutzerdefiniert.
 
 ![images/output-presets.png](images/output-presets.png)
 
 Sie können eine Ausgabevorgabe auswählen, um die Details ihrer Einstellungen anzuzeigen, einschließlich des Transformationsnamens, des Zielpfads, der Grundlinien und der angewendeten Bedingungen.
 
-### Ausgaben:
+### Ausgaben
 
 Im Tab Ausgaben werden alle zuvor generierten und derzeit generierten Ausgaben angezeigt.
 

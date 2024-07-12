@@ -5,6 +5,6 @@ source-wordcount: '20'
 ht-degree: 0%
 
 ---
-# Adobe Experience Manager-Handbücher
+# Adobe Experience Manager Guides
 
-Dies ist das Repository zum Speichern der Videos und Markdown-Dateien für die Kurse &quot;AEM Guides&quot;.
+Dies ist das Repository zum Speichern der Videos und Markdown-Dateien für die &quot;AEM Guides&quot;-Kurse.

@@ -1,6 +1,6 @@
 ---
 title: Einfache Workflows zur Inhaltserstellung
-description: Erstellen von Inhalten in AEM Handbüchern
+description: Erstellen von Inhalten in AEM Guides
 exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -19,9 +19,9 @@ Der AEM Guides-Editor verfügt über mehrere Tastaturbefehle, die den Arbeitsabl
 
 Bilder können direkt von einem lokalen Laufwerk aus hinzugefügt werden.
 
-1. Ziehen Sie das Bild direkt in das Thema. Die **Hochladen von Assets** angezeigt.
+1. Ziehen Sie das Bild direkt in das Thema. Das Dialogfeld **Assets hochladen** wird angezeigt.
 
-   ![Dialogfeld &quot;Assets hochladen&quot;](images/lesson-15/upload-assets-dialog.png)
+   ![Assets-Dialogfeld hochladen](images/lesson-15/upload-assets-dialog.png)
 
 1. Ändern Sie den Ordnerpfad zum gewünschten Bildspeicherort.
 
@@ -35,7 +35,7 @@ Bilder können direkt von einem lokalen Laufwerk aus hinzugefügt werden.
 
 1. Verschieben Sie ein Bild durch Ziehen und Ablegen an eine andere Position innerhalb des Themas.
 
-1. Verwendung **Inhaltseigenschaften** auf der rechten Seite, um die
+1. Verwenden Sie **Inhaltseigenschaften** auf der rechten Seite, um die
 
    - scale
 
@@ -49,15 +49,15 @@ Bilder können direkt von einem lokalen Laufwerk aus hinzugefügt werden.
 
 ## Arbeiten mit mehreren Themen
 
-Die Aufspaltungsansicht ist beim Vergleichen von Themen, beim Kopieren und Einfügen zwischen Themen oder beim Ziehen und Ablegen von Inhalten von einem Thema zum anderen hilfreich.
+Die Aufspaltung ist beim Vergleichen von Themen, beim Kopieren und Einfügen zwischen Themen oder beim Ziehen und Ablegen von Inhalten von einem Thema zum anderen hilfreich.
 
 1. Öffnen Sie zwei oder mehr verwandte Themen.
 
 1. Klicken Sie auf die Registerkarte Titel einer Datei, um das Kontextmenü zu öffnen.
 
-1. Auswählen [!UICONTROL **Aufspaltung**].
+1. Wählen Sie [!UICONTROL **Aufspaltung**] aus.
 
-1. Auswählen **Right**.
+1. Wählen Sie **Right** aus.
 
    ![Aufspaltungsansicht](images/lesson-15/split-view.png)
 
@@ -65,7 +65,7 @@ Die Aufspaltungsansicht ist beim Vergleichen von Themen, beim Kopieren und Einf�
 
 1. Suchen Sie das Wort oder die Wortgruppe, das/die den Fehler enthält.
 
-1. Drücken und halten [!UICONTROL **Strg**].
+1. Halten Sie [!UICONTROL **Strg**] gedrückt.
 
 1. Klicken Sie auf die sekundäre Maustaste auf den Fehler.
 
@@ -77,13 +77,13 @@ Der Fehler wurde im Thementext korrigiert.
 
 Benutzer können eine PDF des aktuellen Themas herunterladen, um sie zu markieren oder für andere freizugeben.
 
-1. Klicken [!UICONTROL **Vorschau**] oben rechts auf dem Bildschirm.
+1. Klicken Sie oben rechts im Bildschirm auf [!UICONTROL **Vorschau**] .
 
-1. Klicken Sie auf [!UICONTROL **PDF-Symbol**] über das Thema. Ein Dialogfeld wird angezeigt.
+1. Klicken Sie auf das [!UICONTROL **PDF-Symbol**] über dem Thema. Ein Dialogfeld wird angezeigt.
 
    ![PDF-Export](images/lesson-15/pdf-export.png)
 
-1. Füllen Sie die Informationen für **Name der Umwandlung** oder **DITA-OT-Befehlszeilenargumente** falls erforderlich. Beachten Sie, dass eine PDF immer noch generiert wird, wenn alle Felder leer gelassen werden.
+1. Füllen Sie bei Bedarf die Informationen für **Transformationsname** oder **DITA-OT Befehlszeilenargumente** aus. Beachten Sie, dass eine PDF immer noch generiert wird, wenn alle Felder leer gelassen werden.
 
 1. Klicken Sie auf [!UICONTROL **Herunterladen**]. Die PDF generiert.
 
@@ -95,9 +95,9 @@ Benutzer können eine PDF des aktuellen Themas herunterladen, um sie zu markiere
 
 1. Klicken Sie auf die sekundäre Maustaste auf der Registerkarte Titel .
 
-1. Auswählen **Suchen in**.
+1. Wählen Sie &quot;**Suchen in**&quot;.
 
-1. Wählen Sie entweder **Repository** oder **Zuordnung** , um zur gewünschten Themenposition zu springen.
+1. Wählen Sie entweder **Repository** oder **Map** aus, um zum gewünschten Themenspeicherort zu springen.
 
 ## Thema verändern
 
@@ -105,11 +105,11 @@ Benutzer können eine PDF des aktuellen Themas herunterladen, um sie zu markiere
 
 1. Speichern Sie das Thema.
 
-1. Klicken Sie auf **Repository** Symbol oben links im Menü.
+1. Klicken Sie im Menü oben links auf das Symbol **Repository** .
 
    ![Repository-Symbol](images/lesson-15/repository-icon.png)
 
-1. Fügen Sie im Dialogfeld **Kommentare für neue Version**.
+1. Fügen Sie im Dialogfeld **Kommentare für neue Version** hinzu.
 
    ![Dialogfeld &quot;Neue Version&quot;](images/lesson-15/version-dialog.png)
 
@@ -121,25 +121,25 @@ Die Versionsnummer wird aktualisiert.
 
 Es kann schwierig sein, den Status eines Themas nur anhand der Versionsnummer zu verfolgen. Beschriftungen erleichtern die Identifizierung des genauen Zustands eines Themas, das mehrfach überarbeitet wurde.
 
-1. Wählen Sie eine **Ordnerprofil**.
+1. Wählen Sie ein **Ordnerprofil** aus.
 
 1. Konfigurieren Sie im Ordnerprofil den XML-Editor.
 
-   a. Wählen Sie links oben im Bildschirm Bearbeiten aus.
+   a. Wählen Sie oben links im Bildschirm die Option Bearbeiten .
 
    b. Fügen Sie unter &quot;Beschriftungen der XML-Inhaltsversion&quot;entweder ein neues Thema hinzu oder verwenden Sie ein vorhandenes.
 
-   ![Beschriftungen für Inhaltsversionen](images/lesson-15/version-labels.png)
+   ![Beschriftungen der Inhaltsversion](images/lesson-15/version-labels.png)
 
-1. Auswählen [!UICONTROL **Hochladen**].
+1. Wählen Sie [!UICONTROL **Upload**] aus.
 
 1. Wählen Sie eine Datei wie ReviewLabels.json oder eine ähnliche. Weitere Informationen zum Erstellen einer solchen Datei finden Sie in einem anderen Video.
 
-1. Klicken [!UICONTROL **Öffnen**].
+1. Klicken Sie auf [!UICONTROL **Öffnen**].
 
-1. Klicken [!UICONTROL **Speichern**] oben links im Bildschirm Ordnerprofil .
+1. Klicken Sie oben links im Bildschirm &quot;Ordnerprofil&quot;auf [!UICONTROL **Speichern**] .
 
-1. Klicken [!UICONTROL **Schließen**] oben rechts.
+1. Klicken Sie oben rechts auf [!UICONTROL **Schließen**] .
 
 Versionsbeschriftungen werden jetzt geladen.
 
@@ -147,7 +147,7 @@ Versionsbeschriftungen werden jetzt geladen.
 
 1. Versionsbeschriftungen laden.
 
-1. Klicken Sie auf [!UICONTROL **Benutzereinstellungen**] Symbol oben links im aktuellen Thema.
+1. Klicken Sie oben links im aktuellen Thema auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
 
    ![Ordnerprofil](images/lesson-15/folder-profile-icon.png)
 
@@ -175,21 +175,21 @@ Die Versionsnummer wird aktualisiert.
 
 1. Klicken Sie auf den Titel, um das Kontextmenü zu öffnen.
 
-1. Auswählen [!UICONTROL **Anzeigen in der Assets-Benutzeroberfläche**].
+1. Wählen Sie [!UICONTROL **In Assets UI anzeigen**] aus.
 
-   ![Assets-Benutzeroberfläche](images/lesson-15/view-assets-ui.png)
+   ![Assets UI](images/lesson-15/view-assets-ui.png)
 
    - Der Versionsverlauf mit Bezeichnungen wird auf der linken Seite angezeigt.
 
    ![Versionsverlauf](images/lesson-15/version-history.png)
 
-1. Klicken Sie auf eine Version, um auf Optionen wie **Auf diese Version zurücksetzen** und **Vorschau der Version**.
+1. Klicken Sie auf eine Version, um auf Optionen wie **Auf diese Version zurücksetzen** und **Vorschau der Version** zuzugreifen.
 
 ## Neue Vorlage erstellen
 
 Es gibt Vorlagen für Themen und Maps. Administratoren können auf Vorlagen im linken Bereich zugreifen.
 
-1. Klicken [!UICONTROL **Vorlagen**] im linken Bereich.
+1. Klicken Sie im linken Bereich auf [!UICONTROL **Vorlagen**] .
 
 1. Wählen Sie entweder Karte oder Thema aus, um das zugehörige Kontextmenü zu öffnen.
 

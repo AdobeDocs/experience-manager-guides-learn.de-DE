@@ -1,6 +1,6 @@
 ---
 title: Änderungen verfolgen
-description: Verfolgen von Änderungen in AEM Handbüchern
+description: Verfolgen von Änderungen in AEM Guides
 exl-id: 57779920-b3b4-44be-a1fb-89ea7c89eef7
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -17,7 +17,7 @@ Sie können alle an einem Dokument vorgenommenen Aktualisierungen verfolgen, ind
 
 ## Arbeiten mit der Funktion &quot;Änderungen verfolgen&quot;
 
-1. Umschalten zwischen **Änderungen verfolgen** Symbolleiste, um die Funktion zu aktivieren (oder zu deaktivieren).
+1. Schalten Sie die Symbolleiste **Änderungen verfolgen** um, um die Funktion zu aktivieren (oder zu deaktivieren).
 
    ![Änderungen verfolgen](images/lesson-12/track-changes-icon.png)
 
@@ -25,7 +25,7 @@ Sie können alle an einem Dokument vorgenommenen Aktualisierungen verfolgen, ind
 
    Hinzugefügte Inhalte werden nun grün mit einer Änderungsleiste angezeigt. Gelöschte Inhalte werden rot und durchgestrichen angezeigt.
 
-1. Wählen Sie die **Getrackte Änderungen** rechts, um auf das Bedienfeld &quot;Getrackte Änderungen&quot;zuzugreifen.
+1. Wählen Sie rechts das Symbol **Getrackte Änderungen** aus, um auf den Bereich Getrackte Änderungen zuzugreifen.
 
    ![Alle akzeptieren/ablehnen](images/lesson-12/accept-reject-all.png)
 
@@ -41,7 +41,7 @@ Andere Benutzer können jetzt das Thema öffnen und die vorhandenen getrackten �
 
 Die Suchfunktion ist hilfreich, wenn viele getrackte Änderungen vorgenommen wurden, da das Durchblättern zeitaufwendig sein kann.
 
-1. Wählen Sie die **Getrackte Änderungen** rechts, um auf das Bedienfeld &quot;Getrackte Änderungen&quot;zuzugreifen.
+1. Wählen Sie rechts das Symbol **Getrackte Änderungen** aus, um auf den Bereich Getrackte Änderungen zuzugreifen.
 
 1. Geben Sie ein Wort oder eine Wortgruppe in das Suchfeld ein.
 Die Suche gibt alle Änderungen zurück, die mit den Suchbegriffen übereinstimmen.
@@ -50,11 +50,11 @@ Die Suche gibt alle Änderungen zurück, die mit den Suchbegriffen übereinstimm
 
 Mehrere getrackte Änderungen können auch durch Einfügen, Löschen oder Überprüfer gefiltert werden.
 
-1. Klicken Sie auf [!UICONTROL **Filter**] unten im Bedienfeld &quot;Getrackte Änderungen&quot;angezeigt.
+1. Klicken Sie unten im Bedienfeld &quot;Getrackte Änderungen&quot;auf das Symbol [!UICONTROL **Filter**] .
 
 1. Aktivieren Sie die Kontrollkästchen für die gewünschten Filter.
 
-   ![Benutzeroberfläche filtern](images/lesson-12/filter.png)
+   ![Filter UI](images/lesson-12/filter.png)
 
 1. Klicken Sie auf [!UICONTROL **Übernehmen**].
 
@@ -62,21 +62,21 @@ Mehrere getrackte Änderungen können auch durch Einfügen, Löschen oder Überp
 
 Überprüfer und Fachexperten können die Änderungen anderer Benutzer entweder einzeln oder alle gleichzeitig akzeptieren oder ablehnen.
 
-1. Klicken Sie auf [!UICONTROL **Getrackte Änderungen**] rechts, um auf das Bedienfeld &quot;Getrackte Änderungen&quot;zuzugreifen.
+1. Klicken Sie rechts auf das Symbol [!UICONTROL **Getrackte Änderungen**] , um auf den Bereich Getrackte Änderungen zuzugreifen.
 
 1. Wählen Sie eine bestimmte Änderung aus.
 
-1. Klicken Sie auf [!UICONTROL **Daumen nach oben**] oder [!UICONTROL **Nach unten**] mit der Änderung verknüpftes Symbol, um sie zu akzeptieren oder abzulehnen.
+1. Klicken Sie auf das mit der Änderung verknüpfte Symbol [!UICONTROL **Aufwärts drehen**] oder [!UICONTROL **Abwärts drehen**] , um sie zu akzeptieren oder abzulehnen.
 
-   ![Einzelne Benutzeroberfläche akzeptieren/ablehnen](images/lesson-12/accept-reject-single.png)
+   ![Einfache Benutzeroberfläche akzeptieren/ablehnen](images/lesson-12/accept-reject-single.png)
 
-   Oder
+   oder
 
-   Klicken Sie auf [!UICONTROL **Daumen nach oben**] oder [!UICONTROL **Nach unten**] oberhalb der Suchleiste, um alle Änderungen zu akzeptieren oder abzulehnen.
+   Klicken Sie auf das Symbol [!UICONTROL **Aufwärts drehen**] oder [!UICONTROL **Abwärts drehen**] oberhalb der Suchleiste, um alle Änderungen zu akzeptieren oder abzulehnen.
 
-   ![Einzelne Benutzeroberfläche akzeptieren/ablehnen](images/lesson-12/accept-reject-single.png)
+   ![Einfache Benutzeroberfläche akzeptieren/ablehnen](images/lesson-12/accept-reject-single.png)
 
-1. [!UICONTROL **Speichern**] das Thema.
+1. [!UICONTROL **Speichern**] Sie das Thema.
 
 ## Arbeiten mit der Funktion &quot;Zusammenführen&quot;
 
@@ -84,18 +84,18 @@ Wenn Sie in einer Umgebung mit mehreren Autoren arbeiten, kann es schwierig sein
 
 1. Öffnen Sie ein Thema im Web-Editor.
 
-1. Klicken Sie auf [!UICONTROL **Zusammenführen**] in der Symbolleiste.
+1. Klicken Sie in der Symbolleiste auf das Symbol [!UICONTROL **Zusammenführen**] .
 
-   ![Zusammenführungssymbol](images/lesson-12/merge-icon.png)
+   ![Symbol &quot;Zusammenführen&quot;](images/lesson-12/merge-icon.png)
 
 1. Wählen Sie im Dialogfeld Zusammenführen eine Version der Datei aus, mit der Sie die aktuelle Version der Datei vergleichen möchten.
 
 1. Wählen Sie unter Optionen Folgendes aus:
 
-   - **Änderungen von ausgewählter Version verfolgen**: Diese Option zeigt alle Inhaltsaktualisierungen in Form von getrackten Änderungen an. Sie können dann entscheiden, Änderungen im Dokument einzeln oder alle gleichzeitig zu akzeptieren oder abzulehnen.
+   - **Änderungen von ausgewählter Version verfolgen**: Diese Option zeigt alle Inhaltsaktualisierungen in Form von verfolgten Änderungen an. Sie können dann entscheiden, Änderungen im Dokument einzeln oder alle gleichzeitig zu akzeptieren oder abzulehnen.
 
    - **Auf ausgewählte Version zurücksetzen**: Mit dieser Option wird die aktuelle Version des Dokuments auf die ausgewählte Version zurückgesetzt. Sie haben keine Kontrolle darüber, welche Inhalte akzeptiert oder abgelehnt werden.
 
 1. Klicken Sie auf [!UICONTROL **Fertig**].
 
-Wenn Sie die Option **Option &quot;Änderungen von ausgewählter Version verfolgen&quot;** und dann werden alle Änderungen der ausgewählten Version auf der Registerkarte Änderungen im rechten Bereich angezeigt.
+Wenn Sie die Option **Änderungen von ausgewählter Version verfolgen** ausgewählt haben, werden alle Änderungen der ausgewählten Version auf der Registerkarte &quot;Änderungen&quot;im rechten Bereich angezeigt.

@@ -19,12 +19,12 @@ Mithilfe einer Grundlinie können Sie eine Version Ihrer Zuordnungsthemen und zu
 
 Sie können auf Ihre Grundlinien im Map Dashboard zugreifen.
 
-1. Repository-Ansicht, wählen Sie auf Ihrer Karte das Symbol Auslassungspunkte aus, um das Menü &quot;Optionen&quot;zu öffnen, und klicken Sie dann auf **Öffnen Sie das Map Dashboard.**
+1. Repository-Ansicht, wählen Sie das Auslassungssymbol auf Ihrer Karte aus, um das Menü &quot;Optionen&quot;zu öffnen, und klicken Sie dann auf **Map-Dashboard öffnen**.
 
    ![ellipsis-map-dashboard.png](images/ellipsis-map-dashboard.png)
 Das Zuordnungs-Dashboard wird in einer anderen Registerkarte geöffnet.
 
-1. Auswählen **Grundlinien**.
+1. Wählen Sie **Grundlinien** aus.
 
    ![baseline-tab.png](images/baseline-tab.png)
 
@@ -32,7 +32,7 @@ Die Registerkarte Grundlinien wird angezeigt.
 
 ## Erstellen einer Grundlinie basierend auf Bezeichnungen
 
-1. Wählen Sie auf der Registerkarte Grundlinien die Option **Erstellen**.
+1. Wählen Sie auf der Registerkarte &quot;Grundlinien&quot;die Option **Erstellen**.
 
    ![create-baseline.png](images/create-baseline.png)
 
@@ -45,7 +45,7 @@ Die Registerkarte Grundlinien wird angezeigt.
 
    >[!NOTE]
    >
-   >HINWEIS: Die *Verwenden Sie die neueste Version, wenn die Beschriftung nicht vorhanden ist.* ist standardmäßig aktiviert. Wenn diese Option nicht ausgewählt ist und Themen oder Mediendateien ohne die ausgewählte Beschriftung in Ihrer Zuordnung vorhanden sind, schlägt der Prozess zur Erstellung der Grundlinie fehl.
+   >HINWEIS: Das Kontrollkästchen *Aktuelle Version verwenden, wenn keine Beschriftung vorhanden ist* ist standardmäßig aktiviert. Wenn diese Option nicht ausgewählt ist und Themen oder Mediendateien ohne die ausgewählte Beschriftung in Ihrer Zuordnung vorhanden sind, schlägt der Prozess zur Erstellung der Grundlinie fehl.
 
 1. Geben Sie den Titel ein, den Sie verwenden möchten.
 
@@ -55,7 +55,7 @@ Ihre Grundlinie wird erstellt. Eine Tabelle aller Themen und der zugehörigen In
 
 ### Verwenden der Funktion &quot;Alle Themen durchsuchen&quot;
 
-Mit der Funktion &quot;Alle Themen durchsuchen&quot;können Sie die Informationen des Themas, einschließlich der Version und des Titels, sowie die verwendete Version anzeigen. Sie können darauf zugreifen, indem Sie **Alle Themen durchsuchen** beim Erstellen oder Bearbeiten Ihrer Grundlinie.
+Mit der Funktion &quot;Alle Themen durchsuchen&quot;können Sie die Informationen des Themas, einschließlich der Version und des Titels, sowie die verwendete Version anzeigen. Sie können darauf zugreifen, indem Sie beim Erstellen oder Bearbeiten Ihrer Grundlinie **Alle Themen durchsuchen** auswählen.
 
 ![browse-all-topics.png](images/browse-all-topics.png)
 
@@ -87,13 +87,13 @@ Möglicherweise möchten Sie allen Inhalt Ihrer Zuordnung eine neue Bezeichnung 
 
 1. Wählen Sie die Grundlinie aus, für die Sie Beschriftungen hinzufügen möchten.
 
-1. Auswählen **Hinzufügen von Bezeichnungen**.
+1. Wählen Sie **Beschriftungen hinzufügen** aus.
 
    ![add-label.png](images/add-labels.png)
 
    Das Dialogfeld Titel hinzufügen wird angezeigt.
 
-1. Geben Sie den Titel ein, den Sie zuweisen möchten, und wählen Sie **Hinzufügen**.
+1. Geben Sie den Titel ein, den Sie zuweisen möchten, und wählen Sie **Hinzufügen** aus.
 
 Der Titel wurde allen Themen hinzugefügt.
 
@@ -115,11 +115,11 @@ Der Titel wurde allen Themen hinzugefügt.
 
    ![baseline.png](images/baseline.png)
 
-1. Klicken Sie auf **Fertig**.
+1. Wählen Sie **Fertig**.
 
    ![done.png](images/done.png)
 
-1. Auswählen **Erzeugen**.
+1. Wählen Sie **Generieren**.
 
    ![generate.png](images/generate.png)
 
@@ -136,13 +136,13 @@ Der Titel wurde allen Themen hinzugefügt.
 
 1. Wählen Sie im Tab Grundlinien die Grundlinie aus, die Sie entfernen möchten.
 
-1. Auswählen **Entfernen**.
+1. Wählen Sie **Entfernen** aus.
 
    ![remove-baseline.png](images/remove-baseline.png)
 
    Das Dialogfeld &quot;Grundlinie entfernen&quot;wird angezeigt.
 
-1. Auswählen **Entfernen**.
+1. Wählen Sie **Entfernen** aus.
 
 Die Grundlinie wird entfernt.
 
@@ -150,7 +150,7 @@ Die Grundlinie wird entfernt.
 
 1. Wählen Sie im Tab Grundlinien die Grundlinie aus, die Sie duplizieren möchten.
 
-1. Auswählen **Duplizieren**.
+1. Wählen Sie **Duplizieren** aus.
 
    ![duplicate.png](images/duplicate.png)
 
@@ -169,7 +169,7 @@ Sie können direkt die Version eines Themas angeben, das in einer Grundlinie ver
 
    ![edit-aem.png](images/edit-aem.png)
 
-1. Auswählen **Alle Themen durchsuchen**.
+1. Wählen Sie **Alle Themen durchsuchen** aus.
 
    ![browse-all-topics.png](images/browse-all-topics.png)
 
@@ -177,7 +177,7 @@ Sie können direkt die Version eines Themas angeben, das in einer Grundlinie ver
 
 1. Wählen Sie für die Themen, die Sie ändern möchten, die gewünschte Version aus dem Dropdown-Menü unter der Spalte Version aus.
 
-   ![version-dropdown.png](images/version-dropdown.png)
+   ![version-drop-down.png](images/version-dropdown.png)
 
 1. Wählen Sie **Speichern** aus.
 
@@ -202,6 +202,6 @@ In diesem Fall erstellen wir eine Ausgabevorgabe basierend auf einer Grundlinie.
 
    ![baseline.png](images/baseline.png)
 
-1. Klicken Sie auf **Fertig**.
+1. Wählen Sie **Fertig**.
 
 Ihre neue Ausgabevorgabe wurde erstellt und wird auf der Seite &quot;Ausgabevorgaben&quot;angezeigt.

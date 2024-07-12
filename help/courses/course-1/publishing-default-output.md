@@ -1,5 +1,5 @@
 ---
-title: Veröffentlichen der Standardausgabe in AEM Handbüchern
+title: Veröffentlichen der Standardausgabe in AEM Guides
 description: Veröffentlichen der Standardausgabe in [!DNL Adobe Experience Manager Guides]
 exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
@@ -19,9 +19,9 @@ Sobald Sie eine fertige Zuordnung haben, können Sie Ihren Inhalt in mehreren Au
 
 Es gibt eine Reihe von Ausgabevorgaben, aus denen Sie wählen können. Dieses Handbuch konzentriert sich auf die AEM Site und PDF-Ausgaben.
 
-1. Wählen Sie im Repository das Auslassungssymbol auf Ihrer Karte aus, um das Menü &quot;Optionen&quot;zu öffnen, und klicken Sie dann auf **Öffnen Sie im Map Dashboard.**
+1. Wählen Sie im Repository das Auslassungssymbol auf Ihrer Karte aus, um das Menü &quot;Optionen&quot;zu öffnen, und klicken Sie dann auf &quot;**Im Map Dashboard öffnen&quot;**.
 
-   ![Im Landkarten-Dashboard öffnen](images/lesson-9/map-dashboard-with-markings.png)
+   ![Im Map Dashboard öffnen](images/lesson-9/map-dashboard-with-markings.png)
 
    Das Zuordnungs-Dashboard wird in einer anderen Registerkarte geöffnet.
 
@@ -29,7 +29,7 @@ Es gibt eine Reihe von Ausgabevorgaben, aus denen Sie wählen können. Dieses Ha
 
    ![Ausgabevorgaben](images/lesson-9/pdf-aem.png)
 
-1. Auswählen **Generieren.**
+1. Wählen Sie **Erzeugen.**
 
 1. Navigieren Sie zur Seite Ausgaben , um den Status Ihrer generierten Ausgaben anzuzeigen.
 
@@ -41,7 +41,7 @@ Es gibt eine Reihe von Ausgabevorgaben, aus denen Sie wählen können. Dieses Ha
 
 In der Ausgabe der AEM-Site werden Themen, Listen, Bilder, Titel, Tabellen und andere mit dem XML-Editor erstellte Inhalte automatisch durch AEM in webfreundliche Inhalte veröffentlicht.
 
-Untergeordnete Themen finden Sie im Inhaltsverzeichnis sowie im Abschnitt Verwandte Informationen . Diese Links können alle für die Navigation verwendet werden.
+Untergeordnete Themen werden sowohl im Inhaltsverzeichnis als auch im Abschnitt Verwandte Informationen angezeigt. Diese Links können alle für die Navigation verwendet werden.
 
 ## Die PDF-Ausgabe
 

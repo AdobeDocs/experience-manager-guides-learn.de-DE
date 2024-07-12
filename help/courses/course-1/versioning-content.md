@@ -1,15 +1,15 @@
 ---
-title: Versionierung von Inhalten in [!DNL AEM Guides]
-description: Versionierung von Inhalten in [!DNL Adobe Experience Manager Guides]
+title: Versionierung von Inhalten in  [!DNL AEM Guides]
+description: Versionierung von Inhalten in  [!DNL Adobe Experience Manager Guides]
 exl-id: 766af002-d17b-4d27-b4d1-baaacc4579ca
 source-git-commit: 97254946f5ee732fe3b93ff60dd9ef51a379b9f4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '350'
 ht-degree: 1%
 
 ---
 
-# Versionierung von Inhalten
+# Versionsinhalte
 
 Durch die Versionierung eines Dokuments wird eine Momentaufnahme des aktuellen Status erstellt. Wenn Sie mehrere Versionen eines Themas oder einer Zuordnung erstellen, können Sie Ihre Änderungen verfolgen und ältere Arbeiten wiederherstellen.
 
@@ -36,13 +36,13 @@ Durch die Versionierung eines Dokuments wird eine Momentaufnahme des aktuellen S
 
    Sie haben eine neue Version Ihres Themas erstellt und die Versionsnummer wird aktualisiert. Die erste Version eines Dokuments ist Version 1.0.
 
-## Anzeigen des Versionsverlaufs
+## Versionsverlauf anzeigen
 
 Sobald Sie mehrere Versionen Ihres Inhalts haben, sollten Sie die Unterschiede zwischen diesen Versionen untersuchen.
 
 1. Wählen Sie in der Symbolleiste das Symbol Versionsverlauf aus.
 
-   ![Symbol &quot;Versionsverlauf&quot;](images/lesson-7/version-history.png)
+   ![Versionsverlauf-Symbol](images/lesson-7/version-history.png)
 
    Das Dialogfeld Versionsverlauf wird angezeigt.
 
@@ -55,12 +55,12 @@ Sobald Sie mehrere Versionen Ihres Inhalts haben, sollten Sie die Unterschiede z
 Bei Bedarf können Sie eine Version auswählen und sie wiederherstellen. Dadurch können Sie die aktuelle Version verwerfen und mit einer früheren Version arbeiten.
 
 1. Wählen Sie im Dialogfeld Versionsverlauf die Version aus, zu der Sie zurückkehren möchten.
-1. Auswählen **Auf ausgewählte Version zurücksetzen**.
+1. Wählen Sie **Auf ausgewählte Version zurücksetzen** aus.
 
 Das Dialogfeld Version wiederherstellen wird angezeigt.
 
 1. Fügen Sie einen beschreibenden Kommentar hinzu, warum Sie auf eine frühere Version zurücksetzen.
-1. Auswählen **Bestätigen**.
+1. Wählen Sie **Bestätigen** aus.
 
    Ihr Thema wurde auf die spezifische Version zurückgesetzt.
 
@@ -68,13 +68,13 @@ Das Dialogfeld Version wiederherstellen wird angezeigt.
 
 Sie können auch Versionsunterschiede in der Vorschau anzeigen, indem Sie die Filter Tracking und Unterschiede anzeigen in der rechten Leiste verwenden.
 
-1. Auswählen **Vorschau** aus der oberen Menüleiste.
+1. Wählen Sie in der oberen Menüleiste **Vorschau** aus.
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
    Ihr Thema wird in der Vorschau geöffnet.
 
-1. Wählen Sie im Dropdown-Menü Tracking in der rechten Leiste die Option **Markup anzeigen**.
+1. Wählen Sie im Dropdown-Menü &quot;Verfolgung&quot;in der rechten Leiste **Markup anzeigen** aus.
 1. Wählen Sie im Dropdown-Menü Unterschiede anzeigen die Version aus, mit der Sie vergleichen möchten.
 
    Ihre Änderungen werden als formatierter Inhalt angezeigt.

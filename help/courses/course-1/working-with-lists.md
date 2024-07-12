@@ -21,7 +21,7 @@ Eine Liste mit Aufzählungszeichen oder unsortierten Elementen sollte verwendet 
 
 ### Liste mit Aufzählungszeichen einfügen
 
-1. Wählen Sie die **Aufzählungsliste einfügen** in der Symbolleiste.
+1. Wählen Sie in der Symbolleiste das Symbol **Aufzählungsliste einfügen** aus.
 
    ![Symbol &quot;Aufzählungsliste einfügen&quot;](images/lesson-6/insert-bulleted-list.png)
 
@@ -37,7 +37,7 @@ Eine nummerierte Liste sollte verwendet werden, wenn Listenkomponenten in einer 
 
 ### Einfügen einer geordneten Liste
 
-1. Wählen Sie die **Nummerierte Liste einfügen** in der Symbolleiste.
+1. Wählen Sie in der Symbolleiste das Symbol **Nummerierte Liste einfügen** aus.
 
    ![Symbol &quot;Nummerierte Liste einfügen&quot;](images/lesson-6/insert-numbered-list.png)
 
@@ -51,7 +51,7 @@ Eine nummerierte Liste sollte verwendet werden, wenn Listenkomponenten in einer 
 
 Nachdem Sie Ihrem Konzept nun mehr Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie die **Als neue Version speichern** Symbol.
+1. Wählen Sie das Symbol **Als neue Version speichern** aus.
 
    ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
 

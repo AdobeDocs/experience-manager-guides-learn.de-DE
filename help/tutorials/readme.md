@@ -7,7 +7,7 @@ ht-degree: 0%
 ---
 # DATEIEN WURDEN VERSCHOBEN
 
-Die Dateien im Abschnitt &quot;Tutorials&quot;befinden sich jetzt im `experience-manager-guides.en` repo:
+Die Dateien im Abschnitt &quot;Tutorials&quot;befinden sich jetzt im Repo `experience-manager-guides.en` :
 
 <https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
 
