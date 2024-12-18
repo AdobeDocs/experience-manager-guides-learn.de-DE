@@ -11,37 +11,37 @@ ht-degree: 2%
 
 # [!DNL Adobe Experience Manager Guides] Tutorials {#overview}
 
-[!DNL Adobe Experience Manager Guides] (später in diesem Handbuch als [!DNL AEM Guides] -Lösung bezeichnet) ist eine leistungsstarke, auf Unternehmenskompetenz basierende Inhaltsverwaltungslösung (Component Content Management Solution, CCMS). Sie ermöglicht native DITA-Unterstützung in Adobe Experience Manager und ermöglicht AEM die Bearbeitung der DITA-basierten Inhaltserstellung und -Bereitstellung. Sie ermöglicht es Autoren, Inhalte mit einem beliebigen Offline-DITA-Authoring-Tool wie Adobe FrameMaker oder einem benutzerfreundlichen integrierten Web-Editor zu erstellen.
+[!DNL Adobe Experience Manager Guides] (in diesem Handbuch als [!DNL AEM Guides] bezeichnet) ist eine leistungsstarke, für Unternehmen geeignete Komponenten-Content-Management-Lösung (CCMS). Sie unterstützt native DITA-Unterstützung in Adobe Experience Manager und ermöglicht AEM die Verarbeitung der DITA-basierten Inhaltserstellung und -bereitstellung. Sie ermöglicht es Autoren, Inhalte mit einem beliebigen Offline-DITA-Authoring-Tool wie Adobe FrameMaker oder einem benutzerfreundlichen integrierten Web-Editor zu erstellen.
 
-Die Lösung [!DNL AEM Guides] bietet alle zentralen CCMS-Funktionen wie Zusammenarbeit, Überprüfung, Übersetzung, Suche und Berichte für DITA-Inhalte, sodass Autoren durch effiziente Wiederverwendung von Inhalten und leistungsstarke Workflows mehr Zeit in Anspruch nehmen können. Darüber hinaus können Benutzer die erstklassige Veröffentlichungsfunktion mit einem Klick nutzen, um DITA-basierte Ausgaben für die gängigsten Formate zu generieren - Experience Manager Sites, PDF, HTML5, EPUB und benutzerdefinierte Ausgaben über DITA-OT.
+[!DNL AEM Guides] Lösung bietet alle zentralen CCMS-Funktionen, wie z. B. Zusammenarbeit, Überprüfung, Übersetzung, Suche und Berichte für DITA-Inhalte, sodass Autoren durch effiziente Wiederverwendung von Inhalten und leistungsstarke Workflows in kürzerer Zeit mehr erreichen können. Darüber hinaus können Anwender die erstklassige Single-Click-Publishing-Funktion nutzen, um DITA-basierte Ausgaben für die beliebtesten Formate - Experience Manager Sites, PDF, HTML5, EPUB und benutzerdefinierte Ausgaben über DITA-OT - zu generieren.
 
-Mit der Lösung [!DNL AEM Guides] können Unternehmen nahtlose und personalisierte Erlebnisse für Endbenutzer bereitstellen und Konsistenz und Einheitlichkeit von Inhalten vor und nach dem Verkauf sicherstellen. Vollständige Kontrolle über die Inhaltsintegrität kann auf einfache Weise erreicht werden. Darüber hinaus reduzieren Lokalisierungszeit und -kosten auch erheblich.
+Mit [!DNL AEM Guides] Lösung können Unternehmen Endbenutzern nahtlose und personalisierte Erlebnisse bereitstellen und Konsistenz und Einheitlichkeit bei Pre- und Post-Sales-Inhalten sicherstellen. Die vollständige Kontrolle über die Inhaltsintegrität kann einfach erreicht werden. Darüber hinaus werden Zeit und Kosten für die Lokalisierung erheblich reduziert.
 
 >[!NOTE]
 > 
-> Adobe Experience Manager Guides wurde früher als &quot;XML Documentation für Adobe Experience Manager&quot;gekennzeichnet. Beachten Sie bitte, dass einige Verweise in der Dokumentation weiterhin auf das frühere Branding verweisen können, aber weiterhin auf das aktuelle Angebot anwendbar sind.
+> Adobe Experience Manager Guides wurde früher als &quot;XML Documentation for Adobe Experience Manager&quot; bezeichnet. Beachten Sie, dass sich bestimmte Verweise in der Dokumentation weiterhin auf das vorherige Branding beziehen können, aber dennoch für das aktuelle Angebot gelten.
 
 ## Neue Funktionen
 
-* **[[!DNL AEM Guides] Bearbeitungskurs](course-3/overview.md)**
+* **[[!DNL AEM Guides] Authoring-Kurs](course-3/overview.md)**
 
   *Erweitertes Benutzerhandbuch für [!DNL AEM Guides] Editor*
 
-* **[[!DNL AEM Guides] Einführungskurs](course-1/overview.md)**
+* **[[!DNL AEM Guides] Erste Schritte - Kurse](course-1/overview.md)**
 
-  *Erfahren Sie, wie Sie Inhalte mit [!DNL Adobe Experience Manager Guides] erstellen, organisieren, erstellen und veröffentlichen.*
+  *Erfahren Sie, wie Sie mit [!DNL Adobe Experience Manager Guides] Inhalte erstellen, organisieren, verfassen und veröffentlichen können.*
 
 * **[Authoring im integrierten Web-Editor](course-3/overview.md)**
 
-  *Erfahren Sie, wie Sie Inhalte mit dem nativen Web-Editor in Experience Manager Guides erstellen. Machen Sie sich mit den Benutzereinstellungen, den Editor-Einstellungen, der Konfiguration, den Symbolleisten und mehr vertraut.*
+  *Erfahren Sie, wie Sie Inhalte mit dem nativen Web-Editor in Experience Manager Guides erstellen. Verschaffen Sie sich ein umfassendes Verständnis von Benutzervoreinstellungen, Editor-Einstellungen, Konfiguration, Symbolleisten und mehr.*
 
-* **[Ausgabegenerierung mit [!DNL AEM Guides]](course-2/overview.md)**
+* **[Ausgabenerstellung mit [!DNL AEM Guides]](course-2/overview.md)**
 
-  *Erfahren Sie, wie Sie die Ausgabe mit [!DNL Adobe Experience Manager Guides] generieren. Erfahren Sie mehr über verschiedene Funktionen, die für die Generierung von Ausgaben verfügbar sind - Berichte, Grundlinien, Bedingungen, Fehlerbehebung, Massenveröffentlichung und Aktivierung.*
+  *Erfahren Sie, wie Sie mithilfe von [!DNL Adobe Experience Manager Guides] eine Ausgabe generieren. Erfahren Sie mehr über die verschiedenen Funktionen, die für die Generierung von Ausgaben verfügbar sind - Berichte, Grundlinien, Bedingungen, Fehlerbehebung, Massenveröffentlichung und Aktivierung.*
 
 
 ## Zusätzliche Ressourcen
 
 * [[!DNL AEM Guides] Online-Benutzerhandbuch](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/index.html)
-* [[!DNL AEM Guides] PDF-Guides](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html)
+* [[!DNL AEM Guides] PDF-Handbücher](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html)
 * [Experience League – AEM-Erkundung](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)

@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Zuordnung in  [!DNL AEM Guides]
-description: Erfahren Sie, wie Sie in [!DNL Adobe Experience Manager Guides] eine Zuordnung erstellen.
+title: Erstellen Sie eine Zuordnung in [!DNL AEM Guides]
+description: Erfahren Sie, wie Sie in eine Zuordnung erstellen [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -9,11 +9,11 @@ ht-degree: 1%
 
 ---
 
-# Erstellen einer Karte
+# Erstellen einer Zuordnung
 
-Eine Karte ist ein organisatorisches Tool, mit dem Sie Informationen in einer hierarchischen Struktur hinzufügen und organisieren können. Diese Aufgaben zeigen Ihnen, wie Sie eine Zuordnung erstellen und Inhalte in der Karte organisieren.
+Eine Zuordnung ist ein organisatorisches Tool, mit dem Sie Informationen in einer hierarchischen Struktur hinzufügen und organisieren können. Diese Aufgabe zeigt Ihnen, wie Sie eine Karte erstellen und den Inhalt in der Karte organisieren.
 
-Sie können hier Beispiel-DITA-Dateien herunterladen:
+Beispiele für DITA-Dateien können hier heruntergeladen werden:
 
 * [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
 * [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
@@ -22,87 +22,87 @@ Sie können hier Beispiel-DITA-Dateien herunterladen:
 
 ## Hochladen von Zuordnungskomponenten
 
-Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um eine vollständigere Materialmenge zu erhalten.
+Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um einen umfassenderen Materialsatz zu erhalten.
 
-1. Ziehen Sie beliebige lokale Dateien in den AEM, um sie hochzuladen.
-1. Wiederholen Sie diese Schritte nach Bedarf für alle Dateien, einschließlich Bildern und Themen.
+1. Lokale Dateien per Drag-and-Drop in AEM hochladen.
+1. Wiederholen Sie den Vorgang nach Bedarf für alle Dateien, einschließlich Bilder und Themen.
 
-## Erstellen einer Karte
+## Erstellen einer Zuordnung
 
-1. Um das Menü [!UICONTROL Optionen] zu öffnen, wählen Sie das Suchsymbol in Ihrem Hauptordner aus.
+1. Um das Menü [!UICONTROL Optionen] zu öffnen, klicken Sie auf das Symbol mit den Auslassungspunkten im Hauptordner .
 
-   ![Ellipsesymbol](images/lesson-8/ellipses-9.png)
+   ![Symbol mit Auslassungspunkten](images/lesson-8/ellipses-9.png)
 
-1. Wählen Sie **[!UICONTROL Erstellen]** > **[!UICONTROL Karte]** aus.
+1. Wählen **[!UICONTROL Erstellen]** > **[!UICONTROL Zuordnung]**.
 
 
    ![Karte erstellen](images/lesson-8/create-map-with-markings.png)
 
-   Das Dialogfeld [!UICONTROL Neue Karte erstellen] wird angezeigt.
+   Das [!UICONTROL Neue Zuordnung erstellen] wird angezeigt.
 
-1. Wählen Sie im Feld [!UICONTROL Vorlage] die Option **[!UICONTROL Lesekarte]** aus dem Dropdown-Menü aus und geben Sie Ihrer Karte einen Titel.
+1. Wählen Sie im Feld [!UICONTROL Vorlage] aus **[!UICONTROL Dropdown-Menü]** Bookmap“ aus und geben Sie Ihrer Karte einen Titel.
 1. Wählen Sie **[!UICONTROL Erstellen]** aus.
 
-   Ihre Zuordnung wird erstellt und die linke Leiste ändert sich automatisch von der Ansicht &quot;Repository&quot;in die Ansicht &quot;Map&quot;.
+   Ihre Zuordnung wird erstellt und die linke Leiste wechselt automatisch von der Repository-Ansicht zur Zuordnungsansicht.
 
-## Zuordnungskomponenten einfügen
+## Einfügen von Zuordnungskomponenten
 
-1. Wählen Sie in der linken Leiste das Stiftsymbol aus.
+1. Wählen Sie das Stiftsymbol in der linken Leiste aus.
 
    ![Symbol „Bearbeiten“](images/lesson-8/pencil-icon.png)
 
-   Dies ist das Symbol Bearbeiten und ermöglicht das Öffnen der Karte im Editor.
+   Dies ist das Symbol Bearbeiten , über das Sie die Karte im Editor öffnen können.
 
-1. Wechseln Sie zurück zur Ansicht &quot;Repository&quot;, indem Sie auf das Symbol &quot;Repository&quot;klicken.
+1. Wechseln Sie zurück zur Repository-Ansicht, indem Sie das Repository -Symbol auswählen.
 
    ![Repository-Symbol](images/common/repository-icon.png)
 
-1. Fügen Sie der Zuordnung ein Thema hinzu, indem Sie es aus dem Repository in die Zuordnung im Editor ziehen und ablegen.
+1. Fügen Sie der Karte ein Thema hinzu, indem Sie es aus dem Repository auf die Karte im Editor ziehen und ablegen.
 
-   Die Zeilenanzeige zeigt an, wo das Thema platziert wurde.
+   Die Zeilenanzeige zeigt an, wo das Thema platziert ist.
 
-1. Fügen Sie nach Bedarf weitere Themen hinzu.
+1. Fügen Sie weitere Themen hinzu, falls erforderlich.
 
-## Anzeigen einer Zuordnungsvorschau
+## Kartenvorschau anzeigen
 
-Die Vorschau bietet einen schnellen Überblick über den Inhalt mit Standardformaten. Es werden die Überschriften, Absätze, Listen und alle anderen Inhalte in den Themen angezeigt.
+Die Vorschau bietet einen schnellen Überblick über den Inhalt unter Verwendung von Standardformaten. Es werden die Überschriften, Absätze, Listen und alle anderen Inhalte in den Themen angezeigt.
 
-1. Wählen Sie in der oberen schwarzen Menüleiste **[!UICONTROL Vorschau]** aus.
+1. Wählen **[!UICONTROL Vorschau]** in der oberen schwarzen Menüleiste aus.
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
-Ihr Inhalt wird in [!UICONTROL Vorschau] geöffnet.
+Ihr Inhalt wird in &quot;[!UICONTROL &quot; ].
 
-1. Um zur Autorenansicht zurückzukehren und mit der Kartenbearbeitung fortzufahren, wählen Sie **Autor.**
+1. Um zur Autorenansicht zurückzukehren und die Kartenbearbeitung fortzusetzen, wählen Sie **Autor.**
 
-   ![Autorenschaltfläche](images/lesson-5/author-map.png)
+   ![Schaltfläche „Autor“](images/lesson-5/author-map.png)
 
-## Zuordnungsstruktur konfigurieren
+## Konfigurieren der Zuordnungsstruktur
 
-Sie können die Hierarchie der Themen in der Zuordnung bearbeiten.
+Sie können die Hierarchie der Themen innerhalb der Zuordnung bearbeiten.
 
 1. Klicken Sie auf das Symbol eines Themas, um es auszuwählen.
-1. Verwenden Sie die Pfeile, um Elemente zu demotieren bzw. zu bewerben.
+1. Verwenden Sie die Pfeile zum Herabstufen bzw. Hochstufen von Elementen.
 
    ![Repository-Symbol](images/lesson-8/left-right.png)
 
-## Karte als neue Version speichern
+## Zuordnung als neue Version speichern
 
 Nachdem die Zuordnung abgeschlossen ist, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie das Symbol **[!UICONTROL Als neue Version speichern]** aus.
+1. Wählen Sie das **[!UICONTROL Als neue Version speichern]**.
 
-   ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
+   ![Als neue Version speichern](images/common/save-as-new-version.png)
 
 1. Geben Sie im Feld Kommentare für neue Version eine kurze, aber klare Zusammenfassung der Änderungen ein.
 
 1. Geben Sie im Feld Versionsbezeichnungen alle relevanten Bezeichnungen ein.
 
-   Mit Beschriftungen können Sie die Version angeben, die Sie beim Veröffentlichen einbeziehen möchten.
+   Mit Beschriftungen können Sie die Version angeben, die Sie bei der Veröffentlichung einbeziehen möchten.
 
    >[!NOTE]
    > 
-   > Wenn Ihr Programm mit vordefinierten Bezeichnungen konfiguriert ist, können Sie aus diesen auswählen, um eine konsistente Beschriftung sicherzustellen.
+   > Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
 
 1. Wählen Sie **Speichern** aus.
 

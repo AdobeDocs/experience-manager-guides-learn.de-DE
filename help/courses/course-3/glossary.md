@@ -1,6 +1,6 @@
 ---
 title: Glossar
-description: Verwenden des Glossarbedienfelds in AEM Guides
+description: Verwenden des Glossar-Bedienfelds in AEM Guides
 exl-id: 509880b1-852f-44f0-b4a9-09fee8bcb954
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,33 +11,33 @@ ht-degree: 1%
 
 # Glossar
 
-Im Glossar-Bedienfeld kann eine Karte analysiert werden. Sie können eine Glossar-Themendatei erstellen und sie in eine Glossarkarte aufnehmen. Diese Karte kann dann zu anderen Karten hinzugefügt werden. Die Verwendung des Glossars erleichtert es, Informationen konsistent zu formulieren und dem Leser mehr Klarheit zu verschaffen.
+Das Glossar-Bedienfeld ermöglicht das Analysieren einer Karte. Sie können eine Glossarthemendatei erstellen und in eine gemeinsame Glossarzuordnung einfügen. Diese Zuordnung kann dann zu anderen Karten hinzugefügt werden. Die Verwendung des Glossars erleichtert die konsistente Formulierung von Informationen und bietet dem Leser mehr Klarheit.
 
-Beispieldateien, die Sie für diese Lektion verwenden können, finden Sie in der Datei [glossary.zip](assets/glossary.zip).
+Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der Datei &quot;[.zip](assets/glossary.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342765?quality=12&learn=on)
 
-## Glossareintrag zu einem Thema hinzufügen
+## Hinzufügen eines Glossareintrags zu einem Thema
 
-1. Navigieren Sie zum Bedienfeld **Glossar** .
+1. Navigieren Sie zum Bedienfeld **Glossar**.
 
-1. Ziehen Sie den Eintrag aus dem Bedienfeld **Glossar** an die gewünschte Position in Ihrem Thema.
+1. Ziehen Sie den Eintrag per Drag-and **Drop aus dem** Glossar“ an die gewünschte Position im Thema.
 
-Wenn die Karte Glossareinträge enthält und ordnungsgemäß konfiguriert ist, können Themen automatisch aktualisiert werden, um ein abgekürztes Formular zu enthalten.
+Wenn die Zuordnung Glossareinträge enthält und ordnungsgemäß konfiguriert ist, können Themen automatisch aktualisiert werden, um ein gekürztes Formular zu enthalten.
 
-## Festlegen einer Stammzuordnung
+## Stammzuordnung angeben
 
-Die richtige Stammzuordnung muss ausgewählt sein, damit sie mit einem Glossar ordnungsgemäß funktioniert. Wenn eine Stammzuordnung Glossareinträge findet, werden diese im Glossarbereich angezeigt.
+Die richtige Stammzuordnung muss ausgewählt sein, damit sie mit einem Glossar ordnungsgemäß funktioniert. Wenn eine Root Map Glossareinträge findet, werden diese im Glossar-Bedienfeld angezeigt.
 
-1. Wählen Sie bei geöffnetem Thema im linken Bereich **Glossar** aus.
+1. Wählen Sie bei geöffnetem Thema **Glossar** im linken Bereich aus.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“ in der oberen Symbolleiste.
 
-   ![Symbol &quot;Benutzereinstellungen&quot;](images/reuse/user-prefs-icon.png)
+   ![Symbol für Benutzereinstellungen](images/reuse/user-prefs-icon.png)
 
 1. Klicken Sie auf das Schlüsselsymbol, um die richtige Stammzuordnung für die Arbeit mit dem Glossar anzugeben.
 
-1. Klicken Sie auf [!UICONTROL **Select**].
+1. Klicken Sie [!UICONTROL **Auswählen**].
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
@@ -45,42 +45,42 @@ Das Glossar-Bedienfeld wird automatisch aktualisiert.
 
 ## Arbeiten mit dem Glossar
 
-1. Navigieren Sie zur Ansicht &quot;**Repository&quot;**.
+1. Navigieren Sie zur **Repository-Ansicht**.
 
-1. Wählen Sie die vorkonfigurierte Zuordnung für die Verwendung des Glossars aus.
+1. Wählen Sie die für das Glossar vorkonfigurierte Zuordnung aus.
 
-   ![Pre-config Map-Symbol](images/lesson-10/preconfig-map.png)
+   ![Zuordnungssymbol vor der Konfiguration](images/lesson-10/preconfig-map.png)
 
-1. Wählen Sie die [!UICONTROL **Kartenansicht**] aus.
+1. Wählen Sie die [!UICONTROL **Kartenansicht**].
 
-1. Stellen Sie sicher, dass in der Kartenansicht die erforderlichen Themen angezeigt werden.
+1. Stellen Sie sicher, dass in der Zuordnungsansicht die erforderlichen Themen angezeigt werden.
 
-## Vorschau eines Glossars
+## Vorschau eines Glosseneintrags
 
-Da es möglich ist, Massenänderungen vorzunehmen, kann es wichtig sein, eine Vorschau eines Glossars anzuzeigen.
+Da Massenänderungen möglich sind, kann es wichtig sein, eine Vorschau eines Glossars anzuzeigen.
 
-1. Wählen Sie im linken Bereich die Option **Glossar** aus.
+1. Wählen **Glossar** im linken Bedienfeld aus.
 
-1. Klicken Sie auf das Kontextmenü neben einem Glossar und wählen Sie [!UICONTROL **Vorschau**] aus.
+1. Klicken Sie auf das Kontextmenü neben einem Glossar und wählen Sie [!UICONTROL **Vorschau**].
 
-Sowohl die abgekürzte Form als auch die Glossardefinition werden angezeigt.
+Sowohl das abgekürzte Formular als auch die Glossardefinition werden angezeigt.
 
-## Überprüfen der Hotspot-Tool-Einstellungen
+## Einstellungen des Hotspot-Tools überprüfen
 
-Verwenden Sie das Hotspot-Tool, um eine komplette Sammlung von Glossareinträgen aus einer einzelnen Karte zu erstellen. Sie können sogar bestimmte Textbegriffe suchen und in verknüpfte Glossarabkürzungen konvertieren.
+Verwenden Sie das Hotspot-Tool, um eine ganze Sammlung von Glossareinträgen aus einer Karte zu erstellen. Sie können sogar bestimmte Textbegriffe suchen und in verknüpfte Glossarabkürzungen konvertieren.
 
-1. Wählen Sie im Glossarbedienfeld das Symbol [!UICONTROL **Hotspot-Symbol**] aus.
+1. Wählen Sie im Glossarbedienfeld das [!UICONTROL **Hotspot-Symbol**] aus.
 
    ![Hotspot-Symbol](images/lesson-10/hotspot-icon.png)
 
-1. Klicken Sie auf das Dropdown-Menü [!UICONTROL **Glossarschlüssel**] und wählen Sie nur die Schlüssel aus, die angewendet werden sollen.
+1. Klicken Sie auf [!UICONTROL **Glossar**] und wählen Sie nur die Schlüssel aus, die Sie anwenden möchten.
 
-1. Klicken Sie auf das Dropdown-Menü [!UICONTROL **Themen**] , um den Inhalt auszuwählen, der betroffen sein soll.
+1. Klicken Sie auf [!UICONTROL **Themen**] Dropdown-Menü, um den Inhalt auszuwählen, der betroffen sein soll.
 
-1. Klicken Sie auf das Dropdown-Menü [!UICONTROL **Themen nach Status filtern**] , um die konfigurierten Optionen zu überprüfen.
+1. Klicken Sie auf [!UICONTROL **Dropdown-Liste Themen nach Status**], um die konfigurierten Optionen anzuzeigen.
 
-1. Konfigurieren Sie die restlichen Einstellungen nach Bedarf.
+1. Konfigurieren Sie die verbleibenden Einstellungen nach Bedarf.
 
 1. Klicken Sie abschließend auf [!UICONTROL **Konvertieren**].
 
-Im Glossar-Bedienfeld werden jetzt alle aktualisierten Themen sowie Themen mit Fehlern angezeigt.
+Im Glossarbedienfeld werden nun alle aktualisierten Themen sowie Themen mit Fehlern angezeigt.

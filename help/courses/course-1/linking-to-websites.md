@@ -11,61 +11,61 @@ ht-degree: 1%
 
 # Verknüpfen mit Websites
 
-Über Web-Links werden Leser zu Websites weitergeleitet, auf denen sie weitere Informationen erhalten, mit externen Inhalten interagieren oder auf herunterladbare Dateien zugreifen können. In den folgenden Schritten wird erläutert, wie Sie einem vorhandenen Konzept einen Web-Link hinzufügen.
+Über Weblinks gelangen Leser zu Websites, auf denen sie weitere Informationen erhalten, mit externen Inhalten interagieren oder auf die sie herunterladen können. In den folgenden Schritten wird beschrieben, wie Sie einem vorhandenen Konzept einen Weblink hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336656?quality=12&learn=on)
 
 ## Link einfügen
 
 1. Wählen Sie Ihr Konzept aus dem Repository aus und öffnen Sie es im Editor.
-1. Fügen Sie Ihrem Konzept eine Textzeichenfolge hinzu und markieren Sie es oder markieren Sie vorhandenen Text Ihrer Wahl.
+1. Fügen Sie Ihrem Konzept eine Textzeichenfolge hinzu und markieren Sie es oder markieren Sie einen vorhandenen Text Ihrer Wahl.
 
-   In diesem hervorgehobenen Text wird der Link eingefügt.
-1. Wählen Sie in der Symbolleiste die Schaltfläche **Querverweis einfügen** aus.
+   In diesen hervorgehobenen Text wird Ihr Link eingefügt.
+1. Wählen Sie in **Symbolleiste die Schaltfläche** Querverweis einfügen“.
 
-   ![Symbol &quot;Querverweis einfügen&quot;](images/lesson-5/insert-crossref-icon.png)
+   ![Symbol „Querverweis einfügen“](images/lesson-5/insert-crossref-icon.png)
 
-   Das Dialogfeld &quot;Referenz&quot;wird angezeigt.
+   Das Dialogfeld „Referenz“ wird angezeigt.
 
 
-1. Wählen Sie im linken Menü **Web-Link** aus.
+1. Wählen **Weblink** aus dem linken Menü aus.
 1. Fügen Sie die gewünschte URL ein und klicken Sie dann auf **Auswählen**.
 
-   Der Link ist funktionsfähig und öffnet eine Webseite in einem neuen Browser-Tab, wenn darauf geklickt wird.
+   Der Link funktioniert und öffnet eine Web-Seite in einer neuen Browser-Registerkarte, wenn Sie darauf klicken.
 
 ## Verwenden der Vorschau zum Testen von Links
 
-Über die Schaltfläche Vorschau können Sie eine Vorschau eines Themas anzeigen. Hier können Sie Ihre Links testen und so anzeigen, wie es Ihre Zielgruppe tun würde.
+Mit der Schaltfläche Vorschau können Sie eine Vorschau eines Themas anzeigen. Hier können Sie Ihre Links testen und wie Ihre Zielgruppe anzeigen.
 
-1. Wählen Sie in der oberen schwarzen Menüleiste **Vorschau** aus.
+1. Wählen **Vorschau** in der oberen schwarzen Menüleiste aus.
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
    Ihr Konzept wird in der Vorschau geöffnet.
 
-1. Wählen Sie Ihren Link aus.
-Das Link-Ziel wird auf einer anderen Registerkarte geöffnet.
-1. Kehren Sie zur Autorenansicht zurück, indem Sie in der oberen schwarzen Menüleiste **Autor** auswählen.
+1. Link auswählen.
+Das Link-Ziel wird in einer anderen Registerkarte geöffnet.
+1. Kehren Sie zur Autorenansicht zurück, indem **Autor** in der oberen schwarzen Menüleiste auswählen.
 
-   ![Autorenschaltfläche](images/lesson-5/author-map.png)
+   ![Schaltfläche „Autor“](images/lesson-5/author-map.png)
 
 
-## Als neue Version speichern
+## Speichern als neue Version
 
-Nachdem Sie Ihrem Konzept nun mehr Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
+Nachdem Sie Ihrem Konzept weitere Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie das Symbol **Als neue Version speichern** aus.
+1. Wählen Sie das **Als neue Version speichern**.
 
-   ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
+   ![Als neue Version speichern](images/common/save-as-new-version.png)
 
 1. Geben Sie im Feld Kommentare für neue Version eine kurze, aber klare Zusammenfassung der Änderungen ein.
 1. Geben Sie im Feld Versionsbezeichnungen alle relevanten Bezeichnungen ein.
 
-   Mit Beschriftungen können Sie die Version angeben, die Sie beim Veröffentlichen einbeziehen möchten.
+   Mit Beschriftungen können Sie die Version angeben, die Sie bei der Veröffentlichung einbeziehen möchten.
 
    >[!NOTE]
    > 
-   > Wenn Ihr Programm mit vordefinierten Bezeichnungen konfiguriert ist, können Sie aus diesen auswählen, um eine konsistente Beschriftung sicherzustellen.
+   > Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
 
 1. Wählen Sie **Speichern** aus.
 

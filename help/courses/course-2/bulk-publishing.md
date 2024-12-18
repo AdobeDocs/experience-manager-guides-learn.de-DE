@@ -1,6 +1,6 @@
 ---
 title: Massenveröffentlichung
-description: Massenveröffentlichung in  [!DNL Adobe Experience Manager Guides]
+description: Massenveröffentlichung in [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,13 +11,13 @@ ht-degree: 5%
 
 # Massenveröffentlichung
 
-Bei der Veröffentlichung sind häufig mehr als eine Art von Dokumentation erforderlich. Mithilfe von Sammlungen zuordnen können Sie die Anzahl und die Arten der Ausgabe steuern, die assembliert und generiert werden und die Massenveröffentlichung starten. Im Publish Dashboard können Sie aktive Veröffentlichungsaufträge anzeigen. Das Massen-Publish-Dashboard bietet eine Möglichkeit, Sammlungen stapelweise zu aktivieren.
+Bei der Veröffentlichung wird oft mehr als eine Art von Dokumentation benötigt. Mit Zuordnungssammlungen können Sie die Anzahl und die Typen von Ausgaben steuern, die zusammengestellt und generiert werden, und die Massenveröffentlichung starten. Im Publish-Dashboard können Sie aktive Veröffentlichungsaufträge anzeigen. Das Massen-Publish-Dashboard bietet eine Möglichkeit, Sammlungen stapelweise zu aktivieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338985?quality=12&learn=on)
 
-## Arbeiten mit Sammlungen zuordnen
+## Arbeiten mit Zuordnungssammlungen
 
-Mithilfe von Sammlungen zuordnen können Sie die Ausgabetypen steuern, die für eine oder mehrere Zuordnungen generiert werden.
+Mit Zuordnungssammlungen können Sie die Ausgabetypen steuern, die für eine oder mehrere Zuordnungen generiert werden.
 
 ### Erstellen von Zuordnungssammlungen
 
@@ -29,44 +29,44 @@ Mithilfe von Sammlungen zuordnen können Sie die Ausgabetypen steuern, die für 
 
 1. Geben Sie einen Sammlungstitel ein.
 
-   ![Map-Collection](images/map-collection.png)
+   ![map-collection](images/map-collection.png)
 
 1. Klicken Sie auf **Erstellen**.
 1. Schließen Sie die Erfolgsmeldung.
 
-1. Öffnen Sie die Zuordnungssammlung (klicken Sie auf den grauen Abschnitt unter der Kachel).
+1. Öffnen Sie die Zuordnungssammlung (klicken Sie auf den grauen Abschnitt unter der Kachel)
 
 1. Klicken Sie auf **Bearbeiten**.
 
-1. Fügen Sie nach Bedarf Zuordnungen hinzu.
+1. Fügen Sie bei Bedarf Karten hinzu.
 
-1. Wählen Sie für jede Zuordnung **Ausgabevorgaben** aus oder heben Sie die Auswahl auf.
+1. Wählen oder deaktivieren Sie **Ausgabevorgaben** für jede Zuordnung.
 1. Klicken Sie auf **Fertig**.
 
 ### Filtern von Zuordnungsvorgaben
 
 1. Öffnen Sie eine Zuordnungsvorgabe.
 
-1. Erweitern Sie unter **Filter** die Optionen und wählen Sie sie nach Bedarf aus.
+1. Erweitern **unter** Filter) und wählen Sie Optionen nach Bedarf aus.
 
-### Generieren von Inhalten in einer Map Collection
+### Erstellen von Inhalten in einer Zuordnungssammlung
 
 1. Öffnen Sie eine Zuordnungsvorgabe.
 
-1. Klicken Sie, falls gewünscht, auf **Alle generieren**.
+1. Klicken Sie bei Bedarf auf **Alle generieren**.
 
-1. Oder wählen Sie die zu erzeugenden Zuordnungen und Ausgabetypen aus und klicken Sie auf &quot;**Ausgewählte generieren**&quot;.
+1. Oder wählen Sie die zu generierenden Zuordnungen und Ausgabetypen aus und klicken Sie auf **Ausgewählte generieren**.
 
-1. Wechseln Sie bei Bedarf zum Tab Ausgaben .
+1. Wechseln Sie bei Bedarf zur Registerkarte Ausgaben .
 
 1. Überprüfen Sie die Ausgabe.
 
-## Anzeigen aktiver Veröffentlichungsaufträge im Publish Dashboard
+## Anzeigen aktiver Veröffentlichungsaufträge im Publish-Dashboard
 
-Im Publish Dashboard können Sie aktive
+Im Publish-Dashboard können Sie die aktiven
 Veröffentlichungsaufträge. Es zeigt eine dynamische Liste von Karten und deren aktuellen Status an. Sie können Veröffentlichungs-Workflows verfolgen, verwalten oder abbrechen.
 
-1. Klicken Sie in der Navigationsansicht auf das Symbol **Tools** .
+1. Klicken Sie in der Navigationsansicht auf das Symbol **Tools**.
 
 1. Klicken Sie auf **[!DNL Guides]**.
 
@@ -77,17 +77,17 @@ Veröffentlichungsaufträge. Es zeigt eine dynamische Liste von Karten und deren
    
 1. Filtern Sie das Dashboard nach Bedarf, um alle Veröffentlichungsaufträge anzuzeigen.
 
-### Arbeiten mit dem Massen-Publish-Dashboard
+### Arbeiten mit dem Publish-Massen-Dashboard
 
-Mit dem Massen-Publish-Dashboard können Sie mit Massenaktivierungssammlungen arbeiten und mehrere Ausgabetypen steuern.
+Das Publish-Massen-Dashboard ermöglicht es Ihnen, mit Massenaktivierungssammlungen zu arbeiten und mehrere Ausgabetypen zu steuern.
 
-### Erstellen einer Massenaktivierungskollektion
+### Erstellen einer Massenaktivierungssammlung
 
-1. Klicken Sie in der Navigationsansicht auf das Symbol **Tools** .
+1. Klicken Sie in der Navigationsansicht auf das Symbol **Tools**.
 
 1. Klicken Sie auf **[!DNL Guides]**.
 
-1. Wählen Sie die Kachel **Publish-Dashboard-Stapel** aus.
+1. Wählen Sie die Kachel **Massen-Publish-Dashboard** aus.
 
 1. Geben Sie einen Sammlungstitel ein.
 
@@ -95,19 +95,19 @@ Mit dem Massen-Publish-Dashboard können Sie mit Massenaktivierungssammlungen ar
 
 1. Klicken Sie auf **Öffnen**.
 
-1. Öffnen Sie die Zuordnungssammlung (klicken Sie auf den grauen Abschnitt unter der Kachel).
+1. Öffnen Sie die Zuordnungssammlung (klicken Sie auf den grauen Abschnitt unter der Kachel)
 
 1. Klicken Sie auf **Bearbeiten**.
 
-1. Fügen Sie nach Bedarf Zuordnungen hinzu.
+1. Fügen Sie bei Bedarf Karten hinzu.
 
-1. Wählen Sie für jede Zuordnung **Ausgabevorgaben** aus oder heben Sie die Auswahl auf.
+1. Wählen oder deaktivieren Sie **Ausgabevorgaben** für jede Zuordnung.
 1. Klicken Sie auf **Fertig**.
-1. Schließen Sie die Zuordnungssammlung, wenn Sie fertig sind.
+1. Schließen Sie abschließend die Zuordnungssammlung.
 
-### Schnellere Publish-Massenaktivierung
+### Schnelle Publish-Massenaktivierungssammlung
 
-1. Wählen Sie die Kachel Massenaktivierung - Sammlung aus.
+1. Wählen Sie eine Sammlungskachel für die Massenaktivierung aus.
 1. Klicken Sie auf **Öffnen**.
-1. Wählen Sie eine oder mehrere Maps aus.
-1. Klicken Sie auf **Quick Publish**.
+1. Eine oder mehrere Karten auswählen.
+1. Klicken Sie **Quick Publish**.

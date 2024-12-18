@@ -1,6 +1,6 @@
 ---
-title: Schlussfolgerungen zur Trainingsserie
-description: Überblick und Zusammenfassung der AEM Guides-Schulungen
+title: Abschluss der Trainingsreihe
+description: Übersicht und Zusammenfassung der Schulungen in AEM Guides
 exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 In diesem Kurs haben Sie Folgendes gelernt:
 
-- [Benutzereinstellungen und Einstellungen](./user-settings-preferences-toolbars.md)
+- [Benutzereinstellungen und -einstellungen](./user-settings-preferences-toolbars.md)
 
 - [Ordnerprofile](folder-profiles.md)
 
@@ -23,13 +23,13 @@ In diesem Kurs haben Sie Folgendes gelernt:
 
 - [Panels](panels.md)
 
-- [Gliederung anzeigen](outline-view.md)
+- [Gliederungsansicht](outline-view.md)
 
 - [Querverweise und Links](cross-references-and-links.md)
 
 - [Wiederverwendung von Inhalten](content-reuse.md)
 
-- [Schlüssel](keys.md)
+- [keys](keys.md)
 
 - [Glossar](glossary.md)
 
@@ -41,4 +41,4 @@ In diesem Kurs haben Sie Folgendes gelernt:
 
 - [Karten und Lesezeichen](maps-and-bookmaps.md)
 
-- [Workflows zur Erstellung von einfachen Inhalten](simple-content-creation-workflows.md)
+- [Einfache Workflows zur Inhaltserstellung](simple-content-creation-workflows.md)

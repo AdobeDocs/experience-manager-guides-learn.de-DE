@@ -11,58 +11,58 @@ ht-degree: 1%
 
 # Arbeiten mit Listen
 
-Sie benötigen möglicherweise Listen mit Aufzählungszeichen und Nummerierungen, um Ihre Informationen zu organisieren. Im Folgenden erfahren Sie, wie Sie Listen in einem vorhandenen Konzept einfügen und verwenden können.
+Möglicherweise benötigen Sie Aufzählungslisten und nummerierte Listen, um Ihre Informationen zu organisieren. Im Folgenden erfahren Sie, wie Sie Listen in ein vorhandenes Konzept einfügen und damit arbeiten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336658?quality=12&learn=on)
 
 ## Aufzählungslisten
 
-Eine Liste mit Aufzählungszeichen oder unsortierten Elementen sollte verwendet werden, wenn Listenkomponenten nicht in einer bestimmten Reihenfolge angeordnet werden müssen.
+Wenn Listenkomponenten nicht in einer bestimmten Reihenfolge angeordnet werden müssen, sollten Aufzählungslisten oder ungeordnete Listen verwendet werden.
 
-### Liste mit Aufzählungszeichen einfügen
+### Aufzählungsliste einfügen
 
-1. Wählen Sie in der Symbolleiste das Symbol **Aufzählungsliste einfügen** aus.
+1. Wählen Sie das **Aufzählungsliste einfügen** aus der Symbolleiste aus.
 
-   ![Symbol &quot;Aufzählungsliste einfügen&quot;](images/lesson-6/insert-bulleted-list.png)
+   ![Symbol für Aufzählungslisten einfügen](images/lesson-6/insert-bulleted-list.png)
 
-   Ein Punkt mit Aufzählungszeichen wird angezeigt. Dies ist der Anfang Ihrer Liste.
+   Ein Aufzählungspunkt wird angezeigt. Das ist der Anfang Ihrer Liste.
 
-1. Geben Sie Ihren ersten Listeneintrag ein.
-1. Drücken Sie die Eingabetaste , um einen zweiten Eintrag zu erstellen und den Inhalt einzugeben.
-1. Fügen Sie nach Bedarf weitere Listenelemente hinzu.
+1. Geben Sie Ihr erstes Listenelement ein.
+1. Drücken Sie die Eingabetaste, um einen zweiten Eintrag zu erstellen, und geben Sie Ihren Inhalt ein.
+1. Fügen Sie Listenelemente nach Bedarf hinzu.
 
 ## Nummerierte Listen
 
-Eine nummerierte Liste sollte verwendet werden, wenn Listenkomponenten in einer bestimmten Reihenfolge angeordnet oder strukturiert werden müssen.
+Eine nummerierte Liste sollte verwendet werden, wenn Listenkomponenten auf eine bestimmte Weise sortiert oder strukturiert werden müssen.
 
-### Einfügen einer geordneten Liste
+### Sortierte Liste einfügen
 
-1. Wählen Sie in der Symbolleiste das Symbol **Nummerierte Liste einfügen** aus.
+1. Wählen Sie in **Symbolleiste das Symbol** Nummerierte Liste einfügen“ aus.
 
-   ![Symbol &quot;Nummerierte Liste einfügen&quot;](images/lesson-6/insert-numbered-list.png)
+   ![Symbol für nummerierte Listen einfügen](images/lesson-6/insert-numbered-list.png)
 
-   Eine Zahl wird angezeigt. Dies ist der Anfang Ihrer Liste.
+   Eine Zahl wird angezeigt. Das ist der Anfang Ihrer Liste.
 
-1. Geben Sie Ihren ersten Listeneintrag ein.
-1. Drücken Sie die Eingabetaste , um einen zweiten Eintrag zu erstellen und den Inhalt einzugeben.
-1. Fügen Sie nach Bedarf weitere Listenelemente hinzu.
+1. Geben Sie Ihr erstes Listenelement ein.
+1. Drücken Sie die Eingabetaste, um einen zweiten Eintrag zu erstellen, und geben Sie Ihren Inhalt ein.
+1. Fügen Sie Listenelemente nach Bedarf hinzu.
 
-## Als neue Version speichern
+## Speichern als neue Version
 
-Nachdem Sie Ihrem Konzept nun mehr Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
+Nachdem Sie Ihrem Konzept weitere Inhalte hinzugefügt haben, können Sie Ihre Arbeit als neue Version speichern und Ihre Änderungen aufzeichnen.
 
-1. Wählen Sie das Symbol **Als neue Version speichern** aus.
+1. Wählen Sie das **Als neue Version speichern**.
 
-   ![Symbol &quot;Als neue Version speichern&quot;](images/common/save-as-new-version.png)
+   ![Als neue Version speichern](images/common/save-as-new-version.png)
 
 1. Geben Sie im Feld Kommentare für neue Version eine kurze, aber klare Zusammenfassung der Änderungen ein.
 1. Geben Sie im Feld Versionsbezeichnungen alle relevanten Bezeichnungen ein.
 
-   Mit Beschriftungen können Sie die Version angeben, die Sie beim Veröffentlichen einbeziehen möchten.
+   Mit Beschriftungen können Sie die Version angeben, die Sie bei der Veröffentlichung einbeziehen möchten.
 
    >[!NOTE]
    > 
-   > Wenn Ihr Programm mit vordefinierten Bezeichnungen konfiguriert ist, können Sie aus diesen auswählen, um eine konsistente Beschriftung sicherzustellen.
+   > Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
 
 1. Wählen Sie **Speichern** aus.
 

@@ -11,91 +11,91 @@ ht-degree: 0%
 
 # Bedienfelder
 
-Der AEM Guides Web Editor ist in mehrere Abschnitte unterteilt, darunter eine Hauptsymbolleiste, eine sekundäre Symbolleiste, einen linken Bereich, einen Inhaltsbearbeitungsbereich und einen rechten Bereich.
+Der AEM Guides-Web-Editor ist in mehrere Abschnitte unterteilt, darunter eine Haupt-Symbolleiste, eine sekundäre Symbolleiste, ein linkes Bedienfeld, ein Inhaltsbearbeitungsbereich und ein rechtes Bedienfeld.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342760?quality=12&learn=on)
 
 ## Größe des linken Bedienfelds ändern
 
-Persistente Bedienfelder wie das linke Bedienfeld sind in der Größe einstellbar.
+Persistente Bedienfelder wie das linke Bedienfeld sind in der Größe anpassbar.
 
-1. Setzen Sie den Cursor auf den Rand des Bedienfelds.
+1. Positionieren Sie den Cursor auf dem Rand des Bedienfelds.
 
-1. Wenn der Doppelpfeil angezeigt wird, klicken Sie auf und ziehen Sie nach Bedarf nach innen oder außen.
+1. Wenn der Doppelpfeil angezeigt wird, klicken Sie und ziehen Sie ihn nach Bedarf nach innen oder außen.
 
-## Erweitern oder Reduzieren der linken Fensterseitenleiste
+## Linke Seitenleiste erweitern oder reduzieren
 
-In der erweiterten Ansicht werden die Namen und Symbole angezeigt, die in der ausgeblendeten Ansicht als QuickInfos angezeigt werden.
+In der erweiterten Ansicht werden die Namen und Symbole angezeigt, die in der reduzierten Ansicht als QuickInfos angezeigt werden.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Seitenleiste**] , um das Bedienfeld zu erweitern.
+1. Klicken Sie auf [!UICONTROL **Seitenleiste**], um das Bedienfeld zu erweitern.
 
    ![Seitenleiste erweitern](images/lesson-5/expand-sidebar.png)
 
-1. Klicken Sie erneut auf das Symbol [!UICONTROL **Seitenleiste**] , um das Bedienfeld zu reduzieren.
+1. Klicken Sie erneut auf [!UICONTROL **Seitenleiste**], um das Bedienfeld zu reduzieren.
 
    ![Seitenleiste reduzieren](images/lesson-5/collapse-sidebar.png)
 
 ## Erstellen einer Favoritensammlung
 
-Im linken Bereich können Sie mit &quot;Favoriten&quot;eine Liste spezifischer Dokumente erstellen und diese im Laufe der Zeit ergänzen. Sie können eine breite Sammlung von Favoriten erstellen und verwalten.
+Im linken Bereich können Sie mit Favoriten eine Liste bestimmter Dokumente erstellen und im Laufe der Zeit hinzufügen. Sie können eine breite Sammlung von Favoriten erstellen und verwalten.
 
-1. Wählen Sie im linken Bereich **Favoriten** aus.
+1. Wählen **im linken** „Favoriten“ aus.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Plus**].
+1. Klicken Sie auf das [!UICONTROL **Plus**]-Symbol.
 
    ![Favoriten Plus](images/lesson-5/favorites-plus.png)
 
-1. Geben Sie im Dialogfeld &quot;Neue Sammlung&quot;einen **Titel** und eine **Beschreibung** ein.
+1. Geben Sie im Dialogfeld Neue Sammlung einen **Titel** und eine **Beschreibung** ein.
 
-   Beachten Sie, dass die Auswahl von Öffentlich bedeutet, dass andere Benutzer diesen Favoriten sehen können.
+   Beachten Sie, dass durch Auswahl von „Öffentlich“ andere Benutzer diesen Favoriten sehen können.
 
 1. Klicken Sie auf [!UICONTROL **Erstellen**].
 
 Sie haben jetzt eine Favoritensammlung erstellt.
 
-## Hinzufügen einer Datei zu einer Favoriten-Sammlung aus dem Repository
+## Hinzufügen einer Datei zu einer Favoritensammlung aus dem Repository
 
 Nachdem Sie eine Sammlung erstellt haben, können Sie damit beginnen, ihr Favoriten hinzuzufügen.
 
-1. Wählen Sie im linken Bereich die Option **Repository-Ansicht** aus.
+1. Wählen **im linken** „Repository-Ansicht“ aus.
 
-1. Klicken Sie auf die Schaltfläche [!UICONTROL **Auslassungspunkte**] neben einem Thema, um auf kontextbezogene Optionen zuzugreifen.
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**] neben einem Thema, um auf kontextuelle Optionen zuzugreifen.
 
-1. Wählen Sie **Zu** hinzufügen > **Favoriten**.
+1. Wählen Sie **Hinzufügen zu** > **Favoriten**.
 
 1. Wählen Sie im Dialogfeld Zu Favoriten hinzufügen die Option **Neue Sammlung** oder **Vorhandene Sammlung**.
 
-   In unserem Beispiel möchten wir einer vorhandenen Sammlung hinzufügen.
+   Hier wählen wir das Hinzufügen zu einer vorhandenen Sammlung.
 
-   ![Dialogfeld &quot;Favoriten&quot;](images/lesson-5/add-to-favorites-dialog.png)
+   ![Favoritendialogfeld](images/lesson-5/add-to-favorites-dialog.png)
 
-1. Wählen Sie bei Bedarf eine Sammlung aus der Dropdown-Liste aus.
+1. Wählen Sie bei Bedarf eine Sammlung aus dem Dropdown-Menü aus.
 
 1. Klicken Sie auf [!UICONTROL **Hinzufügen**].
 
-Das Thema wird der von Ihnen ausgewählten Favoritensammlung hinzugefügt. Sie können sie im Menü Favoriten anzeigen.
+Das Thema wird der ausgewählten Favoritensammlung hinzugefügt. Sie können sie im Menü Favoriten anzeigen.
 
-## Hinzufügen einer Datei zu einer Favoriten-Sammlung aus dem Editor
+## Hinzufügen einer Datei zu einer Favoritensammlung über den Editor
 
-Eine weitere Möglichkeit, ein Thema zu Ihren Favoriten hinzuzufügen, ist ein geöffnetes Thema im Editor.
+Eine weitere Möglichkeit, ein Thema zu Ihren Favoriten hinzuzufügen, besteht darin, ein Thema im Editor zu öffnen.
 
-1. Navigieren Sie zur Ansicht &quot;**Repository&quot;**.
+1. Navigieren Sie zur **Repository-Ansicht**.
 
 1. Doppelklicken Sie auf ein Thema, um es zu öffnen.
 
-1. Klicken Sie im Editor mit der rechten Maustaste auf die Registerkarte **Titel** der Datei, um auf die Kontextoptionen zuzugreifen.
+1. Klicken Sie im Editor mit der rechten Maustaste auf **Registerkarte „Titel**, um auf kontextuelle Optionen zuzugreifen.
 
-1. Wählen Sie **Zu** hinzufügen > **Favoriten**.
+1. Wählen Sie **Hinzufügen zu** > **Favoriten**.
 
    ![Zu Favoriten hinzufügen](images/lesson-5/addto-favorites.png)
 
 1. Wählen Sie im Dialogfeld Zu Favoriten hinzufügen die Option **Neue Sammlung** oder **Vorhandene Sammlung**.
 
-   Hier wählen wir die Hinzufügung zu einer neuen Sammlung.
+   Hier wählen wir das Hinzufügen zu einer neuen Sammlung.
 
-1. Geben Sie im Dialogfeld &quot;Neue Sammlung&quot;einen **Titel** und eine **Beschreibung** ein.
+1. Geben Sie im Dialogfeld Neue Sammlung einen **Titel** und eine **Beschreibung** ein.
 
-   Beachten Sie, dass die Auswahl von **Öffentlich** bedeutet, dass andere Benutzer diesen Favoriten sehen können.
+   Beachten Sie, dass **Auswahl von**&#x200B;Öffentlich“ bedeutet, dass andere Benutzer diesen Favoriten sehen können.
 
 1. Klicken Sie auf [!UICONTROL **Erstellen**].
 
@@ -103,110 +103,110 @@ Der neue Favorit wurde erstellt und gruppiert. Sie können sie im Menü Favorite
 
 ## Favoriten anzeigen und verwalten
 
-Es ist einfach anzuzeigen, welche Themen Sie bereits zu Ihren Favoriten-Sammlungen hinzugefügt haben.
+Es ist einfach zu sehen, welche Themen Sie bereits zu Ihren Favoriten hinzugefügt haben.
 
-1. Wählen Sie im linken Bereich [!UICONTROL **Favoriten**] aus.
+1. Wählen [!UICONTROL **im linken**] „Favoriten“ aus.
 
-1. Klicken Sie unter &quot;Favoriten&quot;auf das Symbol [!UICONTROL **Pfeil**] neben einer Sammlung, um deren Inhalt anzuzeigen.
+1. Klicken Sie unter Favoriten auf das [!UICONTROL **Pfeil**]-Symbol neben einer Sammlung, um deren Inhalt anzuzeigen.
 
    ![Favoriten anzeigen](images/lesson-5/view-favorites.png)
 
-1. Klicken Sie auf die Schaltfläche [!UICONTROL **Auslassungspunkte**] neben einem Thema, um kontextbezogene Optionen anzuzeigen, einschließlich der Option, sie aus der Favoritenliste zu löschen.
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**] neben einem Thema, um kontextuelle Optionen aufzurufen, einschließlich der Option, sie aus der Favoritenliste zu löschen.
 
 ## Filtern einer Suche in der Repository-Ansicht
 
 Der erweiterte Filter im Repository ermöglicht die Suche nach Text mit einer Vielzahl von Einschränkungen.
 
-1. Navigieren Sie zu **Repository-Ansicht**.
+1. Navigieren Sie **Repository-Ansicht**.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Suche filtern**] .
+1. Klicken Sie auf das [!UICONTROL **Suche filtern**].
 
-   ![Symbol &quot;Repository-Filter&quot;](images/lesson-5/repository-filter-icon.png)
+   ![Repository-Filtersymbol](images/lesson-5/repository-filter-icon.png)
 
 1. Geben Sie Text in den ausgewählten Pfad ein oder wählen Sie ggf. einen neuen Pfad aus.
 
    Die Liste der Dateien wird aktualisiert, wenn Sie Text in den Filter eingeben.
 
-1. Klicken Sie auf das Pfeilsymbol neben einer Suchkategorie, um die Suche bei Bedarf weiter einzuschränken.
+1. Klicken Sie auf das Pfeilsymbol neben einer Suchkategorie, um die Suche bei Bedarf weiter einzugrenzen.
 
    ![Filterkriterien](images/lesson-5/filter-criteria.png)
 
-Die Suche kann auf DITA-Themen oder DITA-Maps beschränkt werden. Im ausgewählten Pfad können Sie nach Nicht-DITA-Bilddateien, Multimedia-Dateien oder anderen Dokumenten suchen. Sie können die Suche sogar auf DITA-Elemente beschränken oder nach Datei-Checkout filtern.
+Die Suche kann auf DITA-Themen oder DITA-Maps eingegrenzt werden. Sie können Nicht-DITA-Bilddateien, Multimedia oder andere Dokumente im ausgewählten Pfad suchen. Sie können die Suche auch auf DITA-Elemente beschränken oder nach Auschecken der Datei filtern.
 
-## Landkartenansicht durchsuchen
+## Erkunden der Kartenansicht
 
-In der Kartenansicht stehen verschiedene nützliche Funktionen zur Verfügung, darunter die Möglichkeit, Dateien auszuchecken und zu sperren, eine Vorschau der Zuordnungsdatei anzuzeigen, das Zuordnungs-Dashboard zu öffnen und die Zuordnung in der Assets-Benutzeroberfläche anzuzeigen.
+In der Zuordnungsansicht sind mehrere nützliche Funktionen verfügbar, darunter die Möglichkeit zum Auschecken und Sperren von Dateien, zur Vorschau der Zuordnungsdatei, zum Öffnen des Zuordnungs-Dashboards und zum Anzeigen der Zuordnung in der Assets-Benutzeroberfläche.
 
-Weitere Informationen zur Kartenansicht und ihren Funktionen finden Sie in der Lektion mit dem Titel [Karten und Bookmaps](./maps-and-bookmaps.md) in diesem Kurs.
+Weitere Informationen zur Kartenansicht und ihrer Funktionalität finden Sie [ der Lektion ](./maps-and-bookmaps.md)Karten und Bookmaps“ in diesem Kurs.
 
-## Übersicht
+## Erkunden der Gliederungsansicht
 
-Die Gliederung bietet eine hierarchische Ansicht des aktuellen Dokuments in der Gliederung. Sie können die Gliederungsansicht erweitern, um mehrere Elemente sowie zugewiesene IDs anzuzeigen.
+Die Gliederungsansicht bietet eine hierarchische Ansicht des aktuellen Dokuments in der Gliederung. Sie können die Gliederungsansicht erweitern, um mehrere Elemente sowie alle zugewiesenen IDs anzuzeigen.
 
-In dieser Lektion mit dem Titel [Gliederung anzeigen](./outline-view.md) finden Sie weitere Informationen zur Gliederung und deren Funktionen.
+Weitere Informationen zur Gliederungsansicht und ](./outline-view.md) Funktionen finden Sie in [ Lektion Gliederungsansicht diesem Kurs .
 
-## Verwenden wiederverwendbarer Inhalte
+## Arbeiten mit wiederverwendbaren Inhalten
 
-Die DITA-Hauptfunktion ist die Möglichkeit, Inhalte wiederzuverwenden, von kleinen Ausdrücken bis hin zu ganzen Themen oder Karten. Der Editor bietet eine Drag &amp; Drop-Benutzeroberfläche für die Wiederverwendung von Inhalten.
+Die zentrale DITA-Funktion ist die Möglichkeit, Inhalte wiederzuverwenden, von kleinen Sätzen bis hin zu ganzen Themen oder Karten. Der Editor bietet eine Drag-and-Drop-Oberfläche für die Wiederverwendung von Inhalten.
 
-Weitere Informationen finden Sie in der Lektion [Wiederverwendung von Inhalten](./content-reuse.md) in diesem Kurs
-Informationen über wiederverwendbare Inhalte und deren effektive Verwaltung.
+Weitere Informationen finden Sie in der Lektion [Wiederverwendung ](./content-reuse.md) Inhalten“ in diesem Kurs .
+Informationen zu wiederverwendbaren Inhalten und deren effektiver Verwaltung.
 
 ## Arbeiten mit Glossaren
 
-Die Verwendung des Glossars erleichtert es, Informationen konsistent zu formulieren und dem Leser mehr Klarheit zu verschaffen. Der Editor bietet eine Drag &amp; Drop-Oberfläche zum Einfügen von Glossarbegriffen in ein Thema.
+Die Verwendung des Glossars erleichtert die konsistente Formulierung von Informationen und bietet dem Leser mehr Klarheit. Der Editor bietet eine Drag-and-Drop-Oberfläche zum Einfügen von Glossarbegriffen in ein Thema.
 
-Weitere Informationen zur Konfiguration und Verwendung von Glossaren finden Sie in der Lektion mit dem Titel [Glossar](./glossary.md) in diesem Kurs.
+Weitere Informationen zur Konfiguration und Verwendung von Glossaren finden [ in ](./glossary.md) Lektion Glossar in diesem Kurs .
 
 ## Arbeiten mit Bedingungen
 
-In DITA werden Bedingungen häufig durch die Verwendung von Attributen wie Produkt, Plattform und Zielgruppe gesteuert, denen jeweils spezifische Werte zugewiesen werden können. Bedingungen werden über Ordnerprofile verwaltet.
+In DITA werden Bedingungen häufig durch die Verwendung von Attributen wie Produkt, Plattform und Zielgruppe gesteuert, denen jeweils bestimmte Werte zugewiesen werden können. Bedingungen werden über Ordnerprofile verwaltet.
 
-Weitere Informationen zum Konfigurieren und Verwenden von bedingten Attributen finden Sie in der Lektion mit dem Titel [Bedingungen](./conditions.md) in diesem Kurs.
+Weitere Informationen zur Konfiguration und Verwendung von bedingten Attributen finden [ in ](./conditions.md) Lektion mit dem Titel „Bedingungen“ in diesem Kurs.
 
-## Snippet erstellen
+## Erstellen eines Snippets
 
-Snippets sind kleine Inhaltsfragmente, die als Ausgangspunkt für Inhalte oder Strukturen wiederverwendet werden können. Die Verwendung von Snippets verringert die Zeit, die zum Erstellen von Inhalten erforderlich ist, und verbessert die strukturelle Qualität und Konsistenz der Materialien.
+Snippets sind kleine Inhaltsfragmente, die als Ausgangspunkt für Inhalte oder Strukturen wiederverwendet werden können. Die Verwendung von Snippets reduziert den Zeitaufwand für die Erstellung von Inhalten und verbessert die strukturelle Qualität und Konsistenz der Materialien.
 
 1. Öffnen Sie ein Thema im Editor.
 
-1. Wählen Sie ein Element im Thema aus.
+1. Element innerhalb des Themas auswählen.
 
 1. Klicken Sie auf die sekundäre Maustaste innerhalb des Elements.
 
-1. Wählen Sie im resultierenden Menü die Option [!UICONTROL **Snippet**] erstellen.
+1. Wählen Sie im daraufhin angezeigten Menü die Option Erstellen [!UICONTROL **Snippet**].
 
    ![Snippet erstellen](images/lesson-5/create-snippet.png)
 
-1. Fügen Sie im Dialogfeld &quot;Neues Snippet&quot;einen **Titel** und eine **Beschreibung** hinzu.
+1. Fügen Sie im Dialogfeld Neues Snippet einen **Titel** und einen **Beschreibung** hinzu.
 
-1. Bearbeiten Sie den Snippet nach Bedarf.
+1. Bearbeiten Sie das Snippet nach Bedarf.
 
-   Beachten Sie, dass eine Kontextuelle Prüfung Sie visuell benachrichtigt, wenn Sie einen Fehler in den Inhalt einfügen.
+   Beachten Sie, dass eine kontextbezogene Prüfung Sie visuell benachrichtigt, wenn Sie einen Fehler in den Inhalt einführen.
 
 1. Klicken Sie auf [!UICONTROL **Erstellen**].
 
-Das Snippet wird zur Liste der verfügbaren Snippets hinzugefügt. Sie können sie per Drag-and-Drop an eine gültige Position im Thema ziehen.
+Der Ausschnitt wird der Liste der verfügbaren Ausschnitte hinzugefügt. Sie kann jetzt per Drag-and-Drop an eine gültige Position im Thema verschoben werden.
 
 ## Arbeiten mit Vorlagen
 
-Im Bereich &quot;Vorlagen&quot;können Administratoren Vorlagen für Autoren einfach erstellen und verwalten. Standardmäßig werden Vorlagen als Zuordnung und Thementyp kategorisiert.
+Mithilfe des Bedienfelds Vorlagen können Admins mühelos Vorlagen erstellen und verwalten, die Autorinnen und Autoren verwenden können. Standardmäßig werden Vorlagen als „Zuordnung“ und „Thementyp“ kategorisiert.
 
-Weiterführende Informationen zum Konfigurieren und Anwenden von Vorlagen finden Sie in den Lektionen [Ordnerprofile](./folder-profiles.md) und [Workflows zur einfachen Inhaltserstellung](simple-content-creation-workflows.md) in diesem Kurs.
+Weitere Informationen zum Konfigurieren und Anwenden von Vorlagen finden Sie in den Lektionen [Ordnerprofile](./folder-profiles.md) und [Workflows ](simple-content-creation-workflows.md) Erstellung von Inhalten in diesem Kurs.
 
-## Suchen von Dateien mit Suchen und Ersetzen
+## Suchen von Dateien mit „Suchen und Ersetzen“
 
-Im Editor stehen zwei Optionen zum Suchen und Ersetzen zur Verfügung. Das erste erlaubt Suchen und Ersetzen Funktionen innerhalb eines bestimmten offenen Themas, ähnlich wie ein herkömmlicher Textverarbeitungsprogramm. Das zweite ist ein Bereich &quot;Suchen und Ersetzen&quot;, der Text in mehreren Dateien im Repository durchsucht.
+Im Editor stehen zwei Optionen zum Suchen und Ersetzen zur Verfügung. Die erste ermöglicht Suchen und Ersetzen-Funktionen innerhalb eines bestimmten offenen Themas, ähnlich wie bei einer herkömmlichen Textverarbeitung. Das zweite ist ein Bedienfeld „Suchen und Ersetzen“, das Text in mehreren Dateien im Repository durchsucht.
 
-Weitere Informationen zur Funktion &quot;Suchen und Ersetzen&quot;finden Sie in der Lektion mit dem Titel [Rechtschreibprüfung und Suchen und Ersetzen](./spell-check.md) in diesem Kurs.
+Weitere Informationen zur Funktion „Suchen [ Ersetzen“ finden Sie ](./spell-check.md) der Lektion „Rechtschreibprüfung und Suchen und Ersetzen“ in diesem Kurs.
 
-## Inhaltseigenschaften aktualisieren
+## Aktualisieren von Inhaltseigenschaften
 
 Inhaltseigenschaften im rechten Bereich enthalten spezifische Informationen zum aktuell ausgewählten Element, z. B. die Attribut-ID und den Wert.
 
 1. Öffnen Sie ein Thema im **XML-Editor**.
 
-1. Wählen Sie ein **element** aus.
+1. Wählen Sie ein **Element** aus.
 
    Inhaltseigenschaften zeigen den aktuellen Typ und die aktuellen Attribute des Elements an.
 
@@ -214,62 +214,62 @@ Inhaltseigenschaften im rechten Bereich enthalten spezifische Informationen zum 
 
    ![Neuer Wert](images/lesson-5/new-value.png)
 
-Inhaltseigenschaften werden dynamisch aktualisiert, wenn Sie Änderungen an Elementen vornehmen.
+Inhaltseigenschaften werden bei Änderungen an Elementen dynamisch aktualisiert.
 
-## Thema mithilfe der Dateieigenschaften zu einer Zuordnung hinzufügen
+## Hinzufügen eines Themas zu einer Zuordnung mithilfe von Dateieigenschaften
 
-Dateieigenschaften zeigen zusätzliche Informationen zum gesamten geöffneten Thema an. Einige dieser Informationen werden durch Themeneigenschaften gesteuert. Änderungen an anderen Materialien, wie z. B. dem Dokumentstatus, können von Berechtigungen abhängen.
+In den Dateieigenschaften werden zusätzliche Informationen zum gesamten geöffneten Thema angezeigt. Einige dieser Informationen werden durch Themeneigenschaften gesteuert. Änderungen an anderem Material, z. B. dem Dokumentstatus, können von Berechtigungen abhängen.
 
 1. Öffnen Sie ein Thema im Editor.
 
-1. Klicken Sie im rechten Bereich auf das Symbol [!UICONTROL  **Dateieigenschaften**] .
+1. Klicken Sie auf [!UICONTROL  Symbol **Dateieigenschaften**] im rechten Bedienfeld.
 
-   ![Symbol &quot;Dateieigenschaften&quot;](images/lesson-5/file-properties-icon.png)
+   ![Symbol für Dateieigenschaften](images/lesson-5/file-properties-icon.png)
 
-1. Stellen Sie den Dokumentstatus **auf** Bearbeiten **ein.** Beachten Sie, dass die Liste &quot;Verweise&quot;derzeit leer ist.
+1. Setzen Sie den **Dokumentstatus** auf **Bearbeiten**. Beachten Sie, dass die Liste Verweise derzeit leer ist.
 
    ![Keine Verweise](images/lesson-5/no-references.png)
 
 1. Schließen Sie das Thema.
 
-1. Wählen Sie im linken Bereich die Option [!UICONTROL **Repository-Ansicht**] aus.
+1. Wählen [!UICONTROL **im linken**] „Repository-Ansicht“ aus.
 
-1. Öffnen Sie eine Karte.
+1. Öffne eine Karte.
 
    Die Ansicht ändert sich in Kartenansicht.
 
 1. Klicken Sie auf das Symbol [!UICONTROL **Bearbeiten**].
 
-   ![Symbol &quot;Karte bearbeiten&quot;](images/lesson-5/edit-map-icon.png)
+   ![Zuordnungssymbol bearbeiten](images/lesson-5/edit-map-icon.png)
 
-1. Sobald die Zuordnung zur Bearbeitung geöffnet ist, wechseln Sie zurück zur **Repository-Ansicht**.
+1. Sobald die Zuordnung zur Bearbeitung geöffnet ist, wechseln Sie zurück zur **Repository-**.
 
-1. Ziehen Sie das Thema, mit dem Sie arbeiten, in die Karte.
+1. Ziehen Sie das Thema, mit dem Sie arbeiten, per Drag-and-Drop auf die Karte.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Speichern**] .
+1. Klicken Sie auf [!UICONTROL **Speichern**]-Symbol in der oberen Symbolleiste.
 
-Das Thema wird der Karte hinzugefügt. Wenn Sie jetzt das Thema öffnen und die Dateieigenschaften überprüfen, sehen Sie, dass die Verweise aktualisiert werden, um zu zeigen, dass das Thema in der angegebenen Zuordnung verwendet wird.
+Das Thema wird der Karte hinzugefügt. Wenn Sie nun das Thema öffnen und die Dateieigenschaften überprüfen, können Sie sehen, dass die Verweise aktualisiert wurden, um widerzuspiegeln, dass das Thema in der angegebenen Zuordnung verwendet wird.
 
 ## Erstellen einer Prüfungsaufgabe
 
-Das rechte Bedienfeld enthält eine Verknüpfung zum Starten eines Prüfungs-Workflows.
+Das rechte Bedienfeld enthält eine Verknüpfung zum Starten eines Überprüfungs-Workflows.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Überprüfen**] im rechten Bereich.
+1. Klicken Sie auf [!UICONTROL **Symbol**]&#x200B;Überprüfen“ im rechten Bedienfeld.
 
    ![Überprüfungssymbol](images/lesson-5/review-icon.png)
 
-1. Klicken Sie auf [!UICONTROL **Review erstellen**].
+1. Klicken Sie [!UICONTROL **Create Review**].
 
    ![Überprüfung erstellen](images/lesson-5/create-review.png)
 
-1. Füllen Sie die Felder im Dialogfeld Prüfungsaufgabe erstellen nach Bedarf aus.
+1. Füllen Sie im Dialogfeld Prüfungsaufgabe erstellen die Felder nach Bedarf aus.
 
 1. Klicken Sie auf [!UICONTROL **Weiter**].
 
-Die Überprüfungsaufgabe wird erstellt.
+Die Prüfungsaufgabe wird erstellt.
 
 ## Änderungen verfolgen
 
-Durch die Möglichkeit, Änderungen zu verfolgen, haben Sie eine große Kontrolle darüber, welche Änderungen in einer Version eines Themas bis zur nächsten beibehalten werden. Sie können das rechte Bedienfeld verwenden, um getrackte Änderungen zu verwalten.
+Die Möglichkeit, Änderungen zu verfolgen, gibt Ihnen ein hohes Maß an Kontrolle darüber, welche Änderungen in einer Version eines Themas bis zur nächsten beibehalten werden. Sie können das rechte Bedienfeld verwenden, um verfolgte Änderungen zu verwalten.
 
-Weiterführende Informationen zur Änderungsverfolgungsfunktion finden Sie in der Lektion mit dem Titel [Änderungen verfolgen](./track-changes.md) in diesem Kurs.
+Weitere Informationen zur Funktion zur Änderungsverfolgung finden [ in ](./track-changes.md) Lektion mit dem Titel „Änderungen verfolgen“.

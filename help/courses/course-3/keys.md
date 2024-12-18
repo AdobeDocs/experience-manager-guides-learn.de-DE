@@ -1,6 +1,6 @@
 ---
 title: Schlüssel
-description: Mit Schlüsseln können Sie bei der Arbeit mit DITA in AEM Guides Variableninformationen einschließen.
+description: Mit Schlüsseln können Sie beim Arbeiten mit DITA in AEM Guides Variableninformationen in einfügen
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,136 +11,136 @@ ht-degree: 0%
 
 # Schlüssel
 
-Verschiedene Materialgruppen können ähnliche Informationen enthalten, die an ausgewählten Stellen angepasst werden müssen. Schlüssel ermöglichen es Ihnen, bei der Arbeit mit DITA Variableninformationen in einzuschließen.
+Verschiedene Materialsätze können ähnliche Informationen enthalten, die an ausgewählten Orten angepasst werden müssen. Mit Schlüsseln können Sie bei der Arbeit mit DITA Variableninformationen in einfügen.
 
-Beispieldateien, die Sie für diese Lektion verwenden können, finden Sie in der Datei [keys.zip](assets/keys.zip).
+Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der Datei [keys.zip](assets/keys.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342756?quality=12&learn=on)
 
 ## Schlüssel aktivieren
 
-1. Laden Sie die bereitgestellten Beispieldateien hoch.
+1. Laden Sie den Satz der bereitgestellten Beispieldateien hoch.
 
    a. Laden Sie die ZIP-Datei.
 
-   b. Aktualisieren Sie die AEM.
+   b. Aktualisieren Sie die AEM-Umgebung.
 
-   c. Wählen Sie die zu extrahierende Datei aus.
+   c. Auswahl der zu extrahierenden Datei.
 
    ![Zip auswählen](images/lesson-9/select-zip.png)
 
-   d. Klicken Sie in der oberen Symbolleiste auf [!UICONTROL **Archiv extrahieren**] .
+   d. Klicken Sie [!UICONTROL **der oberen Symbolleiste auf**] Archiv extrahieren“.
 
    ![Symbolleiste](images/lesson-9/extract-archive.png)
 
-   e. Wählen Sie im Dialogfeld den Speicherort für die zu extrahierenden Dateien aus, z. B. den Ordner Schlüssel .
+   e. Wählen Sie im Dialogfeld den spezifischen Speicherort für zu extrahierende Dateien aus, z. B. den Ordner „Keys“.
 
    f. Klicken Sie auf [!UICONTROL **Weiter**].
 
-   g. Überspringen Sie Konflikte, da sie nicht für Inhalte vorhanden sind, die noch nie hochgeladen wurden.
+   g. Überspringen Sie alle Konflikte, da sie für Inhalte, die noch nie hochgeladen wurden, nicht existieren werden.
 
-   h. Wählen Sie oben rechts im Bildschirm [!UICONTROL **Extrahieren**] aus.
+   h. Wählen [!UICONTROL **Extrahieren**] oben rechts im Bildschirm aus.
 
-1. Wenn der Extrakt abgeschlossen ist, klicken Sie auf [!UICONTROL **Zum Zielordner wechseln**].
+1. Wenn die Extraktion abgeschlossen ist, klicken Sie auf [!UICONTROL **Zum Zielordner wechseln**].
 
    ![Bestätigung](images/lesson-9/go-to-target.png)
 
 ## Schlüssel zu referenzierten Werten auflösen
 
-Um Schlüssel richtig zu verwenden, müssen Benutzereinstellungen auf eine bestimmte Zuordnung als Stammzuordnung verweisen. Innerhalb dieser Zuordnung befindet sich eine Sammlung von Schlüsseln, die in einer Topicgroup gruppiert sind. Wenn Sie die Zuordnung und die Themen öffnen, werden die Schlüssel zu den Werten aufgelöst, auf die diese Zuordnung verweist.
+Um Schlüssel korrekt zu verwenden, müssen Benutzereinstellungen auf eine bestimmte Zuordnung als Stammzuordnung verweisen. Innerhalb dieser Zuordnung befindet sich eine Sammlung von Schlüsseln, die innerhalb einer Themengruppe gruppiert sind. Durch Öffnen der Zuordnung und der Themen werden die Schlüssel zu den Werten aufgelöst, auf die diese Zuordnung verweist.
 
 1. Geben Sie eine Stammzuordnung an.
 
-   a. Öffnen Sie im Bildschirm Schlüssel eine Karte.
+   a. Öffnen Sie auf dem Bildschirm Schlüssel eine Karte.
 
-   b. Konfigurieren Sie Benutzereinstellungen.
+   b. Konfigurieren Sie die Benutzereinstellungen.
 
-   c. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
+   c. Klicken Sie auf das [!UICONTROL **Benutzereinstellungen**]-Symbol in der oberen Symbolleiste.
 
-   ![Symbolleiste am oberen Bildschirmrand](images/lesson-9/author-view.png)
+   ![Symbolleiste oben](images/lesson-9/author-view.png)
 
    d. Klicken Sie auf das Schlüsselsymbol, um eine **Stammzuordnung** anzugeben, die zum Auflösen von Schlüsseln verwendet wird.
 
-   e. Aktivieren Sie die Kontrollkästchen für die gewünschte Assets.
+   e. Aktivieren Sie die Kontrollkästchen für jede gewünschte Assets.
 
-   ![Assets Dropdown](images/lesson-9/select-assets.png)
+   ![Assets-Dropdown](images/lesson-9/select-assets.png)
 
-   f. Klicken Sie auf [!UICONTROL **Select**].
+   f. Klicken Sie auf [!UICONTROL **Auswählen**].
 
-   g. **Speichern** Sie die Benutzereinstellungen.
+   g. **Speichern** der Benutzereinstellungen.
 
 1. Navigieren Sie zur **Kartenansicht**.
 
-1. Öffnen Sie die angegebene Karte.
+1. Öffnet die angegebene Zuordnung.
 
 Die Schlüssel werden aufgelöst.
 
-## Manuelles Hinzufügen eines neuen Keydefs
+## Manuelles Hinzufügen eines neuen Keydef
 
-1. Öffnen Sie eine Karte mit einer angegebenen Stammzuordnung.
+1. Öffnen Sie eine Zuordnung mit einer angegebenen Stammzuordnung.
 
-1. Wählen Sie einen Schlüssel aus.
+1. Schlüssel auswählen.
 
-   ![Key Dropdown](images/lesson-9/hybrid-key.png)
+   ![Dropdown-Liste Schlüssel](images/lesson-9/hybrid-key.png)
 
-1. Fügen Sie ein neues Keydef ein.
+1. Fügen Sie eine neue Keydef ein.
 
    a. Klicken Sie auf eine gültige Position in der Karte.
 
-   b. Wählen Sie in der oberen Symbolleiste das Symbol **Keydef** aus.
+   b. Wählen Sie das **Keydef** in der oberen Symbolleiste aus.
 
-   ![keydef-Symbolleiste](images/lesson-9/key-icon.png)
+   ![Keydef-Symbolleiste](images/lesson-9/key-icon.png)
 
-   c. Geben Sie im Dialogfeld &quot;Keydef einfügen&quot;einen eindeutigen Wert für Schlüssel ein, der für die von Ihnen erstellte Definition sinnvoll ist.
+   c. Geben Sie im Dialogfeld Keydef einfügen einen eindeutigen Wert für Schlüssel ein, der für die Definition, die Sie erstellen, sinnvoll ist.
 
    d. Klicken Sie auf [!UICONTROL **Einfügen**].
 
-1. Fügen Sie topicmeta innerhalb der keydef hinzu.
+1. Hinzufügen von Themen innerhalb der Keydef.
 
-   a. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Element einfügen**] .
+   a. Klicken Sie auf das [!UICONTROL **Element einfügen**]-Symbol in der oberen Symbolleiste.
 
-   ![keydef-Symbolleiste](images/lesson-9/add-icon.png)
+   ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen Sie im Dialogfeld Element einfügen nach &quot;topicmeta&quot;.
+   b. Suchen Sie im Dialogfeld Element einfügen nach „topicMeta“ und wählen Sie es aus.
 
-1. Fügen Sie Suchbegriffe innerhalb des topicmeta hinzu.
+1. Fügen Sie Schlüsselwörter innerhalb des Themas hinzu.
 
-   a. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Element einfügen**] .
+   a. Klicken Sie auf das [!UICONTROL **Element einfügen**]-Symbol in der oberen Symbolleiste.
 
-   ![keydef-Symbolleiste](images/lesson-9/add-icon.png)
+   ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen Sie im Dialogfeld Element einfügen nach &quot;Keywords&quot;.
+   b. Suchen und wählen Sie im Dialogfeld Element einfügen „Keywords“ aus.
 
-1. Fügen Sie einen Suchbegriff in der topicmeta hinzu.
+1. Fügen Sie ein Keyword innerhalb des TopicMeta hinzu.
 
-   a. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Element einfügen**] .
+   a. Klicken Sie auf das [!UICONTROL **Element einfügen**]-Symbol in der oberen Symbolleiste.
 
-   ![keydef-Symbolleiste](images/lesson-9/add-icon.png)
+   ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen und wählen Sie im Dialogfeld **Element einfügen** &quot;Keyword&quot;
+   b. Suchen Sie im Dialogfeld **Element einfügen** nach „Keyword“ und wählen Sie diese aus.
 
-1. Geben Sie den Wert für den keydef in den Suchbegriff ein.
+1. Geben Sie den Wert für die keydef in das Keyword ein.
 
-In der Karte sollte Ihr Keydef jetzt etwa wie folgt aussehen:
+In der Karte sollte Ihr Keydef nun in etwa wie folgt aussehen:
 
-![keydef finished](images/lesson-9/keydef.png)
+![Keydef beendet](images/lesson-9/keydef.png)
 
-## Konfigurieren eines Keydefs als Snippet
+## Konfigurieren einer Keydef als Snippet
 
-Snippets sind kleine Inhaltsfragmente, die in verschiedenen Themen Ihres Dokumentationsprojekts wiederverwendet werden können. Anstatt jede Keydef manuell zu generieren, können Sie eine einzelne Keydef als Snippet konfigurieren.
+Snippets sind kleine Inhaltsfragmente, die in verschiedenen Themen in Ihrem Dokumentationsprojekt wiederverwendet werden können. Anstatt jede Keydef manuell zu generieren, können Sie eine einzelne Keydef als Snippet konfigurieren.
 
-1. Wählen Sie ein keydef-Element in der Zuordnung aus.
+1. Ein Keydef-Element in der Zuordnung auswählen.
 
-1. Klicken Sie im Kontextmenü auf [!UICONTROL **Snippet erstellen**].
+1. Klicken Sie im Kontextmenü auf [!UICONTROL **Ausschnitt erstellen**].
 
 1. Fügen Sie im Dialogfeld Neues Snippet einen Titel und eine Beschreibung hinzu.
-Sie können auch vorhandene Schlüssel- oder Suchbegriffdefinitionen aus dem Inhalt entfernen.
+Möglicherweise möchten Sie auch vorhandene Schlüssel oder Schlüsselwortdefinitionen aus dem Inhalt entfernen.
 
 1. Klicken Sie auf [!UICONTROL **Erstellen**].
 
-1. Wählen Sie im linken Bereich **Snippets** aus.
+1. Wählen Sie im linken Bedienfeld die Option **Snippets** aus.
 
-1. Ziehen Sie das soeben erstellte Snippet aus dem Bedienfeld &quot;Snippets&quot;in die Karte.
+1. Ziehen Sie das soeben erstellte Snippet per Drag-and-Drop aus dem Snippets-Bedienfeld auf die Karte.
 
-1. Aktualisieren Sie die keydef nach Bedarf mithilfe der Inhaltseigenschaften.
-Nach dem Speichern und Aktualisieren ist dieser Satz von Schlüssel für jeden Benutzer verfügbar, der eine Zuordnung definiert hat, die dieselbe Stammzuordnung enthält.
+1. Aktualisieren Sie die Keydef nach Bedarf mithilfe der Inhaltseigenschaften.
+Nach dem Speichern und Aktualisieren ist dieser Schlüsselsatz für alle Benutzenden verfügbar, die eine Zuordnung definiert haben, die dieselbe Stammzuordnung enthält.

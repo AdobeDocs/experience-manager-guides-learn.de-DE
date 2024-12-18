@@ -11,21 +11,21 @@ ht-degree: 0%
 
 # Fehlerbehebung bei Veröffentlichungsfehlern
 
-Das Veröffentlichen einer Karte ist normalerweise einfach. Öffnen Sie die Karte, wählen Sie eine Ausgabevorgabe aus und generieren Sie die Ausgabe! Wenn jedoch eine Zuordnung oder deren Themen Fehler enthalten, kann die Generierung der Ausgabe fehlschlagen. In diesem Fall ist es wichtig zu wissen, wie eine Fehlerbehebung durchgeführt werden kann.
+Das Veröffentlichen einer Karte ist in der Regel einfach. Öffnen Sie die Zuordnung, wählen Sie eine Ausgabevorgabe aus und generieren Sie eine Ausgabe! Wenn eine Zuordnung oder ihre Themen jedoch Fehler enthalten, kann die Ausgabegenerierung fehlschlagen. In diesem Fall ist es wichtig zu wissen, wie Fehler behoben werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338990?quality=12&learn=on)
 
-## Vorbereitung der Übung
+## Vorbereitung für die Übung
 
-Hier können Sie Beispieldateien für die Übung herunterladen.
+Beispieldateien für die Übung können hier heruntergeladen werden.
 
 [Übung-Download](assets/exercises/publishing-basic-to-advanced.zip)
 
 ## Häufige Ursachen für Veröffentlichungsfehler
 
-In den Quellinhalt können Fehler eingefügt werden. Zum Beispiel:
+Es können Fehler in den Quellinhalt eingeführt werden. Zum Beispiel:
 
-* Falsch benannter Dateipfadverweis
+* Falsch benannte Dateipfadreferenz
 
 * Falsch benannter Ordner
 
@@ -33,23 +33,23 @@ In den Quellinhalt können Fehler eingefügt werden. Zum Beispiel:
 
 * Falsch konfigurierte Inhaltsreferenz
 
-* Beschädigte Querverweise
+* Fehlerhafter Querverweis
 
-* Fehler in den Werten für ein Attribut (z. B. eine Zeichenfolge anstelle einer Zahl)
+* Fehler in den Werten für ein Attribut (z. B. eine Zeichenfolge statt einer Zahl)
 
 * Falsche Einrichtung der von [!DNL AEM Guides] verwendeten Komponenten
 
 ## Auswirkungen von Fehlern
 
-Ein Fehler kann geringfügig sein und dazu führen, dass eine Datei nicht erfolgreich gepackt wurde, oder dass sie so schwerwiegend ist, dass die Ausgabe vollständig fehlschlägt. Auf der Registerkarte &quot;Ausgaben&quot;werden farbcodierte Symbole angezeigt, die Erfolg, Fehler oder Fehler im Zusammenhang mit der Ausgabegenerierung anzeigen.
+Ein Fehler kann geringfügig sein und zu einem einfachen Hinweis führen, der Sie darüber informiert, dass eine Datei nicht erfolgreich gepackt wurde, oder so schwerwiegend sein kann, dass es zu einem vollständigen Fehler bei der Generierung der Ausgabe kommt. Auf der Registerkarte „Ausgaben“ werden farbcodierte Symbole angezeigt, um Erfolg, Fehler oder Fehler im Zusammenhang mit der Ausgabegenerierung anzuzeigen.
 
 ![error-impact](images/error-impact.png)
 
-## Fehlerprotokolle öffnen und überprüfen
+## Öffnen und Überprüfen von Fehlerprotokollen
 
 Die generierte Protokolldatei kann zur Überprüfung geöffnet werden.
 
-1. Klicken Sie auf der Registerkarte **Ausgaben** auf das Datum/die Uhrzeit unter &quot;Generiert am&quot;.****
+1. Klicken Sie auf **Registerkarte** Ausgaben“ unter „Erzeugte **&quot; auf Datum/Uhrzeit**
 
    ![error-log](images/error-log.png)
 
@@ -61,15 +61,15 @@ Das Fehlerprotokoll zeigt jeden Fehlertyp in einer eindeutigen Farbe an.
 
 ![navigate-errors](images/navigate-errors.png)
 
-1. **Wählen Sie** oder **heben Sie die Auswahl** eines beliebigen Fehlertyps auf, um die Hervorhebung ein- oder auszublenden.
+1. **Auswählen** oder **deselektieren** alle Fehlertypen, um die Hervorhebung ein- oder auszublenden.
 
-1. Navigieren Sie mit den Schaltflächen **Weiter** oder **Zurück** (Pfeile) zu Fehlern.
+1. Navigieren Sie in Fehlern mithilfe der **Weiter** oder **Zurück**-Schaltflächen (Pfeile).
 
-## Fehlerbehebung
+## Fehler beheben
 
-Je nach Fehlertyp kann die Auflösung einfach oder komplex sein. Sie kann von einem Autor im XML-Editor ausgefüllt werden oder erfordern, dass ein Administrator mit [!DNL AEM Guides] arbeitet. Die spezifischen Korrekturen hängen vom Fehler, den Auswirkungen und Ihren Organisations-Workflows ab.
+Je nach Fehlertyp kann die Auflösung einfach oder komplex sein. Sie kann von einem Autor oder einer Autorin im XML-Editor abgeschlossen werden oder erfordert, dass ein Administrator oder eine Administratorin mit [!DNL AEM Guides] arbeitet. Spezifische Korrekturen hängen von dem Fehler, der Auswirkung und Ihren Organisations-Workflows ab.
 
-* Falsch benannter Dateipfadverweis
+* Falsch benannte Dateipfadreferenz
 
       Autoren können den Pfadverweis im Quelldokument aktualisieren.
      
@@ -86,21 +86,21 @@ Je nach Fehlertyp kann die Auflösung einfach oder komplex sein. Sie kann von ei
   
 * Falsch konfigurierte Inhaltsreferenz
 
-      Autoren können den Speicherort des referenzierten Inhalts korrigieren oder den Pfad zum Inhaltsverweis ändern.
+      Autoren können die Position des referenzierten Inhalts korrigieren oder den Pfad zur Inhaltsreferenz ändern.
      
   
-* Beschädigte Querverweise
+* Fehlerhafter Querverweis
 
-      Autoren können den Speicherort korrigieren, auf den der Querverweis verweist, oder den Namen oder die Eigenschaften der Zieldatei ändern
+      Autoren können die Position korrigieren, auf die die Querverweise verweisen, oder den Namen oder die Eigenschaften der Zieldatei ändern
      
   
-* Fehler in den Werten für ein Attribut (z. B. eine Zeichenfolge anstelle einer Zahl)
+* Fehler in den Werten für ein Attribut (z. B. eine Zeichenfolge statt einer Zahl)
 
-      Autoren können das Attribut auf einen richtigen Wert aktualisieren oder Administratoren können das System aktualisieren, um neue Werte zu unterstützen.
+      Autoren können das Attribut auf einen korrekten Wert aktualisieren oder Administratoren können das System aktualisieren, um neue Werte zu unterstützen.
      
   
 * Falsche Einrichtung der von [!DNL AEM Guides] verwendeten Komponenten
 
-      Administratoren können die Installation des Systems, seiner Komponenten oder Berechtigungen aktualisieren.
+      Administratoren können die Installation des Systems, seine Komponenten oder Berechtigungen aktualisieren.
      
   

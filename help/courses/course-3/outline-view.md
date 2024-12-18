@@ -11,89 +11,89 @@ ht-degree: 0%
 
 # Gliederungsansicht
 
-Die Gliederungsansicht bietet eine breite Palette an Unterstützung bei der Arbeit mit einem strukturierten Dokument. Erweitern und reduzieren Sie die Ansicht, navigieren Sie zur Struktur, arbeiten Sie mit Attributen (z. B. zum Erstellen einer neuen ID) und organisieren, entpacken und restrukturieren Sie Elemente durch Klicken auf eine Schaltfläche.
+Die Gliederungsansicht bietet beim Arbeiten mit einem strukturierten Dokument eine breite Unterstützung. Erweitern und reduzieren Sie die Ansicht, navigieren Sie in der Struktur, arbeiten Sie mit Attributen (z. B. um eine neue ID zu erstellen) und organisieren Sie Elemente per Klick neu, entpacken und strukturieren Sie sie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342767?quality=12&learn=on)
 
-## Erweitern und Reduzieren der Gliederungsansicht
+## Die Gliederungsansicht erweitern und reduzieren
 
-Elemente können erweitert werden, um untergeordnete Elemente anzuzeigen, oder sie können nach Bedarf ausgeblendet werden.
+Elemente können erweitert werden, um untergeordnete Elemente anzuzeigen, oder sie können nach Bedarf reduziert werden.
 
-1. Klicken Sie auf das entsprechende Symbol, um die Linienansicht zu erweitern oder zu reduzieren.
+1. Klicken Sie auf das entsprechende Symbol, um die Gliederungsansicht zu erweitern oder zu reduzieren.
 
-   ![Referenz - Umriss](images/lesson-6/outline-collapsed-before.png)
+   ![Referenzübersicht](images/lesson-6/outline-collapsed-before.png)
 
-   ![Unterregisterkarten für Referenzentwürfe ](images/lesson-6/outline-expanded-after.png)
+   ![Referenzieren von Unterregisterkarten für Gliederungen](images/lesson-6/outline-expanded-after.png)
 
-Die Umrissansicht wechselt von &quot;erweitert&quot;zu &quot;reduziert&quot;.
+Die Gliederungsansicht wechselt von erweitert zu reduziert.
 
-## Navigieren mit der Konturansicht
+## Navigieren mithilfe der Gliederungsansicht
 
-1. Klicken Sie auf ein beliebiges Element, um zu diesem Speicherort zu springen.
+1. Klicken Sie auf ein Element, um zu dieser Position zu springen.
 
-1. Klicken Sie auf die Schaltfläche [!UICONTROL **Auslassungspunkte**] neben einem Element, um auf Verknüpfungsoptionen zuzugreifen.
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**] neben einem Element, um auf die Verknüpfungsoptionen zuzugreifen.
 
    ![Kontextmenü](images/lesson-6/shortcut-options.png)
 
-## Zuweisen einer ID mithilfe der Gliederungsansicht
+## Zuweisen einer ID über die Gliederungsansicht
 
-Eine neue ID kann automatisch basierend auf der Systemkonfiguration generiert werden. Mithilfe der Inhaltseigenschaften können die ID und ihr Wert bei Bedarf ebenfalls aktualisiert werden.
+Je nach Systemkonfiguration kann automatisch eine neue ID generiert werden. Mithilfe der Inhaltseigenschaften können die ID und ihr Wert bei Bedarf auch aktualisiert werden.
 
-1. Klicken Sie neben einem beliebigen Element auf die Schaltfläche [!UICONTROL **Auslassungspunkte**].
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**] neben einem beliebigen Element.
 
-1. Wählen Sie **IDs generieren** aus.
+1. Wählen Sie **IDs generieren**.
 
-   ![Kontextmenü für Auslassungspunkte](images/lesson-6/ellipsis-popup.png)
+   ![Kontextmenü mit Auslassungspunkten](images/lesson-6/ellipsis-popup.png)
 
-Die ID wird zugewiesen. Die Inhaltseigenschaften werden aktualisiert und Element- und Attributinformationen werden angezeigt.
+Die ID ist zugewiesen. Die Inhaltseigenschaften werden aktualisiert, und Element- und Attributinformationen werden angezeigt.
 
-## Elemente durch Drag &amp; Drop neu organisieren
+## Elemente per Drag &amp; Drop neu organisieren
 
-Elemente können in der Gliederung neu angeordnet werden.
+Elemente können in der Gliederungsansicht neu angeordnet werden.
 
-1. Klicken Sie auf ein Element und ziehen Sie es an eine andere Position in der Linienansicht.
+1. Klicken Sie auf ein Element und ziehen Sie es an eine andere Position in der Gliederungsansicht.
 
-1. Ziehen Sie das Element auf ein anderes Element, um es zu ersetzen. Diese Aktion wird durch ein eckiges Feld um das zu ersetzende Element angezeigt.
+1. Legen Sie das Element auf einem anderen Element ab, um es zu ersetzen. Diese Aktion wird durch ein quadratisches Feld um das zu ersetzende Element angezeigt.
 
    oder
 
-   Legen Sie das Element zwischen zwei anderen Elementen ab, um seine Position zu ändern. Diese Aktion wird durch eine Linie zwischen Elementen angezeigt, in denen das neue Element abgelegt wird.
+   Legen Sie das Element zwischen zwei anderen Elementen ab, um seine Position zu ändern. Diese Aktion wird durch eine Linie zwischen den Elementen angezeigt, in denen das neue Element abgelegt wird.
 
-## Element umbenennen
+## Umbenennen eines Elements
 
 1. Wählen Sie das Element aus.
 
-1. Klicken Sie auf die Ellipse **].[!UICONTROL **
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**].
 
 1. Wählen Sie **Element umbenennen** aus.
 
-   ![Element-Kontextmenü umbenennen](images/lesson-6/rename-before.png)
+   ![Kontextmenü für Elemente umbenennen](images/lesson-6/rename-before.png)
 
 1. Doppelklicken Sie auf einen neuen Elementnamen.
 
 Das Element wurde jetzt umbenannt.
 
-## Umbruch eines Elements aufheben
+## Entpacken eines Elements
 
 1. Wählen Sie das Element aus, das Sie entpacken möchten.
 
-1. Klicken Sie auf die Ellipse **].[!UICONTROL **
+1. Klicken Sie auf [!UICONTROL **Auslassungspunkte**].
 
 1. Wählen Sie [!UICONTROL **Element entpacken**] aus.
 
 Der Inhalt bleibt erhalten, aber die Struktur wurde entfernt.
 
-## Filtern von Inhalten mithilfe der Konturansicht
+## Filtern von Inhalten mit der Gliederungsansicht
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Filter**] neben der Suchleiste in der Gliederung.
+1. Klicken Sie in [!UICONTROL **Gliederungsansicht neben der Suchleiste auf**] Symbol „Filter“.
 
    ![Filter](images/lesson-6/filter-icon.png)
 
-1. Wählen Sie entweder **Alle** aus, um alle Elemente anzuzeigen, oder **Beschädigte Links**, um fehlerhafte Verweise zu finden und zu korrigieren.
+1. Wählen Sie entweder **Alle**, um alle Elemente anzuzeigen, oder **fehlerhafte Links**, um fehlerhafte Verweise zu finden und zu beheben.
 
-## Suche mit der Gliederungsansicht
+## Suche mit Gliederungsansicht
 
-Eine Suche kann eingeschränkt sein und Ergebnisse basierend auf einem Element, Attribut oder Wert zurückgeben.
+Eine Suche kann eingeschränkt werden und Ergebnisse basierend auf einem Element, einem Attribut oder einem Wert zurückgeben.
 
 1. Geben Sie den Namen des Elements ein, das Sie in der Suchleiste finden möchten.
 

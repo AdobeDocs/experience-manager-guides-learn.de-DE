@@ -11,85 +11,85 @@ ht-degree: 1%
 
 # Benutzereinstellungen, Editor-Einstellungen und Editor-Symbolleisten
 
-Der Editor verfügt über eine stark konfigurierbare Benutzeroberfläche. Durch die Kombination von Benutzereinstellungen, Editor-Einstellungen und Ordnerprofilen können Sie nahezu jeden Aspekt Ihrer Arbeitsumgebung anpassen.
+Der Editor verfügt über eine hochgradig konfigurierbare Benutzeroberfläche. Durch die Kombination aus Benutzervoreinstellungen, Editor-Einstellungen und Ordnerprofilen können Sie nahezu jeden Aspekt an Ihre spezifische Arbeitsumgebung anpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342769?quality=12&learn=on)
 
-## Element-Tags ein- oder ausblenden
+## Ein- oder Ausblenden von Element-Tags
 
-Tags sind visuelle Hinweise, die die Grenzen eines Elements angeben. Eine Elementgrenze markiert den Anfang und das Ende eines Elements. Sie können diese Begrenzungen dann als visuellen Hinweis verwenden, um den Einfügepunkt zu platzieren oder den Text innerhalb einer Grenze auszuwählen.
+Tags sind visuelle Hinweise auf die Begrenzungen eines Elements. Eine Elementgrenze markiert den Anfang und das Ende eines Elements. Sie können diese Umgrenzungen dann als visuellen Hinweis verwenden, um die Einfügemarke zu platzieren oder den Text innerhalb einer Umrandung auszuwählen.
 
-1. Klicken Sie in der sekundären Symbolleiste auf das Symbol [!UICONTROL **Tags-Ansicht ein-/ausschalten**] .
+1. Klicken Sie auf der [!UICONTROL **Symbolleiste auf**] Tag-Ansicht ein/aus).
 
-   ![ Umschalten von Tags](images/lesson-2/tags-on-icon.png)
+   ![Tags ein/aus](images/lesson-2/tags-on-icon.png)
 
-   Tags werden innerhalb des Themas angezeigt. Mit der Tag-Ansicht auf können Sie:
+   Tags werden im Thema angezeigt. Wenn die Tag-Ansicht aktiviert ist, können Sie:
 
-   - Wählen Sie den Inhalt eines Elements aus, indem Sie auf das öffnende oder schließende -Tag klicken.
+   - Wählen Sie den Inhalt eines Elements aus, indem Sie auf das öffnende oder schließende Tag klicken.
 
-   - Erweitern oder reduzieren Sie Tags, indem Sie auf das Pluszeichen (+) oder - im Tag klicken.
+   - Erweitern oder reduzieren Sie Tags, indem Sie auf das Pluszeichen (+) oder das Pluszeichen (-) klicken.
 
-   - Über das Kontextmenü können Sie das ausgewählte Element ausschneiden, kopieren oder überwinden.
+   - Verwenden Sie das Kontextmenü, um das ausgewählte Element auszuschneiden, zu kopieren oder einzufügen.
 
-   - Ziehen Sie Elemente per Drag-and-Drop in den Arbeitsbereich, indem Sie das Tag auswählen und das Element an einer gültigen Position ablegen.
+   - Ziehen Sie Elemente per Drag-and-Drop, indem Sie das Tag auswählen und das Element an einer gültigen Position ablegen.
 
-1. Klicken Sie erneut auf das Symbol [!UICONTROL **Tags-Ansicht ein-/ausschalten**] , um Tags auszublenden.
+1. Klicken Sie erneut auf [!UICONTROL **Symbol zum Umschalten der Tag**] Ansicht, um Tags auszublenden.
 
-Tags werden nicht mehr angezeigt, sodass Sie sich auf den Text konzentrieren können.
+Tags verschwinden, sodass Sie sich auf den Text konzentrieren können.
 
-## Assets bei Verwendung sperren
+## Sperren von Assets bei Verwendung
 
-Durch das Sperren (oder Auschecken) einer Datei erhält der Benutzer exklusiven Schreibzugriff auf die Datei. Wenn die Datei entsperrt (oder eingecheckt) ist, werden die Änderungen in der aktuellen Version der Datei gespeichert.
+Durch Sperren (oder Auschecken) einer Datei erhält der Benutzer exklusiven Schreibzugriff auf die Datei. Wenn die Datei entsperrt (oder eingecheckt) wird, werden die Änderungen in der aktuellen Version der Datei gespeichert.
 
-1. Klicken Sie in der sekundären Symbolleiste auf das Symbol [!UICONTROL **Sperren**] .
+1. Klicken Sie auf [!UICONTROL **Symbol &quot;**]&quot; auf der sekundären Symbolleiste.
 
    ![Checkout](images/lesson-2/checkout-icon.png)
 
-   Die Datei wurde ausgecheckt und ein Sperrsymbol wird neben dem Dateinamen im Repository angezeigt.
+   Die Datei wurde ausgecheckt und neben dem Dateinamen im Repository wird ein Sperrsymbol angezeigt.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Entsperren**].
+1. Klicken Sie auf das [!UICONTROL **Entsperren**]-Symbol.
 
    ![Einchecken](images/lesson-2/check-in-icon.png)
 
 Das Repository wird aktualisiert und zeigt an, dass die Datei eingecheckt wurde.
 
-## Sonderzeichen einfügen
+## Einfügen von Sonderzeichen
 
-1. Klicken Sie in der sekundären Symbolleiste auf das Symbol [!UICONTROL **Sonderzeichen einfügen**] .
+1. Klicken Sie in [!UICONTROL **sekundären Symbolleiste auf**] Symbol „Sonderzeichen einfügen“.
 
-   ![Special](images/lesson-2/special-icon.png)
+   ![Speziell](images/lesson-2/special-icon.png)
 
-1. Geben Sie im Dialogfeld &quot;Sonderzeichen einfügen&quot;den Namen des Zeichens in die Suchleiste ein.
+1. Geben Sie im Dialogfeld Sonderzeichen einfügen den Namen des Zeichens in die Suchleiste ein.
 
    Alternativ können Sie das Dropdown-Menü Kategorie auswählen verwenden, um alle Zeichen in einer bestimmten Kategorie anzuzeigen.
 
 1. Wählen Sie das gewünschte Zeichen aus.
 
-1. Klicken Sie auf [!UICONTROL **Einfügen**].
+1. Klicken Sie [!UICONTROL **Einfügen**].
 
 Das Sonderzeichen wird in den Text eingefügt.
 
-## Zwischen den Modi Autor, Source und Vorschau wechseln
+## Zwischen Autoren-, Source- und Vorschaumodus wechseln
 
 In der Symbolleiste oben rechts im Bildschirm können Sie zwischen Ansichten wechseln.
 
 ![Modi](images/lesson-2/modes.png)
 
-- Wählen Sie **Autor** aus, um die Struktur und den Inhalt während der Arbeit mit einem Thema anzuzeigen.
+- Wählen Sie **Autor** aus, um Struktur und Inhalt bei der Arbeit mit einem Thema anzuzeigen.
 
 - Wählen Sie **Source** aus, um die zugrunde liegende XML anzuzeigen, aus der das Thema besteht.
 
-- Wählen Sie **Vorschau** aus, um anzuzeigen, wie ein Thema angezeigt wird, wenn es von einem Benutzer in seinem Browser angezeigt wird.
+- Wählen Sie **Vorschau**, um anzuzeigen, wie ein Thema angezeigt wird, wenn es von einem Benutzer im Browser angezeigt wird.
 
-## Design mit Benutzereinstellungen ändern
+## Ändern des Designs mit Benutzereinstellungen
 
-Sie können aus hellen oder dunklen Themen für den Editor wählen. Unter Verwendung des Themas Licht verwenden die Symbolleisten und Bedienfelder einen hellgrauen Hintergrund. Unter Verwendung des Themas &quot;Dunkel&quot;verwenden die Symbolleisten und Bedienfelder einen schwarzen Hintergrund. In beiden Designs wird der Inhaltsbearbeitungsbereich mit einem weißen Hintergrund angezeigt.
+Sie können zwischen hellen oder dunklen Designs für den Editor wählen. Unter Verwendung des hellen Designs verwenden die Symbolleisten und Bereiche einen hellgrauen Hintergrund. Unter Verwendung des dunklen Designs verwenden die Symbolleisten und Bereiche einen schwarzen Hintergrund. In beiden Designs wird der Inhaltsbearbeitungsbereich mit einem weißen Hintergrund angezeigt.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“ in der oberen Symbolleiste.
 
-   ![Benutzereinstellungen](images/reuse/user-prefs-icon.png)
+   ![Benutzervoreinstellungen](images/reuse/user-prefs-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Benutzereinstellungen&quot;auf das Dropdown-Menü [!UICONTROL **Design**] .
+1. Klicken Sie im Dialogfeld Benutzereinstellungen auf die Dropdown-Liste [!UICONTROL **Design**].
 
 1. Wählen Sie aus den verfügbaren Optionen aus.
 
@@ -99,137 +99,137 @@ Sie können aus hellen oder dunklen Themen für den Editor wählen. Unter Verwen
 
 Der Editor wird aktualisiert, um Ihr bevorzugtes Design anzuzeigen.
 
-## Basispfad mit Benutzereinstellungen aktualisieren
+## Aktualisieren des Basispfads mit Benutzereinstellungen
 
-Sie können den Basispfad so aktualisieren, dass die Repository-Ansicht Ihnen den Inhalt von einem bestimmten Speicherort anzeigt, sobald Sie den Editor starten. Dadurch wird der Zugriff auf Arbeitsdateien verkürzt.
+Sie können den Basispfad aktualisieren, damit Ihnen die Repository-Ansicht den Inhalt von einem bestimmten Speicherort anzeigt, sobald Sie den Editor starten. Dadurch wird die Zeit für den Zugriff auf Arbeitsdateien verkürzt.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“ in der oberen Symbolleiste.
 
-   ![Benutzereinstellungen](images/reuse/user-prefs-icon.png)
+   ![Benutzervoreinstellungen](images/reuse/user-prefs-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Benutzereinstellungen&quot;auf das Symbol [!UICONTROL **Ordner**] neben dem Basispfad.
+1. Klicken Sie im Dialogfeld Benutzereinstellungen auf das [!UICONTROL **Ordner**]-Symbol neben dem Basispfad.
 
    ![Basisordnerpfad](images/lesson-2/base-path-folder-icon.png)
 
-1. Klicken Sie im Dialogfeld Pfad auswählen auf das Kontrollkästchen neben einem bestimmten Ordner.
+1. Aktivieren Sie im Dialogfeld Pfad auswählen das Kontrollkästchen neben einem bestimmten Ordner.
 
-1. Klicken Sie auf [!UICONTROL **Select**].
+1. Klicken Sie [!UICONTROL **Auswählen**].
 
 Wenn Sie den Editor das nächste Mal starten, zeigt das Repository die Dateien an, die im Basispfad angegeben wurden.
 
-## Neues Ordnerprofil zuweisen
+## Zuweisen eines neuen Ordnerprofils
 
 Das globale Profil ist ein Systemstandard. Administratoren können zusätzliche Ordnerprofile erstellen, aus denen sie auswählen können.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Benutzereinstellungen**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“ in der oberen Symbolleiste.
 
-   ![Benutzereinstellungen](images/reuse/user-prefs-icon.png)
+   ![Benutzervoreinstellungen](images/reuse/user-prefs-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Benutzereinstellungen&quot;auf das Dropdown-Menü [!UICONTROL **Ordnerprofile**] .
+1. Klicken Sie im Dialogfeld Benutzereinstellungen auf das Dropdown [!UICONTROL **Ordnerprofile**].
 
    ![Profilliste](images/lesson-2/folder-profiles-dropdown.png)
 
-1. Wählen Sie aus den verfügbaren Optionen ein Profil aus.
+1. Wählen Sie ein Profil aus den verfügbaren Optionen aus.
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
-Das neue Ordnerprofil wird nun zugewiesen. Die Symbolleistenoptionen, Ansichtsmodi sowie Bedingungen und Snippets im linken Bereich wurden geändert. Sie kann auch das Erscheinungsbild von Inhalten im Editor ändern.
+Das neue Ordnerprofil ist jetzt zugewiesen. Die Symbolleistenoptionen, Ansichtsmodi sowie Bedingungen und Ausschnitte im linken Bereich wurden geändert. Es kann auch das visuelle Erscheinungsbild von Inhalten im Editor ändern.
 
-## Wörterbuch mit Editor-Einstellungen ändern
+## Ändern des Wörterbuchs mit Editor-Einstellungen
 
-Die Editor-Einstellungen stehen Administratoren zur Verfügung. Mit diesen Voreinstellungen können Sie eine Reihe von Einstellungen konfigurieren, darunter das Wörterbuch, das der Editor für die Rechtschreibprüfung verwendet.
+Editor-Einstellungen stehen Administratoren zur Verfügung. Diese Einstellungen ermöglichen es Ihnen, verschiedene Einstellungen vorzunehmen. Eine davon ist das Wörterbuch, das der Editor für die Rechtschreibprüfung verwendet.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **General**].
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Allgemein**].
 
 1. Wählen Sie das Wörterbuch aus, mit dem Sie arbeiten möchten.
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
-Das Wörterbuch wird aktualisiert. Beachten Sie, dass Sie beim Wechsel zu AEM Rechtschreibprüfung eine benutzerdefinierte Wortliste verwenden können.
+Das Wörterbuch wird aktualisiert. Beachten Sie, dass Sie beim Wechsel zur AEM-Rechtschreibprüfung eine benutzerdefinierte Wortliste verwenden können.
 
-## Anzeigen und Ausblenden von Bedienfeldern mit Editor-Einstellungen
+## Ein- und Ausblenden von Bedienfeldern mit Editor-Einstellungen
 
-Eine der Funktionen, die Sie mit den Editor-Einstellungen anpassen können, sind Bedienfelder. Im Einzelnen können Sie auswählen, welche Bedienfelder im Editor ein- oder ausgeblendet werden.
+Eine der Funktionen, die Sie mit Editor-Einstellungen anpassen können, sind Bedienfelder. Insbesondere können Sie auswählen, welche Bedienfelder im Editor ein- oder ausgeblendet werden sollen.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **Bedienfelder**].
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Bedienfelder**].
 
-1. Schalten Sie die verfügbaren Bedienfelder ein/aus, um sie nach Bedarf ein- oder auszublenden.
+1. Schalten Sie die verfügbaren Bedienfelder um, sodass sie angezeigt oder ausgeblendet werden.
 
    ![Bedienfeld ein/aus](images/lesson-2/toggle-panels.png)
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
-Das linke Bedienfeld ist jetzt so konfiguriert, dass nur die Bedienfelder angezeigt werden, die zu &quot;Anzeigen&quot;umgeschaltet wurden.
+Das linke Bedienfeld ist jetzt so konfiguriert, dass nur die Bedienfelder angezeigt werden, die zu „Anzeigen“ umgeschaltet wurden.
 
 ## Name und Beschriftungselemente in den Editor-Einstellungen
 
-Mit der Elementliste können Sie ein bestimmtes Element benennen und es mit einer benutzerfreundlicheren Bezeichnung versehen. Der Elementname sollte eines der DITA-Elemente sein. Die Bezeichnung kann eine beliebige Zeichenfolge sein.
+Mit der Elementliste können Sie ein bestimmtes Element benennen und ihm eine benutzerfreundlichere Beschriftung zuweisen. Der Elementname sollte eines der DITA-Elemente sein. Die Bezeichnung kann eine beliebige Zeichenfolge sein.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **Elementliste**].
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Elementliste**].
 
-1. Geben Sie einen **Elementnamen** und eine **Beschriftung** in die entsprechenden Felder ein.
+1. Geben Sie einen **Elementnamen** und einen **Titel** in die entsprechenden Felder ein.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Plus**] , um der Liste weitere Elemente hinzuzufügen.
+1. Klicken Sie auf [!UICONTROL **Plus**], um der Liste weitere Elemente hinzuzufügen.
 
    ![Elementliste](images/lesson-2/elements-list.png)
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
-Sie können die Änderung an der Elementliste sofort in den vorhandenen Tags im Editor sehen. Sie können sie auch in den verfügbaren Optionen sehen, wenn Sie ein neues Element hinzufügen.
+Sie können die Änderung an der Elementliste sofort in den vorhandenen Tags im Editor sehen. Sie können sie auch in den Optionen sehen, die beim Hinzufügen eines neuen Elements bereitgestellt werden.
 
-## Name und Beschriftungsattribute in den Editor-Einstellungen
+## Attribute für Namen und Titel in den Editor-Einstellungen
 
-Die Attributliste funktioniert ähnlich wie die Elementliste. In den Editor-Einstellungen können Sie die Liste der Attribute und ihre Anzeigenamen steuern.
+Die Attributliste funktioniert ähnlich wie die Elementliste. Über die Editor-Einstellungen können Sie die Liste der Attribute und deren Anzeigenamen steuern.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **Attributliste**].
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Attributliste**].
 
-1. Geben Sie einen **Attributnamen** und eine **Beschriftung** in die entsprechenden Felder ein.
+1. Geben Sie einen **Attributnamen** und einen **Titel** in die entsprechenden Felder ein.
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Plus**] , um der Liste weitere Attribute hinzuzufügen.
+1. Klicken Sie auf [!UICONTROL **Plus**], um der Liste weitere Attribute hinzuzufügen.
 
 ## Konfigurieren von Bedingungen in den Editor-Einstellungen
 
-Auf der Registerkarte &quot;Bedingung&quot;können Sie verschiedene Eigenschaften konfigurieren.
+Auf der Registerkarte Bedingung können Sie mehrere Eigenschaften konfigurieren.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **Condition**] .
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Bedingung**].
 
 1. Aktivieren Sie die Kontrollkästchen der Bedingungen, die Sie anwenden möchten.
 
-   ![Registerkarte &quot;Bedingung&quot;](images/lesson-2/condition.png)
+   ![Registerkarte „Bedingung“](images/lesson-2/condition.png)
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 
 ## Erstellen eines Veröffentlichungsprofils in den Editor-Einstellungen
 
-Publish-Profile können zum Veröffentlichen der Wissensdatenbank verwendet werden. Salesforce verwendet beispielsweise eine konfigurierte App mit einem Consumer-Schlüssel und einem Consumer-Geheimnis. Diese Informationen können verwendet werden, um ein Salesforce-Veröffentlichungsprofil zu erstellen.
+Publish-Profile können zum Veröffentlichen der Wissensdatenbank verwendet werden. Salesforce verwendet beispielsweise eine konfigurierte App mit einem Consumer Key und einem Consumer Secret. Mit diesen Informationen kann ein Salesforce-Veröffentlichungsprofil erstellt werden.
 
-1. Klicken Sie in der oberen Symbolleiste auf das Symbol [!UICONTROL **Editor Settings**] .
+1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 
    ![Editor-Einstellungen](images/lesson-2/editor-settings-icon.png)
 
-1. Klicken Sie im Dialogfeld &quot;Editor Settings&quot;auf die Registerkarte [!UICONTROL **Profile**] .
+1. Klicken Sie im Dialogfeld Editor-Einstellungen auf die Registerkarte [!UICONTROL **Profile**].
 
-1. Klicken Sie auf das Symbol [!UICONTROL **Plus**] neben Profile.
+1. Klicken Sie auf das [!UICONTROL **Plus**]-Symbol neben Profile.
 
 1. Füllen Sie die Felder nach Bedarf aus.
 

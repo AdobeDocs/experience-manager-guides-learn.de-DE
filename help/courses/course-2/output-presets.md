@@ -1,5 +1,5 @@
 ---
-title: Ausgabevorgaben
+title: Ausgabevoreinstellungen
 description: Eine Ausgabevorgabe ist eine Sammlung von Veröffentlichungseigenschaften, die einer Zuordnung zugewiesen wurden
 exl-id: b0c64737-48a0-4337-8a7f-35d1deb03366
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
@@ -9,7 +9,7 @@ ht-degree: 3%
 
 ---
 
-# Ausgabevorgaben
+# Ausgabevoreinstellungen
 
 Eine Ausgabevorgabe ist eine Sammlung von Veröffentlichungseigenschaften, die einer Zuordnung zugewiesen wurden. Diese können bei Bedarf erstellt oder geändert werden.
 
@@ -17,7 +17,7 @@ Eine Ausgabevorgabe ist eine Sammlung von Veröffentlichungseigenschaften, die e
 
 ## Zugreifen auf Ausgabevorgaben
 
-Eine Ausgabevorgabe wird angezeigt, wenn eine Zuordnung im XML-Editor im Map Dashboard geöffnet wird. Vorgaben können Informationen zu einem bestimmten Ausgabetyp, Zielpfad, Anweisungen zum Verwalten vorhandener Ausgabeseiten und andere Einstellungen enthalten, die auf eine Zuordnung angewendet werden können, um Ausgaben zu generieren.
+Eine Ausgabevorgabe wird angezeigt, wenn eine Zuordnung im XML-Editor im Zuordnungs-Dashboard geöffnet wird. Voreinstellungen können Informationen zu einem bestimmten Ausgabetyp, Zielpfad, Anweisungen zum Verwalten vorhandener Ausgabeseiten und andere Einstellungen enthalten, die auf eine Zuordnung angewendet werden können, um eine Ausgabe zu generieren.
 
 ![access-output-presets](images/access-output-presets.png)
 
@@ -25,25 +25,25 @@ Eine Ausgabevorgabe wird angezeigt, wenn eine Zuordnung im XML-Editor im Map Das
 
 >[!NOTE]
 >
->HINWEIS: Einige der von einer Ausgabevorgabe verwendeten Funktionen hängen möglicherweise von der ersten Entwicklung einer Grundlinie oder einer Bedingungsvorgabe ab. Falls erforderlich, müssen Sie sie mithilfe der entsprechenden Registerkarten konfigurieren.
+>HINWEIS: Einige der von einer Ausgabevorgabe verwendeten Funktionen hängen möglicherweise davon ab, dass zuerst eine Baseline oder eine Bedingungsvorgabe entwickelt wird. Wenn diese erforderlich sind, müssen Sie sie mithilfe der entsprechenden Registerkarten konfigurieren.
 
-1. Wählen Sie eine Grundlinien-Ausgabevorgabe aus. Beispielsweise können AEM oder PDF ausgewählt werden, wenn die neue zu erstellende Vorgabe für eine Site oder Adobe PDF-Inhalte bestimmt ist.
+1. Wählen Sie eine Baseline-Ausgabevorgabe aus. Beispielsweise können AEM oder PDF ausgewählt werden, wenn die zu erstellende neue Vorgabe für eine Site oder die Bereitstellung von Adobe PDF-Inhalten ist.
 
 1. Klicken Sie auf **Erstellen**.
 
 1. Wählen Sie bei Bedarf einen Ausgabetyp aus.
 
-1. Konfigurieren Sie die Optionen je nach Ausgabetyp weiter.
+1. Konfigurieren Sie je nach Ausgabetyp die Optionen weiter.
 
 1. Klicken Sie auf **Fertig**.
 
-## Eine Ausgabevorgabe bearbeiten
+## Bearbeiten einer Ausgabevorgabe
 
-Ausgabevorgaben sind vordefiniert, können aber nach Bedarf angepasst werden.
+Ausgabevorgaben sind vordefiniert, können jedoch bei Bedarf angepasst werden.
 
-1. Öffnen Sie das Map Dashboard.
+1. Öffnen Sie das Zuordnungs-Dashboard.
 
-1. Wählen Sie die Registerkarte **Ausgabevorgaben** aus.
+1. Wählen Sie die **Ausgabevorgaben** aus.
 
 1. Wählen Sie eine Ausgabevorgabe aus.
 
@@ -51,6 +51,6 @@ Ausgabevorgaben sind vordefiniert, können aber nach Bedarf angepasst werden.
 
 1. Ändern Sie die Einstellungen nach Bedarf.
 
-   ![Edit-Output-Preset](images/edit-output-preset.png)
+   ![edit-output-preset](images/edit-output-preset.png)
 
 1. Klicken Sie auf **Fertig**.
