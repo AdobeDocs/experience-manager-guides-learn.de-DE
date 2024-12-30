@@ -1,17 +1,17 @@
 ---
-title: Guide title
-description: Guide description
+title: Titel des Handbuchs
+description: Beschreibung des Handbuchs
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 8%
+source-wordcount: '36'
+ht-degree: 100%
 
 ---
 
 
 # Übersicht {#overview}
 
-Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von *xyz*.
+Eine Kurzbeschreibung des Produkts, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Einsatzmöglichkeiten von *xyz*.
 
 ## Neue Funktionen
 

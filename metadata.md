@@ -10,8 +10,8 @@ feature-set: Experience Manager Guides
 role: User
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 96%
+source-wordcount: '128'
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Die metadata.md-Datei enthält Metadaten auf Repo-Ebene, die über die TOC.md-Da
 
 In der Datei TOC.md
 
-| Metadaten | Funktion |
+| metadata | Funktion |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
 | user-guide-url | Öffnet die helpx-Hub-Seite |

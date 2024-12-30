@@ -7,9 +7,9 @@ ht-degree: 16%
 ---
 # [!DNL XML Documentation] für Adobe Experience Manager (oder AEM DoX)
 
-Dies ist das Repository für Inhalte zur Kundenaktivierung für [!DNL XML Documentation] für Adobe Experience Manager (auch als AEM DoX bezeichnet) - Tutorials, Kurse, Videos und Artikel zur Fehlerbehebung.
+Dies ist das Repository für Kundenaktivierungsinhalte für [!DNL XML Documentation] für Adobe Experience Manager (auch AEM-DoX genannt) - Tutorials, Kurse, Videos und Artikel zur Fehlerbehebung.
 
 Ihre Beiträge zur Dokumentation sind willkommen. Sehen Sie sich die folgenden Ressourcen an:
 
 * [Beitragen](contributing.md) für einen Überblick darüber, wie Sie zur Dokumentation beitragen können.
-* [Verhaltenskodex](code-of-conduct.md) für einen Überblick über die Verhaltensstandards, die wir beim Beitrag zu diesem Dokumentationsprojekt erwarten.
+* [Verhaltenskodex](code-of-conduct.md) für einen Überblick über die Verhaltensnormen, die wir beim Beitrag zu diesem Dokumentationsprojekt erwarten.
