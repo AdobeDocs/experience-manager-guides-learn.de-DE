@@ -2,9 +2,9 @@
 title: AEM Guides Editor-Konfiguration
 description: Konfigurieren des Editors für AEM Guides
 exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 988c288fc03e509a3a55e87b1e1ecd8fd07d1c92
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,13 @@ Sie können die Standardkonfiguration der Benutzeroberfläche jederzeit auf Ihr 
 
 Sie können jetzt den Inhalt in einem Texteditor öffnen und ändern. Das _Handbuch zur Installation und Konfiguration_ AEM Guides enthält Beispiele zum Entfernen, Anpassen oder Hinzufügen von Funktionen zur Benutzeroberflächenkonfiguration.
 
-## Hochladen der geänderten Konfiguration der XML-Editor-Benutzeroberfläche
+## Hochladen der geänderten XML-Editor-Konfiguration
 
 Nachdem Sie die Benutzeroberflächenkonfiguration angepasst haben, können Sie sie hochladen. Beachten Sie, dass eine Beispielkonfigurationsdatei _ui-config-restrictions-editor.json_ mit den unterstützenden Themen für diese Lektion bereitgestellt wird.
 
 1. Klicken Sie im Ordnerprofil auf die Registerkarte [!UICONTROL **XML-Editor-Konfiguration**] .
 
-1. Klicken Sie unter der Konfiguration der XML-Editor-Benutzeroberfläche auf [!UICONTROL **Hochladen**].
+1. Klicken Sie unter der XML Editor-Konfiguration [!UICONTROL **Hochladen**].
 
    ![Hochladen](images/lesson-4/upload.png)
 

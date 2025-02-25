@@ -2,10 +2,10 @@
 user-guide-title: Tutorials zu Adobe Experience Manager Guides
 user-guide-description: Eine Videosammlung für Adobe Experience Manager Guides.
 breadcrumb-title: Tutorials für AEM Guides
-source-git-commit: b78894069aa2b1279365d716332b5f6e2e3be865
+source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 18%
+source-wordcount: '130'
+ht-degree: 17%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 18%
    + [Arbeiten mit Listen](./course-1/working-with-lists.md)
    + [Versionsinhalt](./course-1/versioning-content.md)
    + [Erstellen einer Zuordnung](./course-1/creating-a-map.md)
-   + [Publish-Standardausgabe](./course-1/publishing-default-output.md)
+   + [Standardausgabe veröffentlichen](./course-1/publishing-default-output.md)
    + [Zusammenfassung](./course-1/recap.md)
 + Ausgabenerstellung mit [!DNL AEM Guides] {#output-generation}
    + [Übersicht über die Ausgabenerstellung](./course-2/overview.md)
@@ -38,6 +38,7 @@ ht-degree: 18%
    + [Authoring – Übersicht](./course-3/overview.md)
    + [Benutzereinstellungen, Editor-Einstellungen und Editor-Symbolleisten](./course-3/user-settings-preferences-toolbars.md)
    + [Ordnerprofile](./course-3/folder-profiles.md)
+   + [UI-Konfiguration konvertieren](./course-3/conver-ui-config.md)
    + [Editor-Konfiguration](./course-3/editor-configuration.md)
    + [Bedienfelder](./course-3/panels.md)
    + [Gliederungsansicht](./course-3/outline-view.md)
