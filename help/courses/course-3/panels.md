@@ -143,7 +143,7 @@ Weitere Informationen zur Kartenansicht und ihrer Funktionalität finden Sie [ d
 
 Die Gliederungsansicht bietet eine hierarchische Ansicht des aktuellen Dokuments in der Gliederung. Sie können die Gliederungsansicht erweitern, um mehrere Elemente sowie alle zugewiesenen IDs anzuzeigen.
 
-Weitere Informationen zur Gliederungsansicht und ](./outline-view.md) Funktionen finden Sie in [ Lektion Gliederungsansicht diesem Kurs .
+Weitere Informationen zur Gliederungsansicht und [&#128279;](./outline-view.md) Funktionen finden Sie in  Lektion Gliederungsansicht diesem Kurs .
 
 ## Arbeiten mit wiederverwendbaren Inhalten
 
@@ -222,7 +222,7 @@ In den Dateieigenschaften werden zusätzliche Informationen zum gesamten geöffn
 
 1. Öffnen Sie ein Thema im Editor.
 
-1. Klicken Sie auf [!UICONTROL  Symbol **Dateieigenschaften**] im rechten Bedienfeld.
+1. Klicken Sie auf [!UICONTROL &#x200B; Symbol **Dateieigenschaften**] im rechten Bedienfeld.
 
    ![Symbol für Dateieigenschaften](images/lesson-5/file-properties-icon.png)
 

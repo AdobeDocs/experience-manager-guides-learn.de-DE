@@ -67,7 +67,7 @@ Der Administrator kann die Einstellungen ändern, sodass das AEM-Wörterbuch ben
 
    ![Erstellung einer neuen Wörterbuchdatei](images/lesson-11/new-dictionary-file.png)
 
-   c. Benennen Sie die Datei _**user_dictionary.txt**_.
+   c. Benennen Sie die Datei _&#x200B;**user_dictionary.txt**&#x200B;_.
 
    ![Text des Benutzerwörterbuchs](images/lesson-11/user-dictionary.png)
 

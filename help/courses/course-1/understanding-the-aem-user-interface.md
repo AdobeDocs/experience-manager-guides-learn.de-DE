@@ -24,7 +24,7 @@ Erfahren Sie mehr über die Verwaltung von Assets, Dateien und Ordnern im XML-Ed
 
 In der Seitenleiste können Sie aus mehreren Ansichten für den XML-Editor wählen, um Ihre Unternehmensanforderungen am besten zu erfüllen. Dazu gehören die Standardansicht und [!UICONTROL Repository-Ansicht].
 
-In der Standardansicht werden Ihre &quot;[!UICONTROL &quot; ]. Sie können sie bei Bedarf mit Tastaturbefehlen weiter anpassen. Umgekehrt zeigt [!UICONTROL Repository-Ansicht] eine traditionellere Ordnerstruktur an.
+In der Standardansicht werden Ihre &quot;[!UICONTROL &quot; &#x200B;]. Sie können sie bei Bedarf mit Tastaturbefehlen weiter anpassen. Umgekehrt zeigt [!UICONTROL Repository-Ansicht] eine traditionellere Ordnerstruktur an.
 
 ### Wechseln zur [!UICONTROL Repository-Ansicht] in der Standardansicht
 
