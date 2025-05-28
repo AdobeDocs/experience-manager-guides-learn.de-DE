@@ -1,9 +1,10 @@
 ---
 title: AEM Guides Editor-Konfiguration
 description: Anpassen von JSON-Konfigurationen und Konvertieren von Benutzeroberflächenkonfigurationen für den neuen AEM Guides-Editor.
-source-git-commit: ec6f5685d690e53e5c6eb29d6b61436833f62c68
+exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
+source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '1197'
 ht-degree: 0%
 
 ---
@@ -12,6 +13,9 @@ ht-degree: 0%
 
 Bei der Migration von der alten Benutzeroberfläche zur neuen AEM Guides-Benutzeroberfläche müssen Aktualisierungen an **ui_config** in flexiblere und modulare Benutzeroberflächenkonfigurationen konvertiert werden. Mit diesem Framework können Änderungen nahtlos in die **editor_toolbar** und [andere Symbolleisten“ ](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) werden. Der Prozess unterstützt auch das Ändern anderer Ansichten und Widgets in der Anwendung.
 
+>[!NOTE]
+>
+>Anpassungen, die auf bestimmte Schaltflächen angewendet werden, können beim Übergang zum Erweiterungs-Framework Probleme verursachen. In diesem Fall können Sie über diese Seite ein Support-Ticket erstellen, um sofortigen Support und eine schnelle Lösung zu erhalten.
 
 ## Bearbeiten von JSON für verschiedene Bildschirme
 
@@ -38,24 +42,34 @@ JSON-Dateien können zum Abschnitt Konfiguration der XML-Editor-Benutzeroberflä
 
 Jedes JSON folgt einer konsistenten Struktur:
 
-1. **id**: Gibt das Widget an, an das die Komponente angepasst wird.
-1. **targetEditor**: Definiert, wann eine Schaltfläche mithilfe der Editor- und Modus-Eigenschaften angezeigt oder ausgeblendet werden soll:
+1. `id`: Gibt das Widget an, an das die Komponente angepasst wird.
+1. `targetEditor`: Definiert, wann eine Schaltfläche mithilfe der Editor- und Modus-Eigenschaften angezeigt oder ausgeblendet werden soll:
 
-   Derzeit haben wir diese **Editor** und **Mode** in unserem System.
+   Die folgenden Optionen werden unter `targetEditor` unterstützt:
 
-   **editor**: ditamap, bookmap, subjectScheme, xml, css, Übersetzung, preset, pdf_preset
+   - `mode`
+   - `displayMode`
+   - `editor`
+   - `documentType`
+   - `documentSubType`
+   - `flag`
 
-   **mode**: Autor, Quelle, Vorschau, Inhaltsverzeichnis, Aufspaltung
+   Weitere Informationen finden Sie unter [Grundlegendes zu targetEditor-Eigenschaften](#understanding-targeteditor-properties)
 
-   (Hinweis: Der Inhaltsverzeichnismodus gilt für die Layout-Ansicht.)
+   >[!NOTE]
+   >
+   > Die Version 2506 von Experience Manager Guides führt neue Eigenschaften ein: `displayMode`, `documentType`, `documentSubType` und `flag`. Diese Eigenschaften werden erst ab Version 2506 unterstützt. Ebenso gilt die Änderung von `toc` in `layout` in der Mode-Eigenschaft ab dieser Version.
+   >
+   > Das neue Feld `documentType` ist jetzt neben dem vorhandenen Feld `editor` verfügbar.  Beide Felder werden unterstützt und können bei Bedarf verwendet werden. Es wird jedoch empfohlen, `documentType` zu verwenden, um eine konsistente Verwendung über Implementierungen hinweg sicherzustellen, insbesondere bei der Arbeit mit der `documentSubType`-Eigenschaft. Das Feld `editor` bleibt gültig, um die Abwärtskompatibilität und vorhandene Integrationen zu unterstützen.
 
-1. **target**: Gibt an, wo die neue Komponente hinzugefügt wird. Hierbei werden Schlüssel-Wert-Paare oder Indizes zur eindeutigen Identifizierung verwendet. Zu den Ansichtsstatus gehören:
 
-   * **append**: Am Ende hinzufügen.
+1. `target`: Gibt an, wo die neue Komponente hinzugefügt wird. Hierbei werden Schlüssel-Wert-Paare oder Indizes zur eindeutigen Identifizierung verwendet. Zu den Ansichtsstatus gehören:
 
-   * **preend**: Am Anfang hinzufügen.
+   - **append**: Am Ende hinzufügen.
 
-   * **replace**: Ersetzt eine vorhandene Komponente.
+   - **preend**: Am Anfang hinzufügen.
+
+   - **replace**: Ersetzt eine vorhandene Komponente.
 
 Beispiel für JSON-Struktur:
 
@@ -87,6 +101,140 @@ Beispiel für JSON-Struktur:
 ```
 
 <br>
+
+## Grundlegendes zu `targetEditor`
+
+Nachstehend finden Sie eine Aufschlüsselung der einzelnen Eigenschaften, ihres Zwecks und der unterstützten Werte.
+
+### `mode`
+
+Definiert den Betriebsmodus des Editors.
+
+**Unterstützte Werte**: `author`, `source`, `preview`, `layout` (zuvor `toc`), `split`
+
+### `displayMode` *(optional)*
+
+Steuert die Sichtbarkeit oder Interaktivität von Komponenten der Benutzeroberfläche. Der Standardwert ist auf `show` festgelegt, wenn er nicht angegeben ist.
+
+**Unterstützte Werte**: `show`, `hide`, `enabled`, `disabled`
+
+Zum Beispiel:
+
+```
+ {
+        "icon": "textBulleted",
+        "title": "Custom Insert Bulleted",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ],
+          "displayMode": "hide"
+        }
+      },
+```
+
+### `editor`
+
+Gibt den primären Dokumenttyp im Editor an.
+
+**Unterstützte Werte**: `ditamap`, `bookmap`, `subjectScheme`, `xml`, `css`, `translation`, `preset`, `pdf_preset`
+
+### `documentType`
+
+Gibt den primären Dokumenttyp an.
+
+**Unterstützte Werte**: `dita`, `ditamap`, `bookmap`, `subjectScheme`, `css`, `preset`, `ditaval`, `reports`, `baseline`, `translation`, `html`, `markdown`, `conditionPresets`
+
+> Zusätzliche Werte können für bestimmte Anwendungsfälle unterstützt werden.
+
+Zum Beispiel:
+
+```
+ {
+        "icon": "textNumbered",
+        "title": "Custom Numbered List",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "dita",
+            "ditamap"
+          ],
+          "mode": [
+            "author",
+            "source"
+          ]
+
+        }
+      },
+```
+
+### `documentSubType`
+
+Klassifiziert das Dokument weiter nach `documentType`.
+
+- **`preset`**: `pdf`, `html5`, `aemsite`, `nativePDF`, `json`, `custom`, `kb`
+- **`dita`**: `topic`, `reference`, `concept`, `glossary`, `task`, `troubleshooting`
+
+> Zusätzliche Werte können für bestimmte Anwendungsfälle unterstützt werden.
+
+Zum Beispiel:
+
+```
+ {
+        "icon": "rename",
+        "title": "Custom Rename",
+        "on-click": "$$PUBLISH_PRESETS_RENAME",
+        "label": "Custom Rename",
+        "key": "$$PUBLISH_PRESETS_RENAME",
+        "targetEditor": {
+          "documentType": [
+            "preset"
+          ],
+          "documentSubType": [
+            "nativePDF",
+            "aemsite",
+            "json"
+          ]
+
+        }
+      },
+```
+
+### `flag`
+
+Boolesche Indikatoren für den Dokumentstatus oder die Funktionen.
+
+**Unterstützte Werte**: `isOutputGenerated`, `isTemporaryFileDownloadable`, `isPDFDownloadable`, `isLocked`, `isUnlocked`, `isDocumentOpen`
+
+Darüber hinaus können Sie auch ein benutzerdefiniertes Flag in `extensionMap` erstellen, das in `targetEditor` als Flag verwendet wird. `extensionMap` ist hier eine globale Variable, mit der benutzerdefinierte Schlüssel oder beobachtbare Werte hinzugefügt werden.
+
+Zum Beispiel:
+
+```
+ {
+        "icon": "filePDF",
+        "title": "Custom Export pdf",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "documentType": [
+            "markdown"
+          ],
+          "mode": [
+            "preview"
+          ],
+          "flag": ["isPDFDownloadable"]
+
+        }
+      },
+```
+
 
 ## Beispiele
 
@@ -188,6 +336,75 @@ Ersetzen der Schaltfläche **Multimedia** in der Symbolleiste durch die Schaltfl
 ![YouTube-Schaltfläche](images/reuse/youtube-button.png)
 
 <br>
+
+### Hinzufügen einer Schaltfläche im Vorschaumodus
+
+Entsprechend dem Design wird die Sichtbarkeit der Schaltfläche für gesperrte und entsperrte (schreibgeschützte) Modi separat verwaltet, um ein klares und kontrolliertes Benutzererlebnis zu gewährleisten. Standardmäßig werden neu hinzugefügte Schaltflächen ausgeblendet, wenn sich die Benutzeroberfläche im schreibgeschützten Modus befindet.
+Um eine Schaltfläche im **schreibgeschützten) Modus anzuzeigen** müssen Sie ein Ziel angeben, das sie in einem Symbolleistenunterabschnitt platziert, auf den auch dann zugegriffen werden kann, wenn die Benutzeroberfläche gesperrt ist.
+Wenn Sie beispielsweise das Ziel als **Als PDF herunterladen** angeben, können Sie sicherstellen, dass die Schaltfläche im selben Abschnitt wie eine vorhandene sichtbare Schaltfläche angezeigt wird, um sie im entsperrten Modus verfügbar zu machen.
+
+```json
+"target": {
+  "key": "label",
+  "value": "Download as PDF",
+  "viewState": "prepend"
+}
+```
+
+Hinzufügen einer Schaltfläche **Als PDF exportieren** im **Vorschau**-Modus, die sowohl im Sperrmodus als auch im Entsperrmodus angezeigt wird.
+
+```json
+{
+  "id": "editor_toolbar",
+  "view": {
+    "items": [
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Download as PDF",
+          "viewState": "prepend"
+        }
+      },
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
+
+Das folgende Snippet zeigt die Schaltfläche **Als PDF exportieren** mit dem Sperrszenario.
+
+![Als PDF exportieren](images/reuse/lock.png)
+
+Die Schaltfläche **Als PDF exportieren** mit dem Entsperrszenario wird auch im folgenden Ausschnitt angezeigt.
+
+![Als PDF exportieren](images/reuse/unlock.png)
 
 ## Hochladen von benutzerdefinierten JSONs
 
