@@ -2,9 +2,9 @@
 title: AEM Guides Editor-Konfiguration
 description: Anpassen von JSON-Konfigurationen und Konvertieren von Benutzeroberflächenkonfigurationen für den neuen AEM Guides-Editor.
 exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
-source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
+source-git-commit: 1ed48d543161be88becad9c0cd58014323aeda47
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -405,6 +405,94 @@ Das folgende Snippet zeigt die Schaltfläche **Als PDF exportieren** mit dem Spe
 Die Schaltfläche **Als PDF exportieren** mit dem Entsperrszenario wird auch im folgenden Ausschnitt angezeigt.
 
 ![Als PDF exportieren](images/reuse/unlock.png)
+
+### Passen Sie die Optionen an, die im Dropdown-Menü der Editor-Symbolleiste angezeigt werden.
+
+Sie können benutzerdefinierte Optionen im Dropdown-Menü „Menü“ mithilfe der folgenden Beispiele anhängen, ausblenden, ersetzen und hinzufügen.
+
+#### anfügend
+
+Anhängen einer Option im Dropdown-Menü. Hier hängen wir **Benutzerdefinierte Menüschaltfläche** in den Menüoptionen an
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "targetEditor": {
+          "editor": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Version label",
+          "viewState": "append"
+        }
+      }
+```
+
+#### Ersetzen
+
+Ersetzen einer in der Dropdown-Liste „Menü“ angezeigten Option. Hier ersetzen wir **Prüfungsaufgabe erstellen** durch **Benutzerdefinierte Menüschaltfläche 3**.
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button 3",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "target": {
+          "key": "label",
+          "value": "Create review task",
+          "viewState": "replace"
+        }
+
+      }
+```
+
+#### Verstecken
+
+Ausblenden einer Option, die in der Dropdown-Liste Menü angezeigt wird. Hier wird die Option **Suchen und Ersetzen** aus dem Menü ausgeblendet.
+
+```json
+{
+        "hide": true,
+        "target": {
+          "key": "label",
+          "value": "Find and replace",
+          "viewState": "replace"
+        }
+      }
+```
+
+#### Hinzufügen benutzerdefinierter Optionen im Untermenü
+
+Hinzufügen einer Option im Untermenü innerhalb des Dropdown-Menüs.
+
+```json
+{
+        "icon": "viewAllTags",
+        "title": "Toggle Tags View Goziamasu",
+        "key": "AUTHOR_TOGGLE_TAG_VIEW",
+        "target": {
+          "key": "label",
+          "value": "Track changes",
+          "viewState": "replace"
+        },
+        "targetEditor": {
+          "documentType": [
+            "dita"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+
+      }
+```
 
 ## Hochladen von benutzerdefinierten JSONs
 
