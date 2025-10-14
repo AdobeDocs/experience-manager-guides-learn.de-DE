@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Überblick
 
-Bei der Migration von der alten Benutzeroberfläche zur neuen AEM Guides-Benutzeroberfläche müssen Aktualisierungen an **ui_config** in flexiblere und modulare Benutzeroberflächenkonfigurationen konvertiert werden. Mit diesem Framework können Änderungen nahtlos in die **editor_toolbar** und [andere Symbolleisten“ ](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) werden. Der Prozess unterstützt auch das Ändern anderer Ansichten und Widgets in der Anwendung.
+Bei der Migration von der alten Benutzeroberfläche zur neuen AEM Guides-Benutzeroberfläche müssen Aktualisierungen an **ui_config** in flexiblere und modulare Benutzeroberflächenkonfigurationen konvertiert werden. Mit diesem Framework können Änderungen nahtlos in die **editor_toolbar** und [andere Symbolleisten“ &#x200B;](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) werden. Der Prozess unterstützt auch das Ändern anderer Ansichten und Widgets in der Anwendung.
 
 >[!NOTE]
 >

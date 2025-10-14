@@ -137,7 +137,7 @@ Die Suche kann auf DITA-Themen oder DITA-Maps eingegrenzt werden. Sie können Ni
 
 In der Zuordnungsansicht sind mehrere nützliche Funktionen verfügbar, darunter die Möglichkeit zum Auschecken und Sperren von Dateien, zur Vorschau der Zuordnungsdatei, zum Öffnen des Zuordnungs-Dashboards und zum Anzeigen der Zuordnung in der Assets-Benutzeroberfläche.
 
-Weitere Informationen zur Kartenansicht und ihrer Funktionalität finden Sie [ der Lektion ](./maps-and-bookmaps.md)Karten und Bookmaps“ in diesem Kurs.
+Weitere Informationen zur Kartenansicht und ihrer Funktionalität finden Sie [&#x200B; der Lektion &#x200B;](./maps-and-bookmaps.md)Karten und Bookmaps“ in diesem Kurs.
 
 ## Erkunden der Gliederungsansicht
 
@@ -149,20 +149,20 @@ Weitere Informationen zur Gliederungsansicht und [&#128279;](./outline-view.md) 
 
 Die zentrale DITA-Funktion ist die Möglichkeit, Inhalte wiederzuverwenden, von kleinen Sätzen bis hin zu ganzen Themen oder Karten. Der Editor bietet eine Drag-and-Drop-Oberfläche für die Wiederverwendung von Inhalten.
 
-Weitere Informationen finden Sie in der Lektion [Wiederverwendung ](./content-reuse.md) Inhalten“ in diesem Kurs .
+Weitere Informationen finden Sie in der Lektion [Wiederverwendung &#x200B;](./content-reuse.md) Inhalten“ in diesem Kurs .
 Informationen zu wiederverwendbaren Inhalten und deren effektiver Verwaltung.
 
 ## Arbeiten mit Glossaren
 
 Die Verwendung des Glossars erleichtert die konsistente Formulierung von Informationen und bietet dem Leser mehr Klarheit. Der Editor bietet eine Drag-and-Drop-Oberfläche zum Einfügen von Glossarbegriffen in ein Thema.
 
-Weitere Informationen zur Konfiguration und Verwendung von Glossaren finden [ in ](./glossary.md) Lektion Glossar in diesem Kurs .
+Weitere Informationen zur Konfiguration und Verwendung von Glossaren finden [&#x200B; in &#x200B;](./glossary.md) Lektion Glossar in diesem Kurs .
 
 ## Arbeiten mit Bedingungen
 
 In DITA werden Bedingungen häufig durch die Verwendung von Attributen wie Produkt, Plattform und Zielgruppe gesteuert, denen jeweils bestimmte Werte zugewiesen werden können. Bedingungen werden über Ordnerprofile verwaltet.
 
-Weitere Informationen zur Konfiguration und Verwendung von bedingten Attributen finden [ in ](./conditions.md) Lektion mit dem Titel „Bedingungen“ in diesem Kurs.
+Weitere Informationen zur Konfiguration und Verwendung von bedingten Attributen finden [&#x200B; in &#x200B;](./conditions.md) Lektion mit dem Titel „Bedingungen“ in diesem Kurs.
 
 ## Erstellen eines Snippets
 
@@ -192,13 +192,13 @@ Der Ausschnitt wird der Liste der verfügbaren Ausschnitte hinzugefügt. Sie kan
 
 Mithilfe des Bedienfelds Vorlagen können Admins mühelos Vorlagen erstellen und verwalten, die Autorinnen und Autoren verwenden können. Standardmäßig werden Vorlagen als „Zuordnung“ und „Thementyp“ kategorisiert.
 
-Weitere Informationen zum Konfigurieren und Anwenden von Vorlagen finden Sie in den Lektionen [Ordnerprofile](./folder-profiles.md) und [Workflows ](simple-content-creation-workflows.md) Erstellung von Inhalten in diesem Kurs.
+Weitere Informationen zum Konfigurieren und Anwenden von Vorlagen finden Sie in den Lektionen [Ordnerprofile](./folder-profiles.md) und [Workflows &#x200B;](simple-content-creation-workflows.md) Erstellung von Inhalten in diesem Kurs.
 
 ## Suchen von Dateien mit „Suchen und Ersetzen“
 
 Im Editor stehen zwei Optionen zum Suchen und Ersetzen zur Verfügung. Die erste ermöglicht Suchen und Ersetzen-Funktionen innerhalb eines bestimmten offenen Themas, ähnlich wie bei einer herkömmlichen Textverarbeitung. Das zweite ist ein Bedienfeld „Suchen und Ersetzen“, das Text in mehreren Dateien im Repository durchsucht.
 
-Weitere Informationen zur Funktion „Suchen [ Ersetzen“ finden Sie ](./spell-check.md) der Lektion „Rechtschreibprüfung und Suchen und Ersetzen“ in diesem Kurs.
+Weitere Informationen zur Funktion „Suchen [&#x200B; Ersetzen“ finden Sie &#x200B;](./spell-check.md) der Lektion „Rechtschreibprüfung und Suchen und Ersetzen“ in diesem Kurs.
 
 ## Aktualisieren von Inhaltseigenschaften
 
@@ -272,4 +272,4 @@ Die Prüfungsaufgabe wird erstellt.
 
 Die Möglichkeit, Änderungen zu verfolgen, gibt Ihnen ein hohes Maß an Kontrolle darüber, welche Änderungen in einer Version eines Themas bis zur nächsten beibehalten werden. Sie können das rechte Bedienfeld verwenden, um verfolgte Änderungen zu verwalten.
 
-Weitere Informationen zur Funktion zur Änderungsverfolgung finden [ in ](./track-changes.md) Lektion mit dem Titel „Änderungen verfolgen“.
+Weitere Informationen zur Funktion zur Änderungsverfolgung finden [&#x200B; in &#x200B;](./track-changes.md) Lektion mit dem Titel „Änderungen verfolgen“.
