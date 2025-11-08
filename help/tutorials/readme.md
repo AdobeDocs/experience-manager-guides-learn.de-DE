@@ -9,6 +9,6 @@ ht-degree: 0%
 
 Die Dateien im Abschnitt „Tutorials“ befinden sich nun im `experience-manager-guides.en`-Repository:
 
-<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
+<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.de-DE>
 
 Dieses Lern-Repository sollte nur den Videoinhalt enthalten. Die gesamte Produktdokumentation befindet sich nun im anderen Repository.
