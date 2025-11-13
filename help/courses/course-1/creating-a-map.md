@@ -2,7 +2,7 @@
 title: Erstellen Sie eine Zuordnung in [!DNL AEM Guides]
 description: Erfahren Sie, wie Sie in eine Zuordnung erstellen [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 1%
@@ -10,6 +10,8 @@ ht-degree: 1%
 ---
 
 # Erstellen einer Zuordnung
+
+{{test}}
 
 Eine Zuordnung ist ein organisatorisches Tool, mit dem Sie Informationen in einer hierarchischen Struktur hinzufügen und organisieren können. Diese Aufgabe zeigt Ihnen, wie Sie eine Karte erstellen und den Inhalt in der Karte organisieren.
 
@@ -24,7 +26,7 @@ Beispiele für DITA-Dateien können hier heruntergeladen werden:
 
 Bei Bedarf können Sie lokale Beispieldateien in AEM hochladen, um einen umfassenderen Materialsatz zu erhalten.
 
-1. Lokale Dateien per Drag-and-Drop in AEM hochladen.
+1. Ziehen Sie lokale Dateien per Drag-and-Drop in AEM, um sie hochzuladen.
 1. Wiederholen Sie den Vorgang nach Bedarf für alle Dateien, einschließlich Bilder und Themen.
 
 ## Erstellen einer Zuordnung
@@ -71,7 +73,7 @@ Die Vorschau bietet einen schnellen Überblick über den Inhalt unter Verwendung
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
-Ihr Inhalt wird in &quot;[!UICONTROL &quot; &#x200B;].
+Ihr Inhalt wird in &quot;[!UICONTROL &quot; ].
 
 1. Um zur Autorenansicht zurückzukehren und die Kartenbearbeitung fortzusetzen, wählen Sie **Autor.**
 
