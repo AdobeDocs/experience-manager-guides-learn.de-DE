@@ -73,7 +73,7 @@ Die Vorschau bietet einen schnellen Überblick über den Inhalt unter Verwendung
 
    ![Schaltfläche „Vorschau“](images/common/select-preview.png)
 
-Ihr Inhalt wird in &quot;[!UICONTROL &quot; ].
+Ihr Inhalt wird in &quot;[!UICONTROL &quot; &#x200B;].
 
 1. Um zur Autorenansicht zurückzukehren und die Kartenbearbeitung fortzusetzen, wählen Sie **Autor.**
 
