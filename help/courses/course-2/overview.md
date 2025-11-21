@@ -16,7 +16,7 @@ In diesen Tutorials lernen Sie Folgendes:
 - [Grundlegendes zum Zuordnungs-Dashboard](./introduction-to-the-map-dashboard.md)
 - [Arbeiten mit Berichten](./working-with-reports.md)
 - [Erstellen und Veröffentlichen mit Baselines](./creating-and-publishing-with-baselines.md)
-- [Publish mit Bedingungen](./publishing-with-conditions.md)
+- [Mit Bedingungen veröffentlichen](./publishing-with-conditions.md)
 - [Grundlegendes zu Ausgabevorgaben](./output-presets.md)
 - [Fehlerbehebung bei Veröffentlichungsfehlern](./troubleshooting-publishing-errors.md)
 - [Massenveröffentlichung](./bulk-publishing.md)

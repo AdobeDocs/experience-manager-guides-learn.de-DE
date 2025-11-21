@@ -20,4 +20,4 @@ In diesen Tutorials lernen Sie Folgendes:
 - [Arbeiten mit Aufzählungs- und nummerierten Listen](working-with-lists.md)
 - [Version Ihres Inhalts](versioning-content.md)
 - [Erstellen und Organisieren einer Karte](creating-a-map.md)
-- [Publish eine Zuordnung als AEM-Site und PDF](publishing-default-output.md)
+- [Veröffentlichen einer Karte als AEM-Site und PDF](publishing-default-output.md)

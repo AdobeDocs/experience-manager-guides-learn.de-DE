@@ -5,7 +5,7 @@ breadcrumb-title: Tutorials für AEM Guides
 source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 17%
+ht-degree: 22%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 17%
    + [Erstellen einer Zuordnung](./course-1/creating-a-map.md)
    + [Standardausgabe veröffentlichen](./course-1/publishing-default-output.md)
    + [Zusammenfassung](./course-1/recap.md)
-+ Ausgabenerstellung mit [!DNL AEM Guides] {#output-generation}
++ Ausgabegenerierung mit [!DNL AEM Guides] {#output-generation}
    + [Übersicht über die Ausgabenerstellung](./course-2/overview.md)
    + [Grundlegendes zum Zuordnungs-Dashboard](./course-2/introduction-to-the-map-dashboard.md)
    + [Arbeiten mit Berichten](./course-2/working-with-reports.md)
