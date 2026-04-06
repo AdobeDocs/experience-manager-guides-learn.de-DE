@@ -1,10 +1,15 @@
 ---
-source-git-commit: 694b1db9f43825ff9e427e7309128434e0924912
+source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
-source-wordcount: '7'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
-# ARCHIVIERT
+# [!DNL XML Documentation] für Adobe Experience Manager (oder AEM DoX)
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/experience-manager-guides-learn.de-DE> migriert.
+Dies ist das Repository für Kundenaktivierungsinhalte für [!DNL XML Documentation] für Adobe Experience Manager (auch AEM DoX genannt) - Tutorials, Kurse, Videos und Artikel zur Fehlerbehebung.
+
+Ihre Beiträge zur Dokumentation sind willkommen. Siehe die folgenden Ressourcen:
+
+* [Beitragen](contributing.md) für einen Überblick darüber, wie Sie zur Dokumentation beitragen können.
+* [Verhaltenskodex](code-of-conduct.md) für einen Überblick über die Verhaltensnormen, die wir beim Beitrag zu diesem Dokumentationsprojekt erwarten.
