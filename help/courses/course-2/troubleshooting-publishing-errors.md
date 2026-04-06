@@ -2,9 +2,9 @@
 title: Fehlerbehebung bei Veröffentlichungsfehlern
 description: Fehlerbehebung bei Veröffentlichungsfehlern in [!DNL Adobe Experience Manager Guides]
 exl-id: b37ea3e7-59cf-4fc5-8fae-e1fadd26f8d8
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 4e0a32263d6363e367685213fe3e524cd0f6965e
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Beispieldateien für die Übung können hier heruntergeladen werden.
 
 ## Häufige Ursachen für Veröffentlichungsfehler
 
-Es können Fehler in den Quellinhalt eingeführt werden. Zum Beispiel:
+Es können Fehler in den Quellinhalt eingeführt werden. Beispiel:
 
 * Falsch benannte Dateipfadreferenz
 
@@ -71,36 +71,28 @@ Je nach Fehlertyp kann die Auflösung einfach oder komplex sein. Sie kann von ei
 
 * Falsch benannte Dateipfadreferenz
 
-      Autoren können den Pfadverweis im Quelldokument aktualisieren.
-     
-  
+  Autoren können den Pfadverweis im Quelldokument aktualisieren.
+
 * Falsch benannter Ordner
 
-      Autoren können den Ordnernamen aktualisieren oder Dateien nach Bedarf verschieben.
-     
-  
+  Autoren können den Ordnernamen aktualisieren oder Dateien nach Bedarf verschieben.
+
 * Fehlende Grafik oder Datei
 
-      Autoren können eine fehlende Grafik/Datei hochladen, eine Grafik/Datei umbenennen oder eine Grafik/Datei verschieben
-     
-  
+  Autoren können fehlende Grafiken/Dateien hochladen, eine Grafik/Datei umbenennen oder eine Grafik/Datei verschieben
+
 * Falsch konfigurierte Inhaltsreferenz
 
-      Autoren können die Position des referenzierten Inhalts korrigieren oder den Pfad zur Inhaltsreferenz ändern.
-     
-  
+  Autoren können die Position des referenzierten Inhalts korrigieren oder den Pfad zur Inhaltsreferenz ändern.
+
 * Fehlerhafter Querverweis
 
-      Autoren können die Position korrigieren, auf die die Querverweise verweisen, oder den Namen oder die Eigenschaften der Zieldatei ändern
-     
-  
+  Autoren können die Position der Querverweise korrigieren oder den Namen oder die Eigenschaften der Zieldatei ändern
+
 * Fehler in den Werten für ein Attribut (z. B. eine Zeichenfolge statt einer Zahl)
 
-      Autoren können das Attribut auf einen korrekten Wert aktualisieren oder Administratoren können das System aktualisieren, um neue Werte zu unterstützen.
-     
-  
+  Autoren können das Attribut auf einen korrekten Wert aktualisieren, oder Admins können das System aktualisieren, um neue Werte zu unterstützen.
+
 * Falsche Einrichtung der von [!DNL AEM Guides] verwendeten Komponenten
 
-      Administratoren können die Installation des Systems, seine Komponenten oder Berechtigungen aktualisieren.
-     
-  
+  Admins können die Installation des Systems, seine Komponenten oder Berechtigungen aktualisieren.

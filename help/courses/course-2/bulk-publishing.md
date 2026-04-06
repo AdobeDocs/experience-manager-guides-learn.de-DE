@@ -2,16 +2,16 @@
 title: Massenveröffentlichung
 description: Massenveröffentlichung in [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 4e0a32263d6363e367685213fe3e524cd0f6965e
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 5%
 
 ---
 
 # Massenveröffentlichung
 
-Bei der Veröffentlichung wird oft mehr als eine Art von Dokumentation benötigt. Mit Zuordnungssammlungen können Sie die Anzahl und die Typen von Ausgaben steuern, die zusammengestellt und generiert werden, und die Massenveröffentlichung starten. Im Publish-Dashboard können Sie aktive Veröffentlichungsaufträge anzeigen. Das Massen-Publish-Dashboard bietet eine Möglichkeit, Sammlungen stapelweise zu aktivieren.
+Bei der Veröffentlichung wird oft mehr als eine Art von Dokumentation benötigt. Mit Zuordnungssammlungen können Sie die Anzahl und die Typen von Ausgaben steuern, die zusammengestellt und generiert werden, und die Massenveröffentlichung starten. Im Veröffentlichungs-Dashboard können Sie aktive Veröffentlichungsaufträge anzeigen. Das Dashboard für die Massenveröffentlichung bietet eine Möglichkeit, Sammlungen stapelweise zu aktivieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338985?quality=12&learn=on)
 
@@ -61,25 +61,24 @@ Mit Zuordnungssammlungen können Sie die Ausgabetypen steuern, die für eine ode
 
 1. Überprüfen Sie die Ausgabe.
 
-## Anzeigen aktiver Veröffentlichungsaufträge im Publish-Dashboard
+## Anzeigen aktiver Veröffentlichungsaufträge im Veröffentlichungs-Dashboard
 
-Im Publish-Dashboard können Sie die aktiven
+Im Veröffentlichungs-Dashboard können Sie aktive anzeigen
 Veröffentlichungsaufträge. Es zeigt eine dynamische Liste von Karten und deren aktuellen Status an. Sie können Veröffentlichungs-Workflows verfolgen, verwalten oder abbrechen.
 
 1. Klicken Sie in der Navigationsansicht auf das Symbol **Tools**.
 
 1. Klicken Sie auf **[!DNL Guides]**.
 
-1. Wählen Sie die Kachel **Publish Dashboard** aus.
+1. Wählen Sie die Kachel **Dashboard veröffentlichen** aus.
 
-       Wenn das Dashboard leer ist, werden keine Veröffentlichungsaufträge ausgeführt.
-       
-   
+   Wenn das Dashboard leer ist, werden keine Veröffentlichungsaufträge ausgeführt.
+
 1. Filtern Sie das Dashboard nach Bedarf, um alle Veröffentlichungsaufträge anzuzeigen.
 
-### Arbeiten mit dem Publish-Massen-Dashboard
+### Arbeiten mit dem Dashboard für die Massenveröffentlichung
 
-Das Publish-Massen-Dashboard ermöglicht es Ihnen, mit Massenaktivierungssammlungen zu arbeiten und mehrere Ausgabetypen zu steuern.
+Das Dashboard „Massenveröffentlichung“ ermöglicht die Arbeit mit Massenaktivierungssammlungen und die Steuerung mehrerer Ausgabetypen.
 
 ### Erstellen einer Massenaktivierungssammlung
 
@@ -87,7 +86,7 @@ Das Publish-Massen-Dashboard ermöglicht es Ihnen, mit Massenaktivierungssammlun
 
 1. Klicken Sie auf **[!DNL Guides]**.
 
-1. Wählen Sie die Kachel **Massen-Publish-Dashboard** aus.
+1. Wählen Sie die **Dashboard für Massenveröffentlichung** aus.
 
 1. Geben Sie einen Sammlungstitel ein.
 
@@ -105,7 +104,7 @@ Das Publish-Massen-Dashboard ermöglicht es Ihnen, mit Massenaktivierungssammlun
 1. Klicken Sie auf **Fertig**.
 1. Schließen Sie abschließend die Zuordnungssammlung.
 
-### Schnelle Publish-Massenaktivierungssammlung
+### Schnelles Veröffentlichen einer Massenaktivierungssammlung
 
 1. Wählen Sie eine Sammlungskachel für die Massenaktivierung aus.
 1. Klicken Sie auf **Öffnen**.
