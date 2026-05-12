@@ -2,10 +2,14 @@
 title: Wiederverwendung von Inhalten
 description: Wiederkehrende Verwendung von Funktionen in AEM Guides
 exl-id: 453c5a09-0bcf-4760-87fc-df3ea4a3a30a
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/MJKB2oOi8SQbB6L8059wvMpFkwQ3M9iH2Jpxo3g9R0U
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 2%
+source-wordcount: 357
+ht-degree: 3%
 
 ---
 
@@ -25,7 +29,7 @@ Wenn eine Änderung an einem wiederverwendbaren Quellthema vorgenommen wird, wer
 
 1. Wählen Sie **Erstellen > DITA-Thema**.
 
-1. Füllen Sie die Felder im Dialogfeld Neues Thema erstellen aus. Zum Beispiel:
+1. Füllen Sie die Felder im Dialogfeld Neues Thema erstellen aus. Beispiel:
 
    ![Bestätigung](images/lesson-8/new-topic-dialog.png)
 
@@ -50,15 +54,15 @@ Es gibt mehrere Methoden zum Hinzufügen wiederverwendbarer Elemente. Hier ist d
 1. Navigieren Sie zum gewünschten Ordner.
 
 1. Wählen Sie ein Thema mit wiederverwendbaren Komponenten.
-Zum Beispiel:
+Beispiel:
 
    ![Bestätigung](images/lesson-8/reusable-topic.png)
 
-1. Klicken Sie [!UICONTROL **Auswählen**].
+1. Klicken Sie auf [!UICONTROL **Auswählen**].
 
 1. Wählen Sie eine bestimmte Komponente zur Wiederverwendung aus.
 
-1. Klicken Sie [!UICONTROL **Auswählen**].
+1. Klicken Sie auf [!UICONTROL **Auswählen**].
 
 Das wiederverwendbare Element wurde jetzt in das Thema eingefügt.
 

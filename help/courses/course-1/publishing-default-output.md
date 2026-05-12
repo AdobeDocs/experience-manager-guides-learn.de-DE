@@ -2,9 +2,14 @@
 title: Veröffentlichen der Standardausgabe in AEM Guides
 description: Standardausgabe wird in veröffentlicht [!DNL Adobe Experience Manager Guides]
 exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/PRvaVZEWIBJPu4Aopj6kkDoDABWgFw-npcA0vSwrGfs
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
+subfeature_v2: id: fd6cc9e1-e5e5-494e-b7b1-a32f2d6cd7c9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 228
 ht-degree: 0%
 
 ---
@@ -17,7 +22,7 @@ Sobald Sie eine fertige Zuordnung haben, können Sie Ihre Inhalte in mehreren Au
 
 ## Veröffentlichen der Karte als AEM-Site und PDF
 
-Es stehen eine Reihe von Ausgabevorgaben zur Auswahl. Dieses Handbuch konzentriert sich auf die AEM-Site- und PDF-Ausgaben.
+Es stehen eine Reihe von Ausgabevorgaben zur Auswahl. Dieses Handbuch konzentriert sich auf die Ausgaben von AEM Site und PDF.
 
 1. Wählen Sie im Repository das Symbol mit den Auslassungspunkten auf Ihrer Zuordnung aus, um das Menü „Optionen“ zu öffnen, und klicken Sie dann auf **In Karten-Dashboard öffnen**
 
@@ -39,10 +44,10 @@ Es stehen eine Reihe von Ausgabevorgaben zur Auswahl. Dieses Handbuch konzentrie
 
 ## Die AEM-Site-Ausgabe
 
-In der AEM-Site-Ausgabe werden Themen, Listen, Bilder, Titel, Tabellen und andere mit dem XML-Editor erstellte Inhalte von AEM automatisch für Web-freundliche Inhalte veröffentlicht.
+In der Ausgabe der AEM-Site werden Themen, Listen, Bilder, Titel, Tabellen und andere mit dem XML-Editor erstellte Inhalte von AEM automatisch in Web-freundlichen Inhalten veröffentlicht.
 
 Untergeordnete Themen werden im Inhaltsverzeichnis sowie im Abschnitt mit den zugehörigen Informationen angezeigt. Diese Links können alle zur Navigation verwendet werden.
 
 ## Die PDF-Ausgabe
 
-Das fertige PDF-Dokument enthält den Standardtitel der Karte als Haupttitel auf der Titelseite. Kapitelabdeckungsseiten sind mit der Kapitelnummer formatiert und enthalten Links zu den darin enthaltenen Themen.
+Das fertige PDF-Dokument enthält den Standardtitel der Zuordnung als Haupttitel auf der Titelseite. Kapitelabdeckungsseiten sind mit der Kapitelnummer formatiert und enthalten Links zu den darin enthaltenen Themen.

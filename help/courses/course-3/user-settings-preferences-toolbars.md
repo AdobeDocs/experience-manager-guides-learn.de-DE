@@ -2,9 +2,14 @@
 title: Benutzereinstellungen, Editor-Einstellungen und Editor-Symbolleisten
 description: Ändern von Benutzereinstellungen und Editor-Einstellungen in AEM Guides
 exl-id: 8cb099e4-d985-4eeb-b1a5-0e372b04d218
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/OA2xVO7uyM-70UZKo4oq37HvbpXkTWKmCmQjGkppF7o
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ab01a588-7dea-43f2-a699-0b3f128465d6id: afb45297-4313-4f67-818e-bc0b03abe086
+subfeature_v2: id: ad602516-aca3-4247-9ae8-f393d958efa9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: 1171
 ht-degree: 1%
 
 ---
@@ -113,7 +118,7 @@ Sie können den Basispfad aktualisieren, damit Ihnen die Repository-Ansicht den 
 
 1. Aktivieren Sie im Dialogfeld Pfad auswählen das Kontrollkästchen neben einem bestimmten Ordner.
 
-1. Klicken Sie [!UICONTROL **Auswählen**].
+1. Klicken Sie auf [!UICONTROL **Auswählen**].
 
 Wenn Sie den Editor das nächste Mal starten, zeigt das Repository die Dateien an, die im Basispfad angegeben wurden.
 
@@ -221,7 +226,7 @@ Auf der Registerkarte Bedingung können Sie mehrere Eigenschaften konfigurieren.
 
 ## Erstellen eines Veröffentlichungsprofils in den Editor-Einstellungen
 
-Publish-Profile können zum Veröffentlichen der Wissensdatenbank verwendet werden. Salesforce verwendet beispielsweise eine konfigurierte App mit einem Consumer Key und einem Consumer Secret. Mit diesen Informationen kann ein Salesforce-Veröffentlichungsprofil erstellt werden.
+Profile veröffentlichen können verwendet werden, um die Wissensdatenbank zu veröffentlichen. Salesforce verwendet beispielsweise eine konfigurierte App mit einem Consumer Key und einem Consumer Secret. Mit diesen Informationen kann ein Salesforce-Veröffentlichungsprofil erstellt werden.
 
 1. Klicken Sie auf [!UICONTROL **Symbol**] Editor-Einstellungen“ in der oberen Symbolleiste.
 

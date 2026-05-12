@@ -1,11 +1,14 @@
 ---
 title: Bedingungen
-description: Arbeiten mit Bedingungen in AEM-Handbüchern
+description: Arbeiten mit Bedingungen in den AEM-Handbüchern
 exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/RmYnleEQKJitdoHoBKuBDRR1LdFcqmMm4lEDqF3E-vY
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 1%
+source-wordcount: 498
+ht-degree: 3%
 
 ---
 
@@ -41,7 +44,7 @@ Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der 
 
 >[!NOTE]
 >
->HINWEIS: Die Konfiguration eines globalen Profils kann eine frühe und effiziente Möglichkeit sein, die Verwendung von Attributen und Werten zu steuern und so einem konsistenten Stil-Handbuch zu folgen.
+HINWEIS: Die Konfiguration eines globalen Profils kann eine frühe und effiziente Möglichkeit sein, die Verwendung von Attributen und Werten zu steuern und so einem konsistenten Stil-Handbuch zu folgen.
 
 ## Zuweisen von Attributen zu Elementen
 
@@ -67,11 +70,11 @@ Das Bedienfeld Bedingungen ermöglicht die kontrollierte Zuweisung von Attribut-
 
    ![Symbol für Benutzereinstellungen](images/lesson-13/user-prefs-icon.png)
 
-   b. Füllen Sie die erforderlichen Felder im Dialogfeld **Benutzereinstellungen** aus. Zum Beispiel:
+   B. Füllen Sie die erforderlichen Felder im Dialogfeld **Benutzereinstellungen** aus. Beispiel:
 
    ![Benutzervoreinstellungen](images/lesson-13/user-preferences.png)
 
-   c. Klicken Sie auf [!UICONTROL **Speichern**].
+   C. Klicken Sie auf [!UICONTROL **Speichern**].
 
 1. Erweitern Sie im Bedienfeld Bedingungen die Dropdown-Listen für Audience und Platform. Beachten Sie, dass die verfügbaren Bedingungen ordnerprofilspezifisch sind.
 
@@ -89,29 +92,29 @@ Subject Scheme maps sind eine spezielle Form der Imagemap und werden von einer K
 
 1. Konfigurieren Sie die Benutzereinstellungen.
 
-   a. Klicken Sie auf [!UICONTROL **Symbol &quot;**]&quot;.
+   a. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“.
 
    ![Benutzervoreinstellungen](images/lesson-13/user-prefs-icon-2.png)
 
-   b. Füllen Sie die Felder im Dialogfeld **Benutzereinstellungen** aus.
+   B. Füllen Sie die Felder im Dialogfeld **Benutzereinstellungen** aus.
 
-   c. Klicken Sie auf das Ordnersymbol neben dem Feld Basispfad , um den Pfad zur gewünschten Datei auszuwählen.
+   C. Klicken Sie auf das Ordnersymbol neben dem Feld Basispfad , um den Pfad zur gewünschten Datei auszuwählen.
 
    d. Klicken Sie auf [!UICONTROL **Auswählen**].
 
-   e. Klicken Sie auf das Schlüsselsymbol neben dem Feld **Stammzuordnung**, um einen Pfad einzugeben.
+   E. Klicken Sie auf das Schlüsselsymbol neben dem Feld **Stammzuordnung**, um einen Pfad einzugeben.
 
    >[!IMPORTANT]
    >
-   >Wichtig: Die ausgewählte Stammzuordnung muss die Zuordnung sein, die das Themenschema enthält.
+   Wichtig: Die ausgewählte Stammzuordnung muss die Zuordnung sein, die das Themenschema enthält.
 
    ![Benutzervoreinstellungen](images/lesson-13/user-preferences-2.png)
 
-   f. Beschränken Sie die angezeigten Assets, indem Sie die Ordner auswählen, die Sie verwenden möchten.
+   F. Beschränken Sie die angezeigten Assets, indem Sie die Ordner auswählen, die Sie verwenden möchten.
 
    g. Klicken Sie auf [!UICONTROL **Auswählen**].
 
-   h. Klicken Sie auf [!UICONTROL **Speichern**].
+   Std. Klicken Sie auf [!UICONTROL **Speichern**].
 
 Das Schema wurde nun zugewiesen.
 

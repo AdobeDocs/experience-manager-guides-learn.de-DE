@@ -1,15 +1,18 @@
 ---
-title: Grundlegendes zur AEM-Benutzeroberfläche in [!DNL AEM Guides]
-description: Grundlegendes zur AEM-Benutzeroberfläche in [!DNL Adobe Experience Manager Guides]
+title: Grundlegendes zur Benutzeroberfläche von AEM in  [!DNL AEM Guides]
+description: Grundlegendes zur Benutzeroberfläche von AEM in  [!DNL Adobe Experience Manager Guides]
 exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/k69iwbiqIEyFjgOMiBC2gMm1QWqxddSTC1xoRQmJmKQ
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: 361
 ht-degree: 2%
 
 ---
 
-# Grundlegendes zur AEM-Benutzeroberfläche
+# Grundlegendes zur Benutzeroberfläche von AEM
 
 Erfahren Sie mehr über die Verwaltung von Assets, Dateien und Ordnern im XML-Editor für Experience Manager.
 
@@ -18,13 +21,13 @@ Erfahren Sie mehr über die Verwaltung von Assets, Dateien und Ordnern im XML-Ed
 ## Zugreifen auf den XML-Editor
 
 1. Geben Sie im Anmeldebildschirm Ihren Benutzernamen und Ihr Kennwort ein und wählen Sie **[!UICONTROL Anmelden]**.
-1. Wählen Sie **[!UICONTROL XML-]**) auf der Seite AEM-Navigation aus.
+1. Wählen Sie **[!UICONTROL XML-]**) auf der AEM-Navigationsseite aus.
 
 ## XML-Editor-Ansichten
 
 In der Seitenleiste können Sie aus mehreren Ansichten für den XML-Editor wählen, um Ihre Unternehmensanforderungen am besten zu erfüllen. Dazu gehören die Standardansicht und [!UICONTROL Repository-Ansicht].
 
-In der Standardansicht werden Ihre &quot;[!UICONTROL &quot; &#x200B;]. Sie können sie bei Bedarf mit Tastaturbefehlen weiter anpassen. Umgekehrt zeigt [!UICONTROL Repository-Ansicht] eine traditionellere Ordnerstruktur an.
+In der Standardansicht werden Ihre &quot;[!UICONTROL &quot; ]. Sie können sie bei Bedarf mit Tastaturbefehlen weiter anpassen. Umgekehrt zeigt [!UICONTROL Repository-Ansicht] eine traditionellere Ordnerstruktur an.
 
 ### Wechseln zur [!UICONTROL Repository-Ansicht] in der Standardansicht
 

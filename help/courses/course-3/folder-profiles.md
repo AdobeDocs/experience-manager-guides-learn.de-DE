@@ -2,10 +2,15 @@
 title: Ordnerprofile
 description: Erstellen und Verwenden von Ordnerprofilen für AEM Guides
 exl-id: 5a0daa68-51ae-42d0-8320-6e8bdb1fe545
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/ztMvUcFQ-GJTOEU3ikB-2WFgj--ttbY7JoSyGW6Poa8
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ab01a588-7dea-43f2-a699-0b3f128465d6id: cb8c6a2a-3c38-4e40-867c-756f8c36bb0e
+subfeature_v2: id: ad602516-aca3-4247-9ae8-f393d958efa9id: b0521e56-a0b2-40b6-bf47-ebc98751f9baid: b1ef4d86-3917-4b76-a0bc-4a4771f9b3b0id: f89f75b0-cf2e-4e96-aec8-fe8c39cbd0ef
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 1%
+source-wordcount: 917
+ht-degree: 2%
 
 ---
 
@@ -74,9 +79,9 @@ Zusätzlich zum standardmäßigen globalen Profil können Sie auch eigene benutz
 
    a. Benennen Sie das Profil.
 
-   b. Geben Sie einen Pfad an.
+   B. Geben Sie einen Pfad an.
 
-   c. Klicken Sie auf [!UICONTROL **Erstellen**].
+   C. Klicken Sie auf [!UICONTROL **Erstellen**].
 
    ![Ordnerprofil erstellen](images/lesson-3/create-folder-profile.png)
 
@@ -138,15 +143,15 @@ AEM Guides ist mit nativen Authoring-Vorlagen und -Zuordnungen ausgestattet. Sie
 
 1. Fügen Sie eine Zuordnungsvorlage hinzu.
 
-   a. Wählen Sie im Dropdown **Map-** eine Option aus den verfügbaren Karten aus.
+   a. Wählen Sie **Dropdown-Menü** Zuordnungsvorlagen“ eine Option aus den verfügbaren Zuordnungen aus.
 
-   b. Klicken Sie auf [!UICONTROL **Hinzufügen**].
+   B. Klicken Sie auf [!UICONTROL **Hinzufügen**].
 
    ![Zuordnungsvorlagen](images/lesson-3/map-templates.png)
 
 1. Hinzufügen einer Themenvorlage.
 
-   a. Wählen Sie im **„Themenvorlagen** eine Option aus den verfügbaren Vorlagen aus.
+   a. Wählen Sie aus **Dropdown-Liste** Themenvorlagen“ eine Option aus den verfügbaren Vorlagen aus.
 
    ![Themenvorlagen](images/lesson-3/topic-templates.png)
 

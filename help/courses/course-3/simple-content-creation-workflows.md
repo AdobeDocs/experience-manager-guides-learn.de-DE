@@ -2,16 +2,19 @@
 title: Einfache Workflows zur Inhaltserstellung
 description: Erstellen von Inhalten in AEM Guides
 exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/fLMRJWYDwHU-0ZbbUQ2kFZ1ZUM4vIwHccPV3q-pkn0I
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: 720
 ht-degree: 2%
 
 ---
 
 # Einfache Workflows zur Inhaltserstellung
 
-Der AEM Guides-Editor verfügt über mehrere Tastaturbefehle, die den Arbeitsablauf für die Inhaltserstellung vereinfachen. Mithilfe dieser Tastaturbefehle können Benutzende schnell Bilder hinzufügen und ändern, mit mehreren Themen gleichzeitig arbeiten, Fehler korrigieren, Themenversionen herunterladen sowie mit PDF und Beschriftungen arbeiten.
+Der AEM Guides-Editor verfügt über mehrere Tastaturbefehle, die den Arbeitsablauf für die Inhaltserstellung vereinfachen. Mit diesen Tastaturbefehlen können Benutzer schnell Bilder hinzufügen und ändern, mit mehreren Themen gleichzeitig arbeiten, Fehler korrigieren, Themen-PDFs herunterladen und mit Versionen und Beschriftungen arbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342770?quality=12&learn=on)
 
@@ -73,9 +76,9 @@ Die geteilte Ansicht ist hilfreich, wenn Sie Themen vergleichen, Themen kopieren
 
 Der Fehler wurde im Thementext korrigiert.
 
-## Topic-PDF herunterladen
+## Herunterladen eines Themas PDF
 
-Benutzende können eine PDF des aktuellen Themas herunterladen, um es zu markieren oder mit anderen zu teilen.
+Benutzende möchten möglicherweise eine PDF des aktuellen Themas herunterladen, um sie zu markieren oder für andere freizugeben.
 
 1. Klicken [!UICONTROL **oben**] auf dem Bildschirm auf „Vorschau“.
 
@@ -83,9 +86,9 @@ Benutzende können eine PDF des aktuellen Themas herunterladen, um es zu markier
 
    ![PDF-Export](images/lesson-15/pdf-export.png)
 
-1. Füllen Sie bei Bedarf die Informationen für **Umwandlungsname** oder **DITA-OT** Befehlszeilenargumente aus. Beachten Sie, dass eine PDF immer noch generiert wird, wenn alle Felder leer gelassen werden.
+1. Füllen Sie bei Bedarf die Informationen für **Umwandlungsname** oder **DITA-OT** Befehlszeilenargumente aus. Beachten Sie, dass eine PDF weiterhin generiert, wenn alle Felder leer gelassen werden.
 
-1. Klicken Sie auf [!UICONTROL **Herunterladen**]. Die PDF erzeugt.
+1. Klicken Sie auf [!UICONTROL **Herunterladen**]. Der PDF generiert.
 
 1. Verwenden Sie verfügbare Symbole, um das PDF-Thema zu konfigurieren, herunterzuladen oder freizugeben.
 
@@ -125,9 +128,9 @@ Es kann schwierig sein, den Status eines Themas nur anhand der Versionsnummer zu
 
 1. Konfigurieren Sie im Ordnerprofil den XML-Editor.
 
-   a. Wählen Sie Bearbeiten oben links im Bildschirm aus.
+   a. Klicken Sie oben links im Bildschirm auf Bearbeiten .
 
-   b. Fügen Sie unter XML Content Version Labels entweder ein neues Thema hinzu oder verwenden Sie ein vorhandenes.
+   B. Fügen Sie unter XML Content Version Labels entweder ein neues Thema hinzu oder verwenden Sie ein vorhandenes.
 
    ![Beschriftungen für Inhaltsversionen](images/lesson-15/version-labels.png)
 

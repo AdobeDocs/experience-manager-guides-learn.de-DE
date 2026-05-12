@@ -2,9 +2,13 @@
 title: Erstellen und Veröffentlichen mit Baselines
 description: Erstellen und Veröffentlichen mit Grundlinien in [!DNL Adobe Experience Manager Guides]
 exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/P2NbWdOXSWFs40gpSWNrtDLR3VKofXymN5FlZSQRJ7Y
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dcaid: d90290ec-3e61-4ebd-8649-bcafe0836803
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: 764
 ht-degree: 2%
 
 ---
@@ -115,7 +119,7 @@ Die Bezeichnung wurde allen Themen hinzugefügt.
 
    ![baseline.png](images/baseline.png)
 
-1. Wählen Sie **Fertig**.
+1. Wählen Sie **Fertig** aus.
 
    ![done.png](images/done.png)
 
@@ -183,7 +187,7 @@ Sie können die Version eines Themas, das in einer Baseline verwendet wird, dire
 
 Ihre Änderungen wurden gespeichert. Ihre Grundlinie verwendet jetzt die Versionen des von Ihnen angegebenen Themas.
 
-## Erstellen einer benutzerdefinierten AEM-Site-Ausgabevorgabe
+## Erstellen einer benutzerdefinierten Ausgabevorgabe der AEM-Site
 
 Es ist schwierig, auf der Registerkarte „Ausgaben“ zwischen Standardausgaben desselben Typs zu unterscheiden. Durch die Verwendung einer benutzerdefinierten Ausgabevorgabe mit einem eindeutigen und benutzerfreundlichen Namen können Sie dieses Problem beheben.
 
@@ -202,6 +206,6 @@ In diesem Fall erstellen wir eine Ausgabevorgabe basierend auf einer Grundlinie.
 
    ![baseline.png](images/baseline.png)
 
-1. Wählen Sie **Fertig**.
+1. Wählen Sie **Fertig** aus.
 
 Ihre neue Ausgabevorgabe wurde erstellt und wird auf der Seite „Ausgabevorgaben“ angezeigt.
