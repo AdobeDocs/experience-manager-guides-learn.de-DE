@@ -2,10 +2,18 @@
 title: Erstellen von Inhalten in [!DNL AEM Guides]
 description: Erstellen von Inhalten in [!DNL Adobe Experience Manager Guides]
 exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
-source-git-commit: 6959927315c7afc62a7423e835a36895c76fdc6d
+TQID: https://experienceleague.adobe.com/Lq5OHK1A0CDSTUHhO-FX2FZVEcJRfyHfGXYi5gZXjbo
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 0%
+source-wordcount: 381
+ht-degree: 2%
 
 ---
 
@@ -76,7 +84,7 @@ Sie können Ihre Arbeit jederzeit mit Speichern oder Als neue Version speichern.
 
 ### Speichern von Arbeit ohne Versionierung
 
-1. Wählen Sie das Symbol **Speichern** aus.
+1. Wählen Sie das Symbol **Speichern**.
 
    ![Speichersymbol](images/common/save.png)
 
@@ -95,7 +103,7 @@ Sie können Ihre Arbeit jederzeit mit Speichern oder Als neue Version speichern.
 
    >[!NOTE]
    > 
-   > Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
+   >Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
 
 1. Wählen Sie **Speichern** aus.
 

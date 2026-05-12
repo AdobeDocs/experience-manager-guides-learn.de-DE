@@ -2,10 +2,16 @@
 title: Rechtschreibprüfung und Suchen/Ersetzen
 description: Verwenden der Rechtschreibprüfung und Suchen/Ersetzen in AEM Guides
 exl-id: 5f39618d-a919-4d3c-a4de-2896f2d1bf20
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/cSdhulSc30KrwsGh1ldB2yn-8eSLccHBpyD-0S1x1M0
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 1%
+source-wordcount: 443
+ht-degree: 2%
 
 ---
 
@@ -39,7 +45,7 @@ Sie können auch ein anderes Tool zur Rechtschreibprüfung als das Standardwört
 
    - **Rechtschreibprüfung des Browsers** - Die Standardeinstellung, bei der die Rechtschreibprüfung das integrierte Wörterbuch des Browsers verwendet.
 
-   - **AEM-Rechtschreibprüfung** - Verwenden Sie diese Option, um eine benutzerdefinierte Wortliste mit dem benutzerdefinierten AEM-Wörterbuch zu erstellen.
+   - **AEM-Rechtschreibprüfung** - Verwenden Sie diese Option, um eine benutzerdefinierte Wortliste mit dem benutzerdefinierten Wörterbuch von AEM zu erstellen.
 
 1. **AEM-Rechtschreibprüfung**.
 
@@ -53,7 +59,7 @@ Der Administrator kann die Einstellungen ändern, sodass das AEM-Wörterbuch ben
 
 1. Anmelden bei **CRXDE Lite**.
 
-   CRXDE Lite-Symbol der ![AEM-Benutzeroberfläche](images/lesson-11/crxde-lite.png)
+   ![Symbol für CRXDE Lite in der AEM-Benutzeroberfläche](images/lesson-11/crxde-lite.png)
 
 1. Navigieren Sie zum Knoten **_/apps/fmdita/config_**.
 
@@ -63,11 +69,11 @@ Der Administrator kann die Einstellungen ändern, sodass das AEM-Wörterbuch ben
 
    a. Klicken Sie mit der rechten Maustaste auf den Konfigurationsordner.
 
-   b. Wählen Sie **Erstellen > Datei erstellen**.
+   B. Wählen Sie **Erstellen > Datei erstellen**.
 
    ![Erstellung einer neuen Wörterbuchdatei](images/lesson-11/new-dictionary-file.png)
 
-   c. Benennen Sie die Datei _&#x200B;**user_dictionary.txt**&#x200B;_.
+   C. Benennen Sie die Datei _&#x200B;**user_dictionary.txt**&#x200B;_.
 
    ![Text des Benutzerwörterbuchs](images/lesson-11/user-dictionary.png)
 
@@ -81,7 +87,7 @@ Der Administrator kann die Einstellungen ändern, sodass das AEM-Wörterbuch ben
 
 1. Schließen Sie die Datei .
 
-Autorinnen und Autoren müssen möglicherweise ihre Web-Editor-Sitzung neu starten, um die aktualisierte benutzerdefinierte Wortliste im AEM-Wörterbuch abzurufen.
+Autorinnen und Autoren müssen möglicherweise ihre Web-Editor-Sitzung neu starten, um die aktualisierte benutzerdefinierte Wortliste im AEM Dictionary zu erhalten.
 
 ## Suchen und Ersetzen in einer Datei
 
@@ -91,7 +97,7 @@ Autorinnen und Autoren müssen möglicherweise ihre Web-Editor-Sitzung neu start
 
 1. Geben Sie in der unteren Symbolleiste ein Wort oder einen Satz ein.
 
-1. Klicken Sie [!UICONTROL **Suchen**].
+1. Klicken Sie auf [!UICONTROL **Suchen**].
 
 1. Geben Sie bei Bedarf ein Wort ein, um das gefundene Wort zu ersetzen.
 
@@ -119,7 +125,7 @@ Autorinnen und Autoren müssen möglicherweise ihre Web-Editor-Sitzung neu start
 
 1. Wählen Sie bei Bedarf **Neue Version nach Ersetzen erstellen** aus.
 
-1. Klicken Sie [!UICONTROL **Suchen**].
+1. Klicken Sie auf [!UICONTROL **Suchen**].
 
 1. Öffnen Sie die gewünschte Datei und navigieren Sie mit den Pfeilen von einem gefundenen Ergebnis zum nächsten.
 

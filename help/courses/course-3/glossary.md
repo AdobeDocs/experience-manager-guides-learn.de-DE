@@ -2,10 +2,16 @@
 title: Glossar
 description: Verwenden des Glossar-Bedienfelds in AEM Guides
 exl-id: 509880b1-852f-44f0-b4a9-09fee8bcb954
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/VqIj9UM41zQz4LfSwvmijVvKM3zFsOqzoYKdKPFUBZQ
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 1%
+source-wordcount: 386
+ht-degree: 2%
 
 ---
 
@@ -37,7 +43,7 @@ Die richtige Stammzuordnung muss ausgewählt sein, damit sie mit einem Glossar o
 
 1. Klicken Sie auf das Schlüsselsymbol, um die richtige Stammzuordnung für die Arbeit mit dem Glossar anzugeben.
 
-1. Klicken Sie [!UICONTROL **Auswählen**].
+1. Klicken Sie auf [!UICONTROL **Auswählen**].
 
 1. Klicken Sie auf [!UICONTROL **Speichern**].
 

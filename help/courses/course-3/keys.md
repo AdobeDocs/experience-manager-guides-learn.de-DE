@@ -2,10 +2,18 @@
 title: Schlüssel
 description: Mit Schlüsseln können Sie beim Arbeiten mit DITA in AEM Guides Variableninformationen in einfügen
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/Uw-JiHQLITcmUtAuV-SogA6mM73A6EeCi27gUQC-8Eo
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 0%
+source-wordcount: 585
+ht-degree: 1%
 
 ---
 
@@ -23,9 +31,9 @@ Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der 
 
    a. Laden Sie die ZIP-Datei.
 
-   b. Aktualisieren Sie die AEM-Umgebung.
+   B. Aktualisieren Sie die AEM-Umgebung.
 
-   c. Auswahl der zu extrahierenden Datei.
+   C. Wählen Sie die zu extrahierende Datei aus.
 
    ![Zip auswählen](images/lesson-9/select-zip.png)
 
@@ -33,13 +41,13 @@ Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der 
 
    ![Symbolleiste](images/lesson-9/extract-archive.png)
 
-   e. Wählen Sie im Dialogfeld den spezifischen Speicherort für zu extrahierende Dateien aus, z. B. den Ordner „Keys“.
+   E. Wählen Sie im Dialogfeld den spezifischen Speicherort für zu extrahierende Dateien aus, z. B. den Ordner „Keys“.
 
-   f. Klicken Sie auf [!UICONTROL **Weiter**].
+   F. Klicken Sie auf [!UICONTROL **Weiter**].
 
-   g. Überspringen Sie alle Konflikte, da sie für Inhalte, die noch nie hochgeladen wurden, nicht existieren werden.
+   g. Konflikte überspringen , da sie für Inhalte, die noch nie hochgeladen wurden, nicht vorhanden sein werden.
 
-   h. Wählen [!UICONTROL **Extrahieren**] oben rechts im Bildschirm aus.
+   Std. Wählen [!UICONTROL **oben**] auf dem Bildschirm „Extrahieren“ aus.
 
 1. Wenn die Extraktion abgeschlossen ist, klicken Sie auf [!UICONTROL **Zum Zielordner wechseln**].
 
@@ -53,19 +61,19 @@ Um Schlüssel korrekt zu verwenden, müssen Benutzereinstellungen auf eine besti
 
    a. Öffnen Sie auf dem Bildschirm Schlüssel eine Karte.
 
-   b. Konfigurieren Sie die Benutzereinstellungen.
+   B. Konfigurieren Sie die Benutzereinstellungen.
 
-   c. Klicken Sie auf das [!UICONTROL **Benutzereinstellungen**]-Symbol in der oberen Symbolleiste.
+   C. Klicken Sie auf [!UICONTROL **Symbol**] Benutzereinstellungen“ in der oberen Symbolleiste.
 
    ![Symbolleiste oben](images/lesson-9/author-view.png)
 
    d. Klicken Sie auf das Schlüsselsymbol, um eine **Stammzuordnung** anzugeben, die zum Auflösen von Schlüsseln verwendet wird.
 
-   e. Aktivieren Sie die Kontrollkästchen für jede gewünschte Assets.
+   E. Aktivieren Sie die Kontrollkästchen für jede gewünschte Assets.
 
    ![Assets-Dropdown](images/lesson-9/select-assets.png)
 
-   f. Klicken Sie auf [!UICONTROL **Auswählen**].
+   F. Klicken Sie auf [!UICONTROL **Auswählen**].
 
    g. **Speichern** der Benutzereinstellungen.
 
@@ -87,13 +95,13 @@ Die Schlüssel werden aufgelöst.
 
    a. Klicken Sie auf eine gültige Position in der Karte.
 
-   b. Wählen Sie das **Keydef** in der oberen Symbolleiste aus.
+   B. Wählen Sie das Symbol **Keydef** in der oberen Symbolleiste aus.
 
    ![Keydef-Symbolleiste](images/lesson-9/key-icon.png)
 
-   c. Geben Sie im Dialogfeld Keydef einfügen einen eindeutigen Wert für Schlüssel ein, der für die Definition, die Sie erstellen, sinnvoll ist.
+   C. Geben Sie im Dialogfeld Keydef einfügen einen eindeutigen Wert für Schlüssel ein, der für die erstellte Definition sinnvoll ist.
 
-   d. Klicken Sie auf [!UICONTROL **Einfügen**].
+   d. Klicken Sie [!UICONTROL **Einfügen**].
 
 1. Hinzufügen von Themen innerhalb der Keydef.
 
@@ -101,7 +109,7 @@ Die Schlüssel werden aufgelöst.
 
    ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen Sie im Dialogfeld Element einfügen nach „topicMeta“ und wählen Sie es aus.
+   B. Suchen Sie im Dialogfeld Element einfügen nach „topicMeta“ und wählen Sie es aus.
 
 1. Fügen Sie Schlüsselwörter innerhalb des Themas hinzu.
 
@@ -109,7 +117,7 @@ Die Schlüssel werden aufgelöst.
 
    ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen und wählen Sie im Dialogfeld Element einfügen „Keywords“ aus.
+   B. Suchen Sie im Dialogfeld Element einfügen nach „Keywords“ und wählen Sie diese aus.
 
 1. Fügen Sie ein Keyword innerhalb des TopicMeta hinzu.
 
@@ -117,7 +125,7 @@ Die Schlüssel werden aufgelöst.
 
    ![Keydef-Symbolleiste](images/lesson-9/add-icon.png)
 
-   b. Suchen Sie im Dialogfeld **Element einfügen** nach „Keyword“ und wählen Sie diese aus.
+   B. Suchen Sie im **Element einfügen** und wählen Sie „Keyword“ aus
 
 1. Geben Sie den Wert für die keydef in das Keyword ein.
 
