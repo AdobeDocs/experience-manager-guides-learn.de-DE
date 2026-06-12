@@ -3,10 +3,15 @@ title: Ausgabevoreinstellungen
 description: Eine Ausgabevorgabe ist eine Sammlung von Veröffentlichungseigenschaften, die einer Zuordnung zugewiesen wurden
 exl-id: b0c64737-48a0-4337-8a7f-35d1deb03366
 TQID: https://experienceleague.adobe.com/Q7ym3RWur26EkvBQq2fUXbKtyVYoNI-Ca2Dgituh-I8
-product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 225
@@ -30,7 +35,7 @@ Eine Ausgabevorgabe wird angezeigt, wenn eine Zuordnung im XML-Editor im Zuordnu
 
 >[!NOTE]
 >
-HINWEIS: Einige der von einer Ausgabevorgabe verwendeten Funktionen hängen möglicherweise davon ab, dass zuerst eine Baseline oder eine Bedingungsvorgabe entwickelt wird. Wenn diese erforderlich sind, müssen Sie sie mithilfe der entsprechenden Registerkarten konfigurieren.
+>HINWEIS: Einige der von einer Ausgabevorgabe verwendeten Funktionen hängen möglicherweise davon ab, dass zuerst eine Baseline oder eine Bedingungsvorgabe entwickelt wird. Wenn diese erforderlich sind, müssen Sie sie mithilfe der entsprechenden Registerkarten konfigurieren.
 
 1. Wählen Sie eine Baseline-Ausgabevorgabe aus. Beispielsweise kann AEM oder PDF ausgewählt werden, wenn die zu erstellende neue Vorgabe für eine Site oder zur Bereitstellung von Adobe PDF-Inhalten ist.
 
