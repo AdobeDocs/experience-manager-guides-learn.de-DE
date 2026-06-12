@@ -3,11 +3,8 @@ title: Bedingungen
 description: Arbeiten mit Bedingungen in den AEM-Handbüchern
 exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
 TQID: https://experienceleague.adobe.com/RmYnleEQKJitdoHoBKuBDRR1LdFcqmMm4lEDqF3E-vY
-product_v2:
-  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 498
@@ -47,7 +44,7 @@ Beispieldateien, die Sie in dieser Lektion verwenden können, finden Sie in der 
 
 >[!NOTE]
 >
->HINWEIS: Die Konfiguration eines globalen Profils kann eine frühe und effiziente Möglichkeit sein, die Verwendung von Attributen und Werten zu steuern und so einem konsistenten Stil-Handbuch zu folgen.
+HINWEIS: Die Konfiguration eines globalen Profils kann eine frühe und effiziente Möglichkeit sein, die Verwendung von Attributen und Werten zu steuern und so einem konsistenten Stil-Handbuch zu folgen.
 
 ## Zuweisen von Attributen zu Elementen
 
@@ -109,7 +106,7 @@ Subject Scheme maps sind eine spezielle Form der Imagemap und werden von einer K
 
    >[!IMPORTANT]
    >
-   >Wichtig: Die ausgewählte Stammzuordnung muss die Zuordnung sein, die das Themenschema enthält.
+   Wichtig: Die ausgewählte Stammzuordnung muss die Zuordnung sein, die das Themenschema enthält.
 
    ![Benutzervoreinstellungen](images/lesson-13/user-preferences-2.png)
 
