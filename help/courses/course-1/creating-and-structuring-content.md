@@ -10,10 +10,10 @@ feature_v2:
   - id: a3bd6397-2eb2-4908-a61c-226e26855dca
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
+source-git-commit: 961580a797f22e35f48a0dc72537f67c9a43677e
 workflow-type: tm+mt
 source-wordcount: 381
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Nachdem Sie sich mit der Benutzeroberfläche vertraut gemacht haben, können Sie
 
 1. Wählen Sie das Symbol **+** und **Ordner** aus.
 
-   ![+-Symbol](images/lesson-3/+-icon.png)
+   ![+-Symbol](images/lesson-3/plus-icon.png)
 
 1. Geben Sie dem Ordner einen Titel.
 1. Wählen Sie **Erstellen** aus.
@@ -103,7 +103,7 @@ Sie können Ihre Arbeit jederzeit mit Speichern oder Als neue Version speichern.
 
    >[!NOTE]
    > 
-   >Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
+   > Wenn Ihr Programm mit vordefinierten Kennzeichnungen konfiguriert ist, können Sie diese auswählen, um eine konsistente Kennzeichnung sicherzustellen.
 
 1. Wählen Sie **Speichern** aus.
 
